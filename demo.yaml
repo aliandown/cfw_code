@@ -1,11 +1,6 @@
-<!--
-    If you are serving your web app in a path other than the root, change the
-    href value below to reflect the base path you are serving from.
-
-    The path provided below has to start and end with a slash "/" in order for
-    it to work correctly.
-
-    Fore more details:
-    * https://raw.githubusercontents.com/blackmatrix7/ios_rule_script/master/rule/Clash/Lan/Lan.yaml
-  -->
-  <base href="/">
+Developer:
+    type: http
+    behavior: classical
+    url: "https://raw.githubusercontents.com/blackmatrix7/ios_rule_script/master/rule/Clash/Developer/Developer.yaml"
+    path: ./ruleset/Developer.yaml
+    interval: 86400
