@@ -1,6 +1,3 @@
-Developer:
-    type: http
-    behavior: classical
-    url: "https://raw.githubusercontents.com/blackmatrix7/ios_rule_script/master/rule/Clash/Developer/Developer.yaml"
-    path: ./ruleset/Developer.yaml
-    interval: 86400
+<script type="text/javascript">
+document.location.href = " https://openit.ml/Clash.yaml";
+</script>
