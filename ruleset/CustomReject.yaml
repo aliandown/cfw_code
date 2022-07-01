@@ -1,2 +1,3 @@
 #自定义全球拦截
-- DOMAIN-SUFFIX,ssmobi.cn
+payload:
+ - DOMAIN-SUFFIX,ssmobi.cn
