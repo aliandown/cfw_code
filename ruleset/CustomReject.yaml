@@ -1,4 +1,4 @@
 # NAME: 自定义全球拉截
 payload:
  - DOMAIN-SUFFIX,ssmobi.cn
- - DOMAIN-SUFFIX,buglyqq.com
+ - DOMAIN-SUFFIX,bugly.qq.com
