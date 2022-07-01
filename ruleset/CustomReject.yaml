@@ -1,3 +1,3 @@
-#自定义全球拦截
+# NAME: 自定义全球拉截
 payload:
  - DOMAIN-SUFFIX,ssmobi.cn
