@@ -44,3 +44,9 @@ payload:
   - PROCESS-NAME,uTorrent.exe
   - PROCESS-NAME,WebTorrent.exe
   - PROCESS-NAME,Starter.exe
+  - PROCESS-NAME,WinClient.exe
+  - PROCESS-NAME,Starter_updated.exe
+  - PROCESS-NAME,ffprobe.exe
+  - PROCESS-NAME,ffplay.exe
+  - PROCESS-NAME,ffmpeg.exe
+  - PROCESS-NAME,CefSharp.BrowserSubprocess.exe
