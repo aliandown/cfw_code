@@ -50,3 +50,7 @@ payload:
   - PROCESS-NAME,ffplay.exe
   - PROCESS-NAME,ffmpeg.exe
   - PROCESS-NAME,CefSharp.BrowserSubprocess.exe
+  - PROCESS-NAME,uTools.exe
+  - PROCESS-NAME,IDMan.exe
+  - PROCESS-NAME,IDMGrHlp.exe
+  - PROCESS-NAME,IEMonitor.exe
