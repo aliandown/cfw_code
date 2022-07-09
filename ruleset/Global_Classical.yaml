@@ -69,9 +69,6 @@ payload:
   - DOMAIN-SUFFIX,arukas.io
   - DOMAIN-SUFFIX,bamgrid.com
   - DOMAIN-SUFFIX,biggo.com.tw
-  - DOMAIN-SUFFIX,binance.cc
-  - DOMAIN-SUFFIX,binance.me
-  - DOMAIN-SUFFIX,binance.us
   - DOMAIN-SUFFIX,bitstamp.net
   - DOMAIN-SUFFIX,bittrex.com
   - DOMAIN-SUFFIX,bkrtx.com
@@ -4245,8 +4242,6 @@ payload:
   - DOMAIN-SUFFIX,billypan.com
   - DOMAIN-SUFFIX,billzhu.com
   - DOMAIN-SUFFIX,bilyoner.com
-  - DOMAIN-SUFFIX,binance-cn.com
-  - DOMAIN-SUFFIX,binance.com
   - DOMAIN-SUFFIX,binary.com
   - DOMAIN-SUFFIX,bind2.com
   - DOMAIN-SUFFIX,bine.me
@@ -20449,9 +20444,6 @@ payload:
   - DOMAIN-SUFFIX,www.bilifl.com
   - DOMAIN-SUFFIX,www.bilifuli.com
   - DOMAIN-SUFFIX,www.billysorrentino.net
-  - DOMAIN-SUFFIX,www.binance.top
-  - DOMAIN-SUFFIX,www.binancezh.com
-  - DOMAIN-SUFFIX,www.bing.cn
   - DOMAIN-SUFFIX,www.biofos.com
   - DOMAIN-SUFFIX,www.birdbeep.net
   - DOMAIN-SUFFIX,www.bis.doc.gov
