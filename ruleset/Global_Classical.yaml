@@ -60,6 +60,7 @@ payload:
   - DOMAIN-SUFFIX,aiv-delivery.net
   - DOMAIN-SUFFIX,aka.ms
   - DOMAIN-SUFFIX,amazonvideo.com
+  - DOMAIN-SUFFIX,bing.com
   - DOMAIN-SUFFIX,ameba.jp
   - DOMAIN-SUFFIX,amplitude.com
   - DOMAIN-SUFFIX,apkfind.com
