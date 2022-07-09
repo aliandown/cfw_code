@@ -4250,8 +4250,6 @@ payload:
   - DOMAIN-SUFFIX,binary.com
   - DOMAIN-SUFFIX,bind2.com
   - DOMAIN-SUFFIX,bine.me
-  - DOMAIN-SUFFIX,bing.com
-  - DOMAIN-SUFFIX,bing.net
   - DOMAIN-SUFFIX,bingfeng.tw
   - DOMAIN-SUFFIX,binomo.com.br
   - DOMAIN-SUFFIX,bintray.com
