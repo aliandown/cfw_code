@@ -14,4 +14,5 @@ payload:
  - DOMAIN-SUFFIX,binance.top
  - DOMAIN-SUFFIX,binance-cn.com
  - DOMAIN-SUFFIX,bnbstatic.com
+ - DOMAIN-SUFFIX,binance.cloud
 # NAME: 微软服务
