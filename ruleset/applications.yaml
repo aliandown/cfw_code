@@ -54,3 +54,4 @@ payload:
   - PROCESS-NAME,IDMan.exe
   - PROCESS-NAME,IDMGrHlp.exe
   - PROCESS-NAME,IEMonitor.exe
+  - PROCESS-NAME,Binance.exe
