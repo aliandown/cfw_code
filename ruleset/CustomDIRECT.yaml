@@ -10,5 +10,8 @@ payload:
  - DOMAIN-SUFFIX,titan007.com
  - DOMAIN-SUFFIX,1xbet.com
  - DOMAIN-SUFFIX,binance.com
+ - DOMAIN-SUFFIX,binance.me
+ - DOMAIN-SUFFIX,binance.top
+ - DOMAIN-SUFFIX,binance-cn.com
  - DOMAIN-SUFFIX,bnbstatic.com
 # NAME: 微软服务
