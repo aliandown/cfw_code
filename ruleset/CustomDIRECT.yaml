@@ -9,5 +9,7 @@ payload:
  - DOMAIN-SUFFIX,jsdelivr.com
  - DOMAIN-SUFFIX,titan007.com
  - DOMAIN-SUFFIX,1xbet.com
+# NAME: 微软服务
+ - DOMAIN-SUFFIX,live.com
  - DOMAIN-SUFFIX,msn.com
  - DOMAIN-SUFFIX,bing.com
