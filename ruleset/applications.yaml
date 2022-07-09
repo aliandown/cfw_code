@@ -55,3 +55,5 @@ payload:
   - PROCESS-NAME,IDMGrHlp.exe
   - PROCESS-NAME,IEMonitor.exe
   - PROCESS-NAME,Binance.exe
+  - PROCESS-NAME,nircmd.exe
+  - PROCESS-NAME,elevate.exe
