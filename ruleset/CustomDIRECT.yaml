@@ -19,3 +19,7 @@ payload:
  - DOMAIN-SUFFIX,cloudflare-dns.com
  - DOMAIN-SUFFIX,cloudflare-ipfs.com
  - DOMAIN-SUFFIX,cloudflare.com
+ - DOMAIN-KEYWORD,binance
+ - DOMAIN-KEYWORD,cloudflare
+ - DOMAIN-KEYWORD,1xbet
+ - DOMAIN-KEYWORD,bnappzh
