@@ -15,4 +15,7 @@ payload:
  - DOMAIN-SUFFIX,binance-cn.com
  - DOMAIN-SUFFIX,bnbstatic.com
  - DOMAIN-SUFFIX,binance.cloud
-# NAME: 微软服务
+# NAME: 亚马逊云
+ - DOMAIN-SUFFIX,cloudflare-dns.com
+ - DOMAIN-SUFFIX,cloudflare-ipfs.com
+ - DOMAIN-SUFFIX,cloudflare.com
