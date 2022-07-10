@@ -5681,8 +5681,7 @@ payload:
   - DOMAIN-SUFFIX,cloudfare.com
   - DOMAIN-SUFFIX,cloudfire.com
   - DOMAIN-SUFFIX,cloudfoundry.com
-  - DOMAIN-SUFFIX,cloudfront.glb.cellopoint.com
-  - DOMAIN-SUFFIX,cloudfront.net
+  - DOMAIN-SUFFIX,cloudfront.glb.cellopoint.co
   - DOMAIN-SUFFIX,cloudgarage.jp
   - DOMAIN-SUFFIX,cloudmagic.com
   - DOMAIN-SUFFIX,cloudmosa.com
