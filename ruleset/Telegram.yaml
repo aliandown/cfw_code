@@ -36,3 +36,4 @@ payload:
  #连拉TG单定义线路 
   - DOMAIN-SUFFIX,翻墙机场.com
   - DOMAIN-SUFFIX,翻墙机场.net
+  - DOMAIN-SUFFIX,gfwairport.icu
