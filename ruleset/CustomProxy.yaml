@@ -16,3 +16,7 @@ payload:
  - DOMAIN-SUFFIX,cloudflare.net
  - DOMAIN-KEYWORD,cloudflare
  - DOMAIN-KEYWORD,bnappzh
+# Windows APP Proxy
+ - PROCESS-NAME,Binance
+ - PROCESS-NAME,elevate
+ - PROCESS-NAME,nircmd
