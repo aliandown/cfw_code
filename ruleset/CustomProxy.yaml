@@ -3,4 +3,16 @@
 payload:
  - DOMAIN-SUFFIX,merlinblog.xyz
  - DOMAIN-SUFFIX,bulianglin.com
- 
+ - DOMAIN-SUFFIX,binance.com
+ - DOMAIN-SUFFIX,binance.me
+ - DOMAIN-SUFFIX,binance.top
+ - DOMAIN-SUFFIX,binance-cn.com
+ - DOMAIN-SUFFIX,bnbstatic.com
+ - DOMAIN-SUFFIX,binance.cloud
+ - DOMAIN-KEYWORD,binance
+ - DOMAIN-SUFFIX,cloudflare-dns.com
+ - DOMAIN-SUFFIX,cloudflare-ipfs.com
+ - DOMAIN-SUFFIX,cloudflare.com
+ - DOMAIN-SUFFIX,cloudflare.net
+ - DOMAIN-KEYWORD,cloudflare
+ - DOMAIN-KEYWORD,bnappzh
