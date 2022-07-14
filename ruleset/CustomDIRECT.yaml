@@ -9,18 +9,5 @@ payload:
  - DOMAIN-SUFFIX,jsdelivr.com
  - DOMAIN-SUFFIX,titan007.com
  - DOMAIN-SUFFIX,1xbet.com
- - DOMAIN-SUFFIX,binance.com
- - DOMAIN-SUFFIX,binance.me
- - DOMAIN-SUFFIX,binance.top
- - DOMAIN-SUFFIX,binance-cn.com
- - DOMAIN-SUFFIX,bnbstatic.com
- - DOMAIN-SUFFIX,binance.cloud
-# NAME: 亚马逊云
- - DOMAIN-SUFFIX,cloudflare-dns.com
- - DOMAIN-SUFFIX,cloudflare-ipfs.com
- - DOMAIN-SUFFIX,cloudflare.com
- - DOMAIN-SUFFIX,cloudflare.net
- - DOMAIN-KEYWORD,binance
- - DOMAIN-KEYWORD,cloudflare
  - DOMAIN-KEYWORD,1xbet
- - DOMAIN-KEYWORD,bnappzh
+ 
