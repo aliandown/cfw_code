@@ -54,7 +54,6 @@ payload:
   - PROCESS-NAME,IDMan
   - PROCESS-NAME,IDMGrHlp
   - PROCESS-NAME,IEMonitor
-  - PROCESS-NAME,Binance
   - PROCESS-NAME,nircmd
   - PROCESS-NAME,elevate
   - PROCESS-NAME,OUTLOOK
