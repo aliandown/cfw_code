@@ -21,3 +21,4 @@ payload:
  - PROCESS-NAME,elevate
  - PROCESS-NAME,nircmd
  - PROCESS-NAME,Huobi
+ - PROCESS-NAME,AICoin.exe
