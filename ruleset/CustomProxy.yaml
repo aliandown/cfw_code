@@ -20,9 +20,12 @@ payload:
  - DOMAIN-SUFFIX,cloudflare.net
  - DOMAIN-KEYWORD,cloudflare
  - DOMAIN-KEYWORD,bnappzh
+ - DOMAIN-KEYWORD,keeflys
+ - DOMAIN-KEYWORD,emotn
 # Windows APP Proxy
  - PROCESS-NAME,Binance
  - PROCESS-NAME,elevate
  - PROCESS-NAME,nircmd
  - PROCESS-NAME,Huobi
  - PROCESS-NAME,AICoin.exe
+ - PROCESS-NAME,emotn
