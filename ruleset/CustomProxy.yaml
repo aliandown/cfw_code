@@ -18,6 +18,7 @@ payload:
  - DOMAIN-SUFFIX,cloudflare-ipfs.com
  - DOMAIN-SUFFIX,cloudflare.com
  - DOMAIN-SUFFIX,cloudflare.net
+ - DOMAIN-SUFFIX,keeflys.com
  - DOMAIN-KEYWORD,cloudflare
  - DOMAIN-KEYWORD,bnappzh
  - DOMAIN-KEYWORD,keeflys
