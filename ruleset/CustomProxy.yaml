@@ -23,6 +23,8 @@ payload:
  - DOMAIN-KEYWORD,bnappzh
  - DOMAIN-KEYWORD,keeflys
  - DOMAIN-KEYWORD,emotn
+# 以太坊 Proxy
+ - DOMAIN-SUFFIX,infura.io
 # Windows APP Proxy
  - PROCESS-NAME,Binance
  - PROCESS-NAME,elevate
