@@ -460,6 +460,7 @@ payload:
  - DOMAIN-SUFFIX,pagead.l.google.com
  - DOMAIN-SUFFIX,service.urchin.com
  - DOMAIN-SUFFIX,googleads.g.doubleclick.net
+ - DOMAIN-SUFFIX,g.doubleclick.net
 
 # JD
  - DOMAIN-SUFFIX,ads.union.jd.com
