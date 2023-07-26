@@ -459,6 +459,7 @@ payload:
  - DOMAIN-SUFFIX,pagead.google.com
  - DOMAIN-SUFFIX,pagead.l.google.com
  - DOMAIN-SUFFIX,service.urchin.com
+ - DOMAIN-SUFFIX,googleads.g.doubleclick.net
 
 # JD
  - DOMAIN-SUFFIX,ads.union.jd.com
@@ -1144,3 +1145,4 @@ payload:
  - DOMAIN-SUFFIX,tralog.ganji.com
  - DOMAIN-SUFFIX,up.qingdaonews.com
  - DOMAIN-SUFFIX,vaserviece.10jqka.com.cn
+ - DOMAIN-SUFFIX,sb.scorecardresearch.com
