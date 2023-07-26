@@ -459,9 +459,9 @@ payload:
  - DOMAIN-SUFFIX,pagead.google.com
  - DOMAIN-SUFFIX,pagead.l.google.com
  - DOMAIN-SUFFIX,service.urchin.com
- - DOMAIN-SUFFIX,googleads.g.doubleclick.net
- - DOMAIN-SUFFIX,g.doubleclick.net
- - DOMAIN-SUFFIX,static.doubleclick.net
+ - DOMAIN,googleads.g.doubleclick.net
+ - DOMAIN,g.doubleclick.net
+ - DOMAIN,static.doubleclick.net
 
 # JD
  - DOMAIN-SUFFIX,ads.union.jd.com
