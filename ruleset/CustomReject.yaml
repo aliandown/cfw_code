@@ -462,6 +462,7 @@ payload:
  - DOMAIN,googleads.g.doubleclick.net
  - DOMAIN,g.doubleclick.net
  - DOMAIN,static.doubleclick.net
+ - DOMAIN,googletagmanager.com
 
 # JD
  - DOMAIN-SUFFIX,ads.union.jd.com
