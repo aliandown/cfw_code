@@ -25,6 +25,7 @@ payload:
  - DOMAIN-KEYWORD,keeflys
  - DOMAIN-KEYWORD,emotn
  - DOMAIN-SUFFIX,6868c.cc
+ - DOMAIN-SUFFIX,bulianglin.com
 # 以太坊 Proxy
  - DOMAIN-SUFFIX,infura.io
 # Windows APP Proxy
