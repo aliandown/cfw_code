@@ -26,6 +26,8 @@ payload:
  - DOMAIN-KEYWORD,emotn
  - DOMAIN-SUFFIX,6868c.cc
  - DOMAIN-SUFFIX,bulianglin.com
+ - DOMAIN-SUFFIX,proton.me
+ - DOMAIN-SUFFIX,protonvpn.com
 # 以太坊 Proxy
  - DOMAIN-SUFFIX,infura.io
 # Windows APP Proxy
@@ -35,3 +37,4 @@ payload:
  - PROCESS-NAME,Huobi
  - PROCESS-NAME,AICoin.exe
  - PROCESS-NAME,emotn
+ - PROCESS-NAME,protonvpn
