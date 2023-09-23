@@ -4,6 +4,7 @@
 # IP-CIDR: 22
 # TOTAL: 110
 payload:
+# 国外DNS解析
   - DOMAIN,1dot1dot1dot1.cloudflare-dns.com
   - DOMAIN,8888.google
   - DOMAIN,adblock.mydns.network
@@ -110,4 +111,6 @@ payload:
   - IP-CIDR,8.8.8.8/32
   - IP-CIDR,101.101.101.101/32
   - IP-CIDR,101.102.103.104/32
+# Cloudflare 服务器IP范围
+  - IP-CIDR,104.16.240.0/20
   
