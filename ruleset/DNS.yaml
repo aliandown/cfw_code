@@ -114,4 +114,5 @@ payload:
   - IP-CIDR,101.102.103.104/32
 # Cloudflare 服务器IP范围
   - IP-CIDR,104.16.240.0/20
+  - IP-CIDR,104.28.197.0/24
   
