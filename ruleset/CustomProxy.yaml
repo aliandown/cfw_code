@@ -38,3 +38,6 @@ payload:
  - PROCESS-NAME,AICoin.exe
  - PROCESS-NAME,emotn
  - PROCESS-NAME,protonvpn
+# 国外测速
+- DOMAIN-SUFFIX,speedtest.net
+- DOMAIN-SUFFIX,fiber.google.com
