@@ -1,15 +1,15 @@
 # NAME: Developer
 payload:
- - DOMAIN-SUFFIX,hamibot.com
- - DOMAIN-SUFFIX,razord.top
- - DOMAIN-SUFFIX,anl.ink
- - DOMAIN-SUFFIX,nelreports.net
- - DOMAIN-SUFFIX,baiduyun.wiki
- - DOMAIN-SUFFIX,greasyfork.org
- - DOMAIN-SUFFIX,jsdelivr.com
- - DOMAIN-SUFFIX,titan007.com
- - DOMAIN-SUFFIX,1xbet.com
- - DOMAIN-KEYWORD,1xbet
+  - DOMAIN-SUFFIX,hamibot.com
+  - DOMAIN-SUFFIX,razord.top
+  - DOMAIN-SUFFIX,anl.ink
+  - DOMAIN-SUFFIX,nelreports.net
+  - DOMAIN-SUFFIX,baiduyun.wiki
+  - DOMAIN-SUFFIX,greasyfork.org
+  - DOMAIN-SUFFIX,jsdelivr.com
+  - DOMAIN-SUFFIX,titan007.com
+  - DOMAIN-SUFFIX,1xbet.com
+  - DOMAIN-KEYWORD,1xbet
 # 皇冠网址
- - DOMAIN-SUFFIX,llnwd.net
- - DOMAIN-KEYWORD,llnwd
+  - DOMAIN-SUFFIX,llnwd.net
+  - DOMAIN-KEYWORD,llnwd
