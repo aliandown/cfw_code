@@ -36,8 +36,11 @@ payload:
   - PROCESS-NAME,nircmd
   - PROCESS-NAME,Huobi
   - PROCESS-NAME,AICoin.exe
- - PROCESS-NAME,emotn
- - PROCESS-NAME,protonvpn
+  - PROCESS-NAME,emotn
+  - PROCESS-NAME,protonvpn
 # 国外测速
- - DOMAIN-SUFFIX,speedtest.net
- - DOMAIN-SUFFIX,fiber.google.com
+  - DOMAIN-SUFFIX,speedtest.net
+  - DOMAIN-SUFFIX,fiber.google.com
+# 解锁地区
+  - DOMAIN-SUFFIX,pandora.com
+  - PROCESS-NAME,pandora
