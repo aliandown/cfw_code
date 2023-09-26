@@ -1,4 +1,4 @@
-# NAME: Developer
+ # NAME: Developer
 # REPO: https://github.com/blackmatrix7/ios_rule_script
 payload:
  - DOMAIN-SUFFIX,intel.com
@@ -39,4 +39,5 @@ payload:
  - PROCESS-NAME,emotn
  - PROCESS-NAME,protonvpn
 # 国外测速
-- DOMAIN-SUFFIX,speedtest.net
+ - DOMAIN-SUFFIX,speedtest.net
+ - DOMAIN-SUFFIX,fiber.google.com
