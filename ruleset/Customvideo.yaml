@@ -1,0 +1,17 @@
+# NAME: Developer
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+payload:
+ - DOMAIN-SUFFIX,xvideos.com
+ - DOMAIN-SUFFIX,pornhub.com
+ - DOMAIN-SUFFIX,xhamster.com
+ - DOMAIN-SUFFIX,livejasmin.com
+ - DOMAIN-SUFFIX,youporn.com
+ - DOMAIN-SUFFIX,chaturbate.com
+ - DOMAIN-SUFFIX,spankbang.com
+ - DOMAIN-SUFFIX,redtube.com
+ - DOMAIN-SUFFIX,xvxn.cc
+ - DOMAIN-SUFFIX,xnxx.com
+ - DOMAIN-SUFFIX,85tube.com
+ - DOMAIN-SUFFIX,javdb.com
+ - DOMAIN-KEYWORD,xvideos
+ - DOMAIN-KEYWORD,javdb
