@@ -50,7 +50,7 @@ payload:
 # Google LLC 服务器IP范围
   - IP-CIDR,108.177.15.0/24
   - IP-CIDR,142.250.200.0/21
-  - IP-CIDR,172.217.172.0/22
+  - IP-CIDR,172.217.0.0/16
 # Cloudflare 服务器IP范围
   - IP-CIDR,104.28.192.0/21
 # Youtube 服务器IP范围
