@@ -1,0 +1,37 @@
+# 日志设置
+log:
+  level: info   # 日志级别。可选 "debug" "info" "warn" "error"。默认 "info"。
+
+# 插件设置
+plugins:
+  - tag: "blocklist"                # 定义一个tag，用来装载广告主机列表
+    type: "domain_set"              # 因为是域名，不是ip，所以type是domain_set
+    args:
+      files:                        # 从文本文件载入
+        - "ad-hosts.txt"            
+
+  - tag: "resolve"
+    type: "forward"
+    args:
+      concurrent: 1 # 并发1: 从下面的upstreams随机选取一个来请求
+                    # 可以根据需要设置，比如设成2就会同时请求2个upstream
+      upstreams:    # []upstream, 上游服务器。至少要配置一个。
+        - tag: alidns_udp # 这是阿里的UDP协议DNS服务器
+          addr: "223.5.5.5"
+        - tag: ali_doh  # 这是阿里的DoH协议DNS服务器
+          addr: "https://dns.alidns.com/dns-query"
+          dial_addr: "223.5.5.5" # 对于addr是域名的，就要指定域名的IP地址
+  
+  - tag: "main_sequence"
+    type: "sequence"
+    args:  # []rule
+      - matches:                
+        - qname $blocklist      # 匹配广告域名
+        exec: reject 3          # DNS回应代码3: NXDOMAIN
+      - exec: $resolve          # 其他的交给解析插件去解析 
+  
+  - tag: "udp"
+    type: "udp_server"
+    args:
+      entry: main_sequence  # 可执行插件的 tag。
+      listen: 127.0.0.1:53 # 监听地址。
