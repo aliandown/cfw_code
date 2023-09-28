@@ -616,6 +616,7 @@ payload:
   - DOMAIN-SUFFIX,buluo.qq.com
   - DOMAIN-SUFFIX,gdt.qq.com
   - DOMAIN-SUFFIX,l.qq.com
+  - DOMAIN-SUFFIX,e.qq.com
   - DOMAIN-SUFFIX,monitor.qq.com
   - DOMAIN-SUFFIX,pingma.qq.com
   - DOMAIN-SUFFIX,pingtcss.qq.com
