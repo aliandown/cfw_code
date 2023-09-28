@@ -121,6 +121,5 @@ payload:
   - IP-CIDR,5.28.195.0/24
   - IP-CIDR,108.0.0.0/8
 # Cloudflare 服务器IP范围
-  - IP-CIDR,104.16.240.0/20
-  - IP-CIDR,104.28.197.0/24
+  - IP-CIDR,104.0.0.0/8
   
