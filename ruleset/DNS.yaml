@@ -120,7 +120,7 @@ payload:
   - IP-CIDR,94.140.15.16/32
   - IP-CIDR,5.28.195.0/24
 # Google LLC 服务器IP范围
-  - IP-CIDR,108.0.0.0/8
+  - IP-CIDR,108.177.15.0/24
 # Cloudflare 服务器IP范围
-  - IP-CIDR,104.0.0.0/8
+  - IP-CIDR,104.28.0.0/16
   
