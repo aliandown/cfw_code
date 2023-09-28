@@ -45,6 +45,8 @@ payload:
 # 解锁地区
   - DOMAIN-SUFFIX,pandora.com
   - PROCESS-NAME,pandora
+# 新加坡微软云 服务器IP范围  
+  - IP-CIDR,20.198.162.78/32
 # Google LLC 服务器IP范围
   - IP-CIDR,108.177.15.0/24
   - IP-CIDR,142.250.200.0/21
