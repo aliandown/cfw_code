@@ -1,6 +1,7 @@
 # NAME: Developer
 # REPO: https://github.com/blackmatrix7/ios_rule_script
 payload:
+  - DOMAIN-SUFFIX,vjfvyzfhhf.xyz 
   - DOMAIN-SUFFIX,intel.com
   - DOMAIN-SUFFIX,swty.top
   - DOMAIN-SUFFIX,swty.buzz
@@ -44,3 +45,9 @@ payload:
 # 解锁地区
   - DOMAIN-SUFFIX,pandora.com
   - PROCESS-NAME,pandora
+# Google LLC 服务器IP范围
+  - IP-CIDR,108.177.15.0/24
+  - IP-CIDR,142.250.200.0/21
+  - IP-CIDR,172.217.172.0/22
+# Cloudflare 服务器IP范围
+  - IP-CIDR,104.28.192.0/21
