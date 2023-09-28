@@ -51,3 +51,5 @@ payload:
   - IP-CIDR,172.217.172.0/22
 # Cloudflare 服务器IP范围
   - IP-CIDR,104.28.192.0/21
+# Youtube 服务器IP范围
+  - IP-CIDR,142.250.207.0/24
