@@ -31,8 +31,6 @@ payload:
   - DOMAIN-SUFFIX,protonvpn.com
 # 以太坊 Proxy
   - DOMAIN-SUFFIX,infura.io
-# 钱包虚拟卡 Proxy
-  - DOMAIN-SUFFIX,onekey.so
 # Windows APP Proxy
   - PROCESS-NAME,Binance
   - PROCESS-NAME,elevate
