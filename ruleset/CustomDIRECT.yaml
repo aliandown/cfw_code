@@ -13,3 +13,5 @@ payload:
 # 皇冠网址
   - DOMAIN-SUFFIX,llnwd.net
   - DOMAIN-KEYWORD,llnwd
+# 微软网址
+  - DOMAIN-SUFFIX,live.com
