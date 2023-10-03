@@ -29,8 +29,6 @@ payload:
   - DOMAIN-SUFFIX,bulianglin.com
   - DOMAIN-SUFFIX,proton.me
   - DOMAIN-SUFFIX,protonvpn.com
-  - PROCESS-NAME,biocamedia
-  - PROCESS-NAME,hoanoola
 # 以太坊 Proxy
   - DOMAIN-SUFFIX,infura.io
 # Windows APP Proxy
