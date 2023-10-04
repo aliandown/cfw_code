@@ -29,6 +29,8 @@ payload:
   - DOMAIN-SUFFIX,bulianglin.com
   - DOMAIN-SUFFIX,proton.me
   - DOMAIN-SUFFIX,protonvpn.com
+# 谷歌 app
+  - DOMAIN-SUFFIX,gmail.com
 # 以太坊 Proxy
   - DOMAIN-SUFFIX,infura.io
 # Windows APP Proxy
@@ -51,6 +53,7 @@ payload:
   - IP-CIDR,108.177.15.0/24
   - IP-CIDR,142.250.200.0/21
   - IP-CIDR,172.217.0.0/16
+  - IP-CIDR,64.233.167.108
 # Cloudflare 服务器IP范围
   - IP-CIDR,104.28.192.0/21
 # Youtube 服务器IP范围
