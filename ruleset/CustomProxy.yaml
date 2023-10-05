@@ -53,7 +53,7 @@ payload:
   - IP-CIDR,108.177.15.0/24
   - IP-CIDR,142.250.200.0/21
   - IP-CIDR,172.217.0.0/16
-  - IP-CIDR,64.233.167.108
+  - IP-CIDR,64.233.167.0/24
 # Cloudflare 服务器域名IP范围
   - DOMAIN-KEYWORD,cloudflare
   - DOMAIN-SUFFIX,cloudflare-dns.com
