@@ -3,25 +3,9 @@
 payload:
   - DOMAIN-SUFFIX,vjfvyzfhhf.xyz 
   - DOMAIN-SUFFIX,intel.com
-  - DOMAIN-SUFFIX,swty.top
-  - DOMAIN-SUFFIX,swty.buzz
-  - DOMAIN-SUFFIX,swty.cloud
-  - DOMAIN-SUFFIX,swty.club
   - DOMAIN-SUFFIX,merlinblog.xyz
-  - DOMAIN-SUFFIX,bulianglin.com
-  - DOMAIN-SUFFIX,binance.com
-  - DOMAIN-SUFFIX,binance.me
-  - DOMAIN-SUFFIX,binance.top
-  - DOMAIN-SUFFIX,binance-cn.com
-  - DOMAIN-SUFFIX,bnbstatic.com
-  - DOMAIN-SUFFIX,binance.cloud
-  - DOMAIN-KEYWORD,binance
-  - DOMAIN-SUFFIX,cloudflare-dns.com
-  - DOMAIN-SUFFIX,cloudflare-ipfs.com
-  - DOMAIN-SUFFIX,cloudflare.com
-  - DOMAIN-SUFFIX,cloudflare.net
-  - DOMAIN-SUFFIX,keeflys.com
-  - DOMAIN-KEYWORD,cloudflare
+  - DOMAIN-SUFFIX,bulianglin.com  
+  - DOMAIN-SUFFIX,keeflys.com 
   - DOMAIN-KEYWORD,bnappzh
   - DOMAIN-KEYWORD,keeflys
   - DOMAIN-KEYWORD,emotn
@@ -29,7 +13,23 @@ payload:
   - DOMAIN-SUFFIX,bulianglin.com
   - DOMAIN-SUFFIX,proton.me
   - DOMAIN-SUFFIX,protonvpn.com
-# 谷歌 app
+# 区块链 Proxy
+  - DOMAIN-SUFFIX,binance.com
+  - DOMAIN-SUFFIX,binance.me
+  - DOMAIN-SUFFIX,binance.top
+  - DOMAIN-SUFFIX,binance-cn.com
+  - DOMAIN-SUFFIX,bnbstatic.com
+  - DOMAIN-SUFFIX,binance.cloud
+  - DOMAIN-KEYWORD,binance
+# 机场 Proxy
+  - DOMAIN-KEYWORD,一元机场
+  - DOMAIN-KEYWORD,shafen
+  - DOMAIN-KEYWORD,三分机场
+  - DOMAIN-SUFFIX,swty.top
+  - DOMAIN-SUFFIX,swty.buzz
+  - DOMAIN-SUFFIX,swty.cloud
+  - DOMAIN-SUFFIX,swty.club
+# 谷歌 app proxy
   - DOMAIN-SUFFIX,gmail.com
 # 以太坊 Proxy
   - DOMAIN-SUFFIX,infura.io
@@ -41,20 +41,25 @@ payload:
   - PROCESS-NAME,AICoin.exe
   - PROCESS-NAME,emotn
   - PROCESS-NAME,protonvpn
-# 国外测速
+# 国外测速 Proxy
   - DOMAIN-SUFFIX,speedtest.net
   - DOMAIN-SUFFIX,fiber.google.com
-# 解锁地区
+# 解锁地区 Proxy
   - DOMAIN-SUFFIX,pandora.com
   - PROCESS-NAME,pandora
-# 新加坡微软云 服务器IP范围  
+# 新加坡微软云 服务器域名IP范围  
   - IP-CIDR,20.198.162.78/32
-# Google LLC 服务器IP范围
+# Google LLC 服务器域名IP范围
   - IP-CIDR,108.177.15.0/24
   - IP-CIDR,142.250.200.0/21
   - IP-CIDR,172.217.0.0/16
   - IP-CIDR,64.233.167.108
-# Cloudflare 服务器IP范围
+# Cloudflare 服务器域名IP范围
+  - DOMAIN-KEYWORD,cloudflare
+  - DOMAIN-SUFFIX,cloudflare-dns.com
+  - DOMAIN-SUFFIX,cloudflare-ipfs.com
+  - DOMAIN-SUFFIX,cloudflare.com
+  - DOMAIN-SUFFIX,cloudflare.net
   - IP-CIDR,104.28.192.0/21
 # Youtube 服务器IP范围
   - IP-CIDR,142.250.207.0/24
