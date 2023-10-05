@@ -23,7 +23,7 @@ payload:
   - DOMAIN-KEYWORD,binance
 # 机场 Proxy
   - DOMAIN-KEYWORD,一元机场
-  - DOMAIN-KEYWORD,shafen
+  - DOMAIN-KEYWORD,sanfen
   - DOMAIN-KEYWORD,三分机场
   - DOMAIN-SUFFIX,swty.top
   - DOMAIN-SUFFIX,swty.buzz
