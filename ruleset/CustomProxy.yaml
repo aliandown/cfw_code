@@ -71,7 +71,7 @@ payload:
   - DOMAIN-SUFFIX,cloudflare-ipfs.com
   - DOMAIN-SUFFIX,cloudflare.com
   - DOMAIN-SUFFIX,cloudflare.net
-  - IP-CIDR,104.28.192.0/21
+  - IP-CIDR,104.28.192.0/24
 # Youtube 服务器IP范围
   - IP-CIDR,142.250.207.0/24
 
