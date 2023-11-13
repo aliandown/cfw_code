@@ -16,3 +16,5 @@ payload:
   - DOMAIN-KEYWORD,llnwd
 # 微软网址
   - DOMAIN-SUFFIX,live.com
+# github 第三方镜像
+  - DOMAIN-SUFFIX,ghproxy.com
