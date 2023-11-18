@@ -18,3 +18,5 @@ payload:
   - DOMAIN-SUFFIX,live.com
 # github 第三方镜像
   - DOMAIN-SUFFIX,ghproxy.com
+# 足球直播
+  - DOMAIN-SUFFIX,xinzuqiu.com
