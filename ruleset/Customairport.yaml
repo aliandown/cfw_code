@@ -3,3 +3,5 @@ payload:
 # 博主博客
   - DOMAIN-SUFFIX,bulianglin.com
   - DOMAIN-KEYWORD,bulianglin
+# 其他网站
+  - DOMAIN-SUFFIX,6868c.cc
