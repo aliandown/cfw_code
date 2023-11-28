@@ -14,15 +14,22 @@ payload:
   - DOMAIN-KEYWORD,1xbet
 # 皇冠网址
   - DOMAIN-SUFFIX,f288880.com
+  - DOMAIN-KEYWORD,f288880
   - DOMAIN-SUFFIX,hga027.com
+  - DOMAIN-KEYWORD,hga027.com
   - DOMAIN-SUFFIX,llnwd.net
   - DOMAIN-KEYWORD,llnwd
 # 微软网址
   - DOMAIN-SUFFIX,live.com
 # github 第三方镜像
   - DOMAIN-SUFFIX,ghproxy.com
+  - DOMAIN-KEYWORD,ghproxy
 # 足球直播
   - DOMAIN-SUFFIX,xinzuqiu.com
   - DOMAIN-SUFFIX,365ball.com
   - DOMAIN-SUFFIX,wqzb01.com
   - DOMAIN-SUFFIX,wqzb.com
+  - DOMAIN-KEYWORD,xinzuqiu
+  - DOMAIN-KEYWORD,365ball
+  - DOMAIN-KEYWORD,wqzb01
+  - DOMAIN-KEYWORD,wqzb
