@@ -3,12 +3,10 @@
 payload:
   - DOMAIN-SUFFIX,intel.com
   - DOMAIN-SUFFIX,merlinblog.xyz
-  - DOMAIN-SUFFIX,bulianglin.com  
   - DOMAIN-SUFFIX,keeflys.com 
   - DOMAIN-KEYWORD,bnappzh
   - DOMAIN-KEYWORD,keeflys
   - DOMAIN-KEYWORD,emotn
-  - DOMAIN-SUFFIX,6868c.cc
   - DOMAIN-SUFFIX,bulianglin.com
   - DOMAIN-SUFFIX,proton.me
   - DOMAIN-SUFFIX,protonvpn.com
