@@ -1,4 +1,5 @@
 # NAME: Customairport
 payload:
 # 博主博客
+  - DOMAIN-SUFFIX,bulianglin.com
   - DOMAIN-KEYWORD,bulianglin
