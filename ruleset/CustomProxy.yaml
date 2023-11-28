@@ -59,4 +59,5 @@ payload:
   - IP-CIDR,104.28.192.0/24
 # Youtube 服务器IP范围
   - IP-CIDR,142.250.207.0/24
-
+# OpenDNS 服务器IP范围
+  - IP-CIDR,146.112.41.0/24
