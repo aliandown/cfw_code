@@ -22,3 +22,6 @@ payload:
   - DOMAIN-SUFFIX,ghproxy.com
 # 足球直播
   - DOMAIN-SUFFIX,xinzuqiu.com
+  - DOMAIN-SUFFIX,365ball.com
+  - DOMAIN-SUFFIX,wqzb01.com
+  - DOMAIN-SUFFIX,wqzb.com
