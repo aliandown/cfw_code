@@ -13,6 +13,7 @@ payload:
   - DOMAIN-SUFFIX,1xbet.com
   - DOMAIN-KEYWORD,1xbet
 # 皇冠网址
+  - DOMAIN-SUFFIX,f288880.com
   - DOMAIN-SUFFIX,hga027.com
   - DOMAIN-SUFFIX,llnwd.net
   - DOMAIN-KEYWORD,llnwd
