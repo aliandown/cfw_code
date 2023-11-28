@@ -3,5 +3,6 @@ payload:
 # 博主博客
   - DOMAIN-SUFFIX,bulianglin.com
   - DOMAIN-KEYWORD,bulianglin
+  - IP-CIDR,104.16.0.0/12
 # 其他网站
   - DOMAIN-SUFFIX,6868c.cc
