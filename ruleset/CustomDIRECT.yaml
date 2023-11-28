@@ -20,6 +20,7 @@ payload:
   - DOMAIN-SUFFIX,llnwd.net
   - DOMAIN-KEYWORD,llnwd
   - IP-CIDR,205.201.4.0/24
+  - IP-CIDR,125.252.69.0/24
 # 微软网址
   - DOMAIN-SUFFIX,live.com
 # github 第三方镜像
