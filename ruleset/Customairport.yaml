@@ -1,9 +1,19 @@
 # NAME: Customairport
 payload:
-# 博主博客
+# 博主博客 不良林博客
   - DOMAIN-SUFFIX,bulianglin.com
   - DOMAIN-KEYWORD,bulianglin
-  - IP-CIDR,104.16.0.0/12
-  - IP-CIDR,172.64.0.0/13
+  - IP-CIDR,104.21.78.23/32
+  - IP-CIDR,172.67.215.25/32
+  - IP-CIDR,221.228.32.13/32
+  - IP-CIDR,188.114.96.3/32
+  - IP-CIDR,188.114.96.0/32
+  - IP-CIDR,188.114.97.0/32
+  - IP-CIDR,188.114.97.3/32
+  - IP-CIDR,188.114.97.9/32
+  - IP-CIDR,188.114.96.9/32
+  - IP-CIDR,188.114.97.13/32
+  - IP-CIDR,188.114.96.21/32
+  - IP-CIDR,221.228.32.13/32
 # 其他网站
   - DOMAIN-SUFFIX,6868c.cc
