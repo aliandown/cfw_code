@@ -4,5 +4,6 @@ payload:
   - DOMAIN-SUFFIX,bulianglin.com
   - DOMAIN-KEYWORD,bulianglin
   - IP-CIDR,104.16.0.0/12
+  - IP-CIDR,172.64.0.0/13
 # 其他网站
   - DOMAIN-SUFFIX,6868c.cc
