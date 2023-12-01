@@ -51,10 +51,14 @@ payload:
   - DOMAIN-KEYWORD,ghproxy
 # 足球直播
   - DOMAIN-SUFFIX,xinzuqiu.com
+  - DOMAIN-KEYWORD,wqzb01
+  - IP-CIDR,154.197.2.239/32
+  - IP-CIDR,154.197.7.98/32
+  - IP-CIDR,154.197.2.240/32
+# 其他足球直播
   - DOMAIN-SUFFIX,365ball.com
   - DOMAIN-SUFFIX,wqzb01.com
   - DOMAIN-SUFFIX,wqzb.com
   - DOMAIN-KEYWORD,xinzuqiu
   - DOMAIN-KEYWORD,365ball
-  - DOMAIN-KEYWORD,wqzb01
   - DOMAIN-KEYWORD,wqzb
