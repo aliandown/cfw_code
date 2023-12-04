@@ -67,3 +67,4 @@ payload:
   - IP-CIDR,146.112.41.0/24
 # xvideo 服务器IP范围
   - IP-CIDR,185.88.181.0/27
+  - IP-CIDR,184.50.87.0/27
