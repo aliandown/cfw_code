@@ -66,17 +66,21 @@
 
 #欢太
 
-@@||onewsvod.com^
+||onewsvod.com^
 
-@@||pgdt.gtimg.cn^
+||client-uc.heytapmobi.com^
 
-@@||store.heytapimage.com
+||pgdt.gtimg.cn^
 
-@@||heytapimage.com^
+||heytapmobi.com^
 
-@@||huluxia.com^
+||store.heytapimage.com^
 
-@@||pan.quark.cn^
+||heytapimage.com^
+
+||huluxia.com^
+
+||pan.quark.cn^
 
 #拼多多
 
