@@ -68,11 +68,7 @@
 
 @@||onewsvod.com^
 
-#@@||client-uc.heytapmobi.com^
-
 @@||pgdt.gtimg.cn^
-
-@@||heytapmobi.com
 
 @@||store.heytapimage.com
 
