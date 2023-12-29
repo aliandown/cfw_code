@@ -1,5 +1,6 @@
 # NAME: Customairport
 payload:
+  - DOMAIN-SUFFIX,apkpure.com
 # 博主博客 不良林博客
   - DOMAIN-SUFFIX,bulianglin.com
   - DOMAIN-KEYWORD,bulianglin
