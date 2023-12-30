@@ -10,6 +10,12 @@ payload:
   - DOMAIN-KEYWORD,emotn
   - DOMAIN-SUFFIX,proton.me
   - DOMAIN-SUFFIX,protonvpn.com
+# 机场 Proxy
+  - DOMAIN-SUFFIX,一元机场.xyz
+  - DOMAIN-SUFFIX,三分机场.xyz
+  - DOMAIN-KEYWORD,一元机场
+  - DOMAIN-KEYWORD,三分机场
+  - DOMAIN-KEYWORD,sanfen
 # 区块链 Proxy
   - DOMAIN-SUFFIX,binance.com
   - DOMAIN-SUFFIX,binance.me
