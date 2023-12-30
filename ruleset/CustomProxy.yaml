@@ -25,6 +25,8 @@ payload:
   - DOMAIN-SUFFIX,swty.club
 # 谷歌 app proxy
   - DOMAIN-SUFFIX,gmail.com
+# 亚马逊 Proxy
+  - DOMAIN-SUFFIX,amazon.com
 # 以太坊 Proxy
   - DOMAIN-SUFFIX,infura.io
 # Windows APP Proxy
