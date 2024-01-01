@@ -11,3 +11,4 @@ payload:
   - DOMAIN-KEYWORD,6868c
 # 其他网站
   - DOMAIN-SUFFIX,frepai.com
+  - DOMAIN-SUFFIX,optiklink.com
