@@ -29,8 +29,6 @@ payload:
   - DOMAIN-SUFFIX,swty.buzz
   - DOMAIN-SUFFIX,swty.cloud
   - DOMAIN-SUFFIX,swty.club
-# 谷歌 app proxy
-  - DOMAIN-SUFFIX,gmail.com
 # 亚马逊 Proxy
   - DOMAIN-SUFFIX,aws,amazon.com
   - DOMAIN-SUFFIX,amazon.com
