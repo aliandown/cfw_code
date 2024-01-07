@@ -1,5 +1,6 @@
 # NAME: 自定义全球拉截
 payload:
+  - DOMAIN-SUFFIX,doubleclick.net
   - DOMAIN,ads.youtube.com
   - DOMAIN-SUFFIX,ssmobi.cn
   - DOMAIN-SUFFIX,bugly.qq.com
