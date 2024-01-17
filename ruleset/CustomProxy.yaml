@@ -10,6 +10,8 @@ payload:
   - DOMAIN-KEYWORD,emotn
   - DOMAIN-SUFFIX,proton.me
   - DOMAIN-SUFFIX,protonvpn.com
+# 机器人 chatGPT
+  - DOMAIN-SUFFIX,openai.com
 # 机场 Proxy
   - DOMAIN-SUFFIX,一元机场.xyz
   - DOMAIN-SUFFIX,三分机场.xyz
