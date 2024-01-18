@@ -1,3 +1,4 @@
 payload:
+  - DOMAIN-SUFFIX,oaistatic.com
   - DOMAIN-SUFFIX,openai.com
   - DOMAIN-SUFFIX,coze.com
