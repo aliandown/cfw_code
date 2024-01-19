@@ -2,4 +2,6 @@ payload:
   - DOMAIN-SUFFIX,lobehub.com
   - DOMAIN-SUFFIX,oaistatic.com
   - DOMAIN-SUFFIX,openai.com
+  - PROCESS-NAME,openai
+  - PROCESS-NAME,chatgpt
   - DOMAIN-SUFFIX,coze.com
