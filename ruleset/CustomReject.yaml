@@ -6,7 +6,8 @@ payload:
   - DOMAIN-SUFFIX,bugly.qq.com
 # 包含常用应用的各种去广告规则。
 # 可能有轻微副作用，可放心使用。（如果网站功能和广告冲突，会删掉去广告规则）
-
+# Amazon
+  - DOMAIN-SUFFIX,advice-ads.s3.amazonaws.com
 # 163
   - DOMAIN-SUFFIX,a.youdao.com
   - DOMAIN-SUFFIX,adgeo.corp.163.com
@@ -147,6 +148,7 @@ payload:
   - DOMAIN-SUFFIX,wwis-dubc1-vip60.adobe.com
 
 # Apple
+  - DOMAIN-SUFFIX,metrics.icloud.com
   - DOMAIN-SUFFIX,adserver.unityads.unity3d.com
 
 # AutoHome
