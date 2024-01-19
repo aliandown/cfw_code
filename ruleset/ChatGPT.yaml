@@ -1,6 +1,6 @@
 payload:
   - DOMAIN-SUFFIX,gptshunter.com
-  - DOMAIN-SUFFIX,monica.im
+  
   - DOMAIN-SUFFIX,gptshunter.com
   - DOMAIN-SUFFIX,lobehub.com
   - DOMAIN-SUFFIX,oaistatic.com
@@ -8,3 +8,6 @@ payload:
   - PROCESS-NAME,openai
   - PROCESS-NAME,chatgpt
   - DOMAIN-SUFFIX,coze.com
+  # 
+  - DOMAIN-SUFFIX,monica.im
+  - DOMAIN-SUFFIX,onfastspring.com
