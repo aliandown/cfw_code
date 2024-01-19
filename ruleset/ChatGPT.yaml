@@ -1,4 +1,6 @@
 payload:
+  - DOMAIN-SUFFIX,heygen.com
+  - PROCESS-NAME,heygen
   - DOMAIN-SUFFIX,gptshunter.com
   - DOMAIN-SUFFIX,lobehub.com
   - DOMAIN-SUFFIX,oaistatic.com
