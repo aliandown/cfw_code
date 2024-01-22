@@ -17,3 +17,4 @@ payload:
 # 微软 Copilot
   - PROCESS-NAME,copilot
   - PROCESS-NAME,microsoft-copilot
+  - DOMAIN-SUFFIX,appcenter.ms
