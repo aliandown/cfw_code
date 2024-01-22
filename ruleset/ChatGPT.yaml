@@ -4,10 +4,16 @@ payload:
   - DOMAIN-SUFFIX,gptshunter.com
   - DOMAIN-SUFFIX,lobehub.com
   - DOMAIN-SUFFIX,oaistatic.com
+# 字节跳动 Coze
+  - DOMAIN-SUFFIX,coze.com
+  - PROCESS-NAME,coze
+# ChatGPT openai
   - DOMAIN-SUFFIX,openai.com
   - PROCESS-NAME,openai
   - PROCESS-NAME,chatgpt
-  - DOMAIN-SUFFIX,coze.com
-  # 
+# Monica
   - DOMAIN-SUFFIX,monica.im
   - DOMAIN-SUFFIX,onfastspring.com
+# 微软 Copilot
+  - PROCESS-NAME,copilot
+  - PROCESS-NAME,microsoft-copilot
