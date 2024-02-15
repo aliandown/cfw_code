@@ -25,3 +25,7 @@ payload:
   - DOMAIN-SUFFIX,missav.li
   - DOMAIN-SUFFIX,thedayweplay.lol
   - DOMAIN-SUFFIX,javplayer.me
+# ssjx666.top
+  - DOMAIN-KEYWORD,ssjx666
+  - DOMAIN-SUFFIX,ssjx666.top
+  - DOMAIN-SUFFIX,ssjx666.net
