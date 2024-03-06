@@ -1,4 +1,5 @@
 # NAME: 自定义全球拉截
 payload:
+  - DOMAIN-SUFFIX,40017.cn
   - DOMAIN-SUFFIX,17u.cn
   - DOMAIN-SUFFIX,7moor-fs1.com
