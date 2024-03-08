@@ -9,6 +9,8 @@ payload:
 # 小云盒子下载中心
   - DOMAIN-SUFFIX,6868c.cc
   - DOMAIN-KEYWORD,6868c
+# 博主博客 DEV分享
+  - DOMAIN-SUFFIX,idev.dev
 # 其他网站
   - DOMAIN-SUFFIX,frepai.com
   - DOMAIN-SUFFIX,optiklink.com
