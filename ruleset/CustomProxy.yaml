@@ -14,6 +14,9 @@ payload:
   - DOMAIN-KEYWORD,emotn
   - DOMAIN-SUFFIX,proton.me
   - DOMAIN-SUFFIX,protonvpn.com
+# Servervy 永久免费虚拟主机
+  - DOMAIN-SUFFIX,servervy.com
+  - DOMAIN-SUFFIX,getui.net
 # 机器人 chatGPT
   
 # 机场 Proxy
