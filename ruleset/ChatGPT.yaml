@@ -5,6 +5,9 @@ payload:
   - DOMAIN-SUFFIX,gptshunter.com
   - DOMAIN-SUFFIX,lobehub.com
   - DOMAIN-SUFFIX,oaistatic.com
+# Claude3
+  - DOMAIN-SUFFIX,claude.ai
+  - DOMAIN-SUFFIX,anthropic.com
 # 字节跳动 Coze
   - DOMAIN-SUFFIX,coze.com
   - PROCESS-NAME,coze
