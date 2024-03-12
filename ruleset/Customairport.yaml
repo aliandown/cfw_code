@@ -12,7 +12,7 @@ payload:
 # 博主博客 DEV分享
   - DOMAIN-SUFFIX,idev.dev
 # Servervy 永久免费虚拟主机
-  - DOMAIN-SUFFIX,servervy.com  
+#  - DOMAIN-SUFFIX,servervy.com  
 # 其他网站
   - DOMAIN-SUFFIX,frepai.com
   - DOMAIN-SUFFIX,optiklink.com
