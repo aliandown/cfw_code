@@ -63,3 +63,5 @@ payload:
   - IP-CIDR,185.88.181.0/27
   - IP-CIDR,184.50.87.0/27
   - IP-CIDR,156.146.33.0/27
+# linktr.ee
+  - DOMAIN-SUFFIX,linktr.ee
