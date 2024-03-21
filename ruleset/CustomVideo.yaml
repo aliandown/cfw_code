@@ -1,7 +1,6 @@
 # NAME: Developer
 # REPO: https://github.com/blackmatrix7/ios_rule_script
 payload:
-  - DOMAIN-SUFFIX,xvideos.com
   - DOMAIN-SUFFIX,pornhub.com
   - DOMAIN-SUFFIX,xhamster.com
   - DOMAIN-SUFFIX,livejasmin.com
@@ -9,8 +8,6 @@ payload:
   - DOMAIN-SUFFIX,chaturbate.com
   - DOMAIN-SUFFIX,spankbang.com
   - DOMAIN-SUFFIX,redtube.com
-  - DOMAIN-SUFFIX,xvxn.cc
-  - DOMAIN-SUFFIX,xnxx.com
   - DOMAIN-SUFFIX,85tube.com
   - DOMAIN-SUFFIX,javdb.com
   - DOMAIN-SUFFIX,xvcams.com
@@ -19,6 +16,21 @@ payload:
   - DOMAIN-KEYWORD,xvideos
   - DOMAIN-KEYWORD,xvcams
   - DOMAIN-KEYWORD,javdb
+# 成人视频网站
+  - DOMAIN-SUFFIX,njav.tv
+  - DOMAIN-SUFFIX,javplayer.me
+  - DOMAIN-SUFFIX,jable.tv
+  - DOMAIN-SUFFIX,missav.com
+# xvideo 服务器IP范围
+  - DOMAIN-SUFFIX,xvxn.cc
+  - DOMAIN-SUFFIX,xnxx.com
+  - DOMAIN-SUFFIX,xvideos.com
+  - DOMAIN-KEYWORD,xvideos
+  - IP-CIDR,185.88.181.0/27
+  - IP-CIDR,184.50.87.0/27
+  - IP-CIDR,156.146.33.0/27
+# linktr.ee
+  - DOMAIN-SUFFIX,linktr.ee
 # njav.tv
   - DOMAIN-SUFFIX,njav.tv
   - DOMAIN-SUFFIX,njav.xyz
