@@ -14,13 +14,26 @@ payload:
   - DOMAIN-SUFFIX,1xlite-152661.top
   - DOMAIN-SUFFIX,1xbet.com
   - DOMAIN-KEYWORD,1xbet
-# 皇冠网址
+# 皇冠网址 akamaized.net属于CND解析公司
+  - DOMAIN-SUFFIX,akamaized.net
+  - DOMAIN-KEYWORD,akamaized
   - DOMAIN-SUFFIX,f288880.com
   - DOMAIN-KEYWORD,f288880
-  - DOMAIN-SUFFIX,hga027.com
+  - DOMAIN-KEYWORD,mos011.com
+  - DOMAIN-KEYWORD,mos022.com
+  - DOMAIN-KEYWORD,mos033.com
+  - DOMAIN-KEYWORD,mos055.com
+  - DOMAIN-KEYWORD,mos066.com
+  - DOMAIN-KEYWORD,hga026.com
   - DOMAIN-KEYWORD,hga027.com
+  - DOMAIN-KEYWORD,hga030.com
+  - DOMAIN-KEYWORD,hga035.com
+  - DOMAIN-KEYWORD,hga038.com
+  - DOMAIN-KEYWORD,hga039.com
+  - DOMAIN-KEYWORD,hga050.com
   - DOMAIN-SUFFIX,llnwd.net
   - DOMAIN-KEYWORD,llnwd
+  - IP-CIDR,134.159.80.55/32
   - IP-CIDR,123.108.119.26/32
   - IP-CIDR,154.37.153.175/32
   - IP-CIDR,203.160.142.185/32
