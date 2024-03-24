@@ -31,6 +31,8 @@ payload:
   - DOMAIN-KEYWORD,hgapp
   - DOMAIN-SUFFIX,llnwd.net
   - DOMAIN-KEYWORD,llnwd
+  - DOMAIN-KEYWORD,performfeeds.com
+  - DOMAIN-KEYWORD,performfeeds
   - DOMAIN-KEYWORD,mos011.com
   - DOMAIN-KEYWORD,mos022.com
   - DOMAIN-KEYWORD,mos033.com
