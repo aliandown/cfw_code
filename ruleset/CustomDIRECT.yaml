@@ -19,8 +19,12 @@ payload:
   - DOMAIN-KEYWORD,akamaized
   - DOMAIN-SUFFIX,f288880.com
   - DOMAIN-KEYWORD,f288880
+  - DOMAIN-SUFFIX,hgapp0001.com
+  - DOMAIN-SUFFIX,hgapp0002.com
+  - DOMAIN-SUFFIX,hgapp0003.com
   - DOMAIN-SUFFIX,hgapp0004.com
-  - DOMAIN-KEYWORD,hgapp0004
+  - DOMAIN-SUFFIX,hgapp0005.com
+  - DOMAIN-KEYWORD,hgapp
   - DOMAIN-SUFFIX,llnwd.net
   - DOMAIN-KEYWORD,llnwd
   - DOMAIN-KEYWORD,mos011.com
