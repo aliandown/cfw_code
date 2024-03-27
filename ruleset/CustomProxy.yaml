@@ -60,5 +60,4 @@ payload:
   - DOMAIN-SUFFIX,pandora.com
   - DOMAIN-KEYWORD,pandora
 # 皇冠足球直播CDN解析 体育视频
-  - DOMAIN-KEYWORD,pcdn.co
-  - DOMAIN-KEYWORD,geniussports.com
+  
