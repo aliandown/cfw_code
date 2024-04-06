@@ -66,3 +66,5 @@ payload:
   - IP-CIDR,66.133.92.121/32
   - IP-CIDR,199.26.100.226/32
   - IP-CIDR,123.108.119.84/32
+  # 皇冠网址 视频直播CND解析
+  - DOMAIN-KEYWORD,geniussports.com
