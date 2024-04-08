@@ -34,6 +34,7 @@ payload:
   - DOMAIN-SUFFIX,binance.cloud
   - DOMAIN-KEYWORD,binance
 # 机场 Proxy
+  - DOMAIN-KEYWORD,xn--4gq62f52gdss
   - DOMAIN-SUFFIX,swty.top
   - DOMAIN-SUFFIX,swty.buzz
   - DOMAIN-SUFFIX,swty.cloud
