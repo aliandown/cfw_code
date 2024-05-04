@@ -21,6 +21,7 @@ payload:
   - DOMAIN-KEYWORD,ghproxy
   - DOMAIN-SUFFIX,ghps.cc
   - DOMAIN-SUFFIX,gh-proxy.com
+  - DOMAIN-SUFFIX,jsdelivr.net
 # 足球直播
   - DOMAIN-SUFFIX,xinzuqiu.com
   - DOMAIN-KEYWORD,xinzuqiu
