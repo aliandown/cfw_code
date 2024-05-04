@@ -19,6 +19,8 @@ payload:
 # github 第三方镜像
   - DOMAIN-SUFFIX,ghproxy.com
   - DOMAIN-KEYWORD,ghproxy
+  - DOMAIN-SUFFIX,ghps.cc
+  - DOMAIN-SUFFIX,gh-proxy.com
 # 足球直播
   - DOMAIN-SUFFIX,xinzuqiu.com
   - DOMAIN-KEYWORD,xinzuqiu
