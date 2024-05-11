@@ -19,8 +19,8 @@ payload:
   - DOMAIN-SUFFIX,proton.me
   - DOMAIN-SUFFIX,protonvpn.com
   - DOMAIN-SUFFIX,vbar.fun
-# 机器人 chatGPT
-
+# 奈飞破解 Netflix
+  - DOMAIN-SUFFIX,flixvision.app
 # 机场 Proxy
   - DOMAIN-SUFFIX,dukadi.one
   - DOMAIN-SUFFIX,一元机场.xyz
