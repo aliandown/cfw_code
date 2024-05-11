@@ -29,6 +29,7 @@ payload:
   - DOMAIN-SUFFIX,sklstech.com
   - DOMAIN-SUFFIX,123moviesto.to
   - DOMAIN-SUFFIX,vidsrc.to
+  - DOMAIN-SUFFIX,uflix.cc
   - DOMAIN-KEYWORD,123chill
 # 机场 Proxy
   - DOMAIN-SUFFIX,dukadi.one
