@@ -36,10 +36,12 @@ payload:
   - DOMAIN-SUFFIX,dukadi.one
   - DOMAIN-SUFFIX,一元机场.xyz
   - DOMAIN-SUFFIX,三分机场.xyz
+  - DOMAIN-SUFFIX,jindouyun88.life
   - DOMAIN-KEYWORD,dukadi
   - DOMAIN-KEYWORD,一元机场
   - DOMAIN-KEYWORD,三分机场
   - DOMAIN-KEYWORD,sanfen
+  - DOMAIN-KEYWORD,jindouyun88
 # 区块链 Proxy
   - DOMAIN-SUFFIX,binance.com
   - DOMAIN-SUFFIX,binance.me
