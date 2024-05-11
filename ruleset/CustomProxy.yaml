@@ -30,6 +30,7 @@ payload:
   - DOMAIN-SUFFIX,123moviesto.to
   - DOMAIN-SUFFIX,vidsrc.to
   - DOMAIN-SUFFIX,uflix.cc
+  - DOMAIN-SUFFIX,autoembed.co
   - DOMAIN-KEYWORD,123chill
 # 机场 Proxy
   - DOMAIN-SUFFIX,dukadi.one
