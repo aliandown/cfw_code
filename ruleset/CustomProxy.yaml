@@ -36,6 +36,8 @@ payload:
   - DOMAIN-SUFFIX,vidsrc.stream
   - DOMAIN-SUFFIX,azm.to
   - DOMAIN-SUFFIX,gmslb.net
+  - DOMAIN-SUFFIX,vidsrc.xyz
+  - DOMAIN-SUFFIX,2embed.cc
   - DOMAIN-KEYWORD,123chill
 # 机场 Proxy
   - DOMAIN-SUFFIX,dukadi.one
