@@ -1,13 +1,15 @@
 # NAME: Developer
 # REPO: https://github.com/blackmatrix7/ios_rule_script
 payload:
+  # 皇冠网址 视频直播CND解析
+  - DOMAIN-KEYWORD,geniussports.com
   # 皇冠网址 akamaized.net属于CND解析公司
-  - DOMAIN-SUFFIX,llnwd.net
+  - DOMAIN-KEYWORD,llnwd.net
+  - DOMAIN-KEYWORD,nelreports.net
   - DOMAIN-KEYWORD,performfeeds.com
   - DOMAIN-SUFFIX,niab12345.com
   - DOMAIN-SUFFIX,ry00000.com
   - DOMAIN-SUFFIX,akamaized.net
-  - DOMAIN-KEYWORD,akamaized
   - DOMAIN-SUFFIX,f288880.com
   - DOMAIN-SUFFIX,hgapp0001.com
   - DOMAIN-SUFFIX,hgapp0002.com
@@ -68,5 +70,3 @@ payload:
   - IP-CIDR,123.108.119.84/32
   - IP-CIDR,184.26.43.69/32
   - IP-CIDR,125.252.69.189/32
-  # 皇冠网址 视频直播CND解析
-  - DOMAIN-KEYWORD,geniussports.com
