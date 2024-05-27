@@ -19,6 +19,8 @@ payload:
   - DOMAIN-SUFFIX,proton.me
   - DOMAIN-SUFFIX,protonvpn.com
   - DOMAIN-SUFFIX,vbar.fun
+# 国外DDNS 解析
+  ddnsfree.comddnsfree.com
 # 奈飞破解 Netflix
   - DOMAIN-SUFFIX,flixvision.app
   - DOMAIN-SUFFIX,sklstech.com
