@@ -3,6 +3,7 @@
 payload:
   # 皇冠网址 视频直播CND解析
   - DOMAIN-KEYWORD,geniussports.com
+  - DOMAIN-KEYWORD,sportradar.com
   # 皇冠网址 akamaized.net属于CND解析公司
   - DOMAIN-KEYWORD,llnwd.net
   - DOMAIN-KEYWORD,nelreports.net
