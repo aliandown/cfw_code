@@ -2,12 +2,12 @@
 # REPO: https://github.com/blackmatrix7/ios_rule_script
 payload:
   # 皇冠网址 视频直播CND解析
-  - DOMAIN-KEYWORD,geniussports.com
-  - DOMAIN-KEYWORD,sportradar.com
+  - DOMAIN-SUFFIX,geniussports.com
+  - DOMAIN-SUFFIX,sportradar.com
   # 皇冠网址 akamaized.net属于CND解析公司
-  - DOMAIN-KEYWORD,llnwd.net
-  - DOMAIN-KEYWORD,nelreports.net
-  - DOMAIN-KEYWORD,performfeeds.com
+  - DOMAIN-SUFFIX,llnwd.net
+  - DOMAIN-SUFFIX,nelreports.net
+  - DOMAIN-SUFFIX,performfeeds.com
   - DOMAIN-SUFFIX,niab12345.com
   - DOMAIN-SUFFIX,ry00000.com
   - DOMAIN-SUFFIX,akamaized.net
@@ -21,19 +21,19 @@ payload:
   - DOMAIN-SUFFIX,hgapp0007.com
   - DOMAIN-SUFFIX,hgapp0008.com
   - DOMAIN-SUFFIX,hgapp0009.com
-  - DOMAIN-KEYWORD,mos011.com
-  - DOMAIN-KEYWORD,mos022.com
-  - DOMAIN-KEYWORD,mos033.com
-  - DOMAIN-KEYWORD,mos055.com
-  - DOMAIN-KEYWORD,mos066.com
-  - DOMAIN-KEYWORD,mos077.com
-  - DOMAIN-KEYWORD,hga026.com
-  - DOMAIN-KEYWORD,hga027.com
-  - DOMAIN-KEYWORD,hga030.com
-  - DOMAIN-KEYWORD,hga035.com
-  - DOMAIN-KEYWORD,hga038.com
-  - DOMAIN-KEYWORD,hga039.com
-  - DOMAIN-KEYWORD,hga050.com
+  - DOMAIN-SUFFIX,mos011.com
+  - DOMAIN-SUFFIX,mos022.com
+  - DOMAIN-SUFFIX,mos033.com
+  - DOMAIN-SUFFIX,mos055.com
+  - DOMAIN-SUFFIX,mos066.com
+  - DOMAIN-SUFFIX,mos077.com
+  - DOMAIN-SUFFIX,hga026.com
+  - DOMAIN-SUFFIX,hga027.com
+  - DOMAIN-SUFFIX,hga030.com
+  - DOMAIN-SUFFIX,hga035.com
+  - DOMAIN-SUFFIX,hga038.com
+  - DOMAIN-SUFFIX,hga039.com
+  - DOMAIN-SUFFIX,hga050.com
   - IP-CIDR,134.159.80.55/32
   - IP-CIDR,123.108.119.26/32
   - IP-CIDR,154.37.153.175/32
