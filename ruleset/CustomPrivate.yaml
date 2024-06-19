@@ -13,6 +13,7 @@ payload:
   - DOMAIN-SUFFIX,hgapp0007.com
   - DOMAIN-SUFFIX,hgapp0008.com
   - DOMAIN-SUFFIX,hgapp0009.com
+  - DOMAIN-SUFFIX,niab12345.com
   - DOMAIN-SUFFIX,geniussports.com
   - DOMAIN-SUFFIX,sportradar.com
   - DOMAIN-SUFFIX,performfeeds.com
