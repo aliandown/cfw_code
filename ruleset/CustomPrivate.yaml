@@ -3,6 +3,7 @@
 payload:
   # 比分视频
   - DOMAIN-SUFFIX,kantai8.com
+  - DOMAIN-SUFFIX,vnres.co
   # 皇冠网址 视频直播
   - DOMAIN-SUFFIX,hgapp0001.com
   - DOMAIN-SUFFIX,hgapp0002.com
