@@ -1,7 +1,9 @@
 # NAME: Developer
 # REPO: https://github.com/blackmatrix7/ios_rule_script
 payload:
-  # 比分视视
+# 雷速比分
+  - DOMAIN-SUFFIX,kantai8.com
+  # socolive.io 越南直播
   - DOMAIN-SUFFIX,niur.live
   - DOMAIN-SUFFIX,niues.live
   - DOMAIN-SUFFIX,vnres.co
