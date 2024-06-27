@@ -3,3 +3,5 @@
 payload:
   # 比分视视
   - DOMAIN-SUFFIX,niur.live
+  - DOMAIN-SUFFIX,niues.live
+  - DOMAIN-SUFFIX,vnres.co
