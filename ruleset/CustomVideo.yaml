@@ -1,10 +1,6 @@
 # NAME: Developer
 # REPO: https://github.com/blackmatrix7/ios_rule_script
 payload:
-  # 比分视视
-  - DOMAIN-SUFFIX,niur.live
-  - DOMAIN-SUFFIX,niues.live
-  - DOMAIN-SUFFIX,vnres.co
   # 其他视频
   - DOMAIN-SUFFIX,pornhub.com
   - DOMAIN-SUFFIX,xhamster.com
