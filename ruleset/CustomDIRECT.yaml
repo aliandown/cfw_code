@@ -7,7 +7,6 @@ payload:
   - DOMAIN-SUFFIX,baiduyun.wiki
   - DOMAIN-SUFFIX,greasyfork.org
   - DOMAIN-SUFFIX,jsdelivr.com
-  - DOMAIN-SUFFIX,titan007.com
   - DOMAIN-SUFFIX,8xbet.tv
 # 联通性测速地址
   - DOMAIN-SUFFIX,gstatic.com
