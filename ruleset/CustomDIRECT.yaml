@@ -1,5 +1,6 @@
 # NAME: Developer
 payload:
+  - DOMAIN-SUFFIX,baipiao.eu.org
   - DOMAIN-SUFFIX,visa.com
   - DOMAIN-KEYWORD,visa.com
   - DOMAIN-SUFFIX,hamibot.com
