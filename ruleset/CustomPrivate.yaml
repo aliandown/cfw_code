@@ -1,6 +1,8 @@
 # NAME: Developer
 # REPO: https://github.com/blackmatrix7/ios_rule_script
 payload:
+  # 域名申请管理
+  - DOMAIN-SUFFIX,dynadot.com
   # 雷速比分
   - DOMAIN-SUFFIX,kantai8.com
   # 皇冠网址 视频直播
