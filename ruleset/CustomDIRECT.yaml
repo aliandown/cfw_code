@@ -1,5 +1,6 @@
 # NAME: Developer
 payload:
+  - DOMAIN-SUFFIX,visa.com
   - DOMAIN-SUFFIX,hamibot.com
   - DOMAIN-SUFFIX,razord.top
   - DOMAIN-SUFFIX,anl.ink
