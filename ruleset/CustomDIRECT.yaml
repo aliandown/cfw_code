@@ -8,7 +8,6 @@ payload:
   - DOMAIN-SUFFIX,greasyfork.org
   - DOMAIN-SUFFIX,jsdelivr.com
   - DOMAIN-SUFFIX,8xbet.tv
-  - DOMAIN-SUFFIX,dynadot.com
 # CF反代域名测速地址
   - DOMAIN-SUFFIX,baipiao.eu.org
   - DOMAIN-SUFFIX,visa.com
