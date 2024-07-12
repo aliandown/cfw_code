@@ -22,6 +22,9 @@ payload:
   - DOMAIN-SUFFIX,vbar.fun
 # 国外域名管理
   - DOMAIN-SUFFIX,dynadot.com
+  - DOMAIN-SUFFIX,cloudns.net
+  - DOMAIN-SUFFIX,cloudns.org
+  - DOMAIN-SUFFIX,elevenfamilies.link
 # 奈飞破解 Netflix
   - DOMAIN-SUFFIX,flixvision.app
   - DOMAIN-SUFFIX,sklstech.com
