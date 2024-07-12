@@ -20,6 +20,8 @@ payload:
   - DOMAIN-SUFFIX,proton.me
   - DOMAIN-SUFFIX,protonvpn.com
   - DOMAIN-SUFFIX,vbar.fun
+# 域名管理解析申请
+  - DOMAIN-SUFFIX,us.kg
 # 奈飞破解 Netflix
   - DOMAIN-SUFFIX,flixvision.app
   - DOMAIN-SUFFIX,sklstech.com
