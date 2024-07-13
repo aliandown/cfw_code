@@ -26,6 +26,7 @@ payload:
   - DOMAIN-SUFFIX,serv00.com
 # 域名管理解析申请
   - DOMAIN-SUFFIX,us.kg
+  - DOMAIN-SUFFIX,1gb.ua
 # 奈飞破解 Netflix
   - DOMAIN-SUFFIX,flixvision.app
   - DOMAIN-SUFFIX,sklstech.com
