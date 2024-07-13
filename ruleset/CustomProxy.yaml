@@ -20,6 +20,8 @@ payload:
   - DOMAIN-SUFFIX,proton.me
   - DOMAIN-SUFFIX,protonvpn.com
   - DOMAIN-SUFFIX,vbar.fun
+# 订阅转换
+  - DOMAIN-SUFFIX,v1.mk
 # 身份信息生成管理
   - DOMAIN-SUFFIX,chatgpt.org.uk
 # VPS管理解析申请
