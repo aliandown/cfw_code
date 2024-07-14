@@ -1,0 +1,18 @@
+# NAME: Developer
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+payload:
+  # GITHUB
+  - DOMAIN-SUFFIX,github.com
+  - DOMAIN-SUFFIX,githubusercontent.com
+  - DOMAIN-SUFFIX,githubassets.com
+  # 国外域名管理
+  - DOMAIN-SUFFIX,cloudflare.com
+  - DOMAIN-SUFFIX,dynadot.com
+  - DOMAIN-SUFFIX,cloudns.net
+  - DOMAIN-SUFFIX,cloudns.org
+  - DOMAIN-SUFFIX,elevenfamilies.link
+  - DOMAIN-SUFFIX,elevenfamilies.us.kg
+  - DOMAIN-SUFFIX,elevengroup.us.kg
+  - DOMAIN-SUFFIX,eleventrade.us.kg
+  - DOMAIN-SUFFIX,elevenfamilies.ck.ua
+  - DOMAIN-SUFFIX,elevenfamilies.eu.org
