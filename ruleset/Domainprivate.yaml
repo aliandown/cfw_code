@@ -13,7 +13,10 @@ payload:
   - DOMAIN-SUFFIX,cloudflare.com
   - DOMAIN-SUFFIX,workers.dev
   - DOMAIN-SUFFIX,pages.dev
-    #
+    # 个人域名管理
+  - DOMAIN-SUFFIX,ck.ua
+  - DOMAIN-SUFFIX,us.kg
+  - DOMAIN-SUFFIX,eu.org
   - DOMAIN-SUFFIX,dynadot.com
   - DOMAIN-SUFFIX,cloudns.net
   - DOMAIN-SUFFIX,cloudns.org
