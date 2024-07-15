@@ -25,7 +25,7 @@ payload:
 # 身份信息生成管理
   - DOMAIN-SUFFIX,chatgpt.org.uk
 # VPS管理解析申请
-  - DOMAIN-SUFFIX,serv00.com
+  
 # 域名管理解析申请
   - DOMAIN-SUFFIX,us.kg
   - DOMAIN-SUFFIX,1gb.ua
