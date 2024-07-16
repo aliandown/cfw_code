@@ -13,6 +13,9 @@ payload:
   - DOMAIN-SUFFIX,cloudflare.com
   - DOMAIN-SUFFIX,workers.dev
   - DOMAIN-SUFFIX,pages.dev
+    #各大佬反代优选DNS解析
+  - DOMAIN-SUFFIX,dedyn.io
+  - DOMAIN-SUFFIX,rr.nu
     # 个人域名管理
   - DOMAIN-SUFFIX,ck.ua
   - DOMAIN-SUFFIX,us.kg
