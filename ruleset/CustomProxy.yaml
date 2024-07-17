@@ -20,6 +20,8 @@ payload:
   - DOMAIN-SUFFIX,proton.me
   - DOMAIN-SUFFIX,protonvpn.com
   - DOMAIN-SUFFIX,vbar.fun
+# 磁力下载网站
+  - DOMAIN-SUFFIX,magnet.pics
 # 视频网站
   - DOMAIN-SUFFIX,fansly.com
   - DOMAIN-SUFFIX,mariedee.link
