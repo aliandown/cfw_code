@@ -7,7 +7,7 @@ payload:
 # 包含常用应用的各种去广告规则。
 # 可能有轻微副作用，可放心使用。（如果网站功能和广告冲突，会删掉去广告规则）
 # 乐球直播
-  - DOMAIN-SUFFIX,jkaaszza.com  #比分页面
+  - DOMAIN-SUFFIX,bflives.kunmjli.cn  #比分页面
   - DOMAIN-SUFFIX,tadasg.cn  #比分页面
   - DOMAIN-SUFFIX,b1tffe.cc  #比分页面
   - DOMAIN-SUFFIX,sinaimg.cn #新闻页面
