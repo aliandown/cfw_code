@@ -19,6 +19,7 @@ payload:
   - DOMAIN-SUFFIX,cloud-config-service.rtc.aliyuncs.com
   - DOMAIN-SUFFIX,videocloud.cn-hangzhou.log.aliyuncs.com
   - DOMAIN-SUFFIX,vpp-license-proxy.aliyuncs.com
+  - DOMAIN-SUFFIX,alivc-aio.cn-hangzhou.log.aliyuncs.com
   - DOMAIN-SUFFIX,cloudauth-device-dualstack.cn-shanghai.aliyuncs.com
 # Amazon
   - DOMAIN-SUFFIX,advice-ads.s3.amazonaws.com
