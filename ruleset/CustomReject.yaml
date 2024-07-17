@@ -10,6 +10,7 @@ payload:
   - DOMAIN-SUFFIX,zlsdk.1rtb.net
   - DOMAIN-SUFFIX,beizi.biz
   - DOMAIN-SUFFIX,h5.leisu.com
+  - DOMAIN-SUFFIX,tnc3-alisc1.zijieapi.com
   - DOMAIN-SUFFIX,leisu-log.cn-hangzhou.log.aliyuncs.com
 # Amazon
   - DOMAIN-SUFFIX,advice-ads.s3.amazonaws.com
