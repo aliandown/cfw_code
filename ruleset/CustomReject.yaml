@@ -9,8 +9,6 @@ payload:
 # 乐球直播
   - DOMAIN-SUFFIX,vtya54.com
   - DOMAIN-SUFFIX,njscwh.com
-  - DOMAIN-SUFFIX,shandongjnsd
-  - DOMAIN-SUFFIX,kunmjli.cn
 # 雷速体育
   - DOMAIN-SUFFIX,api.weibo.com
   - DOMAIN-SUFFIX,statistic.live.126.net
