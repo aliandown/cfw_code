@@ -19,6 +19,7 @@ payload:
   - DOMAIN-KEYWORD,javdb
 # 网盘云盘
   - DOMAIN-SUFFIX,pikpak.me
+  - DOMAIN-SUFFIX,mypikpak.com
 # 成人视频网站
   - DOMAIN-SUFFIX,njav.tv
   - DOMAIN-SUFFIX,javplayer.me
