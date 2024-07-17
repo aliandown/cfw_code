@@ -9,6 +9,8 @@ payload:
 # 乐球直播
   - DOMAIN-SUFFIX,jkwkman.com  #9103
   - DOMAIN-SUFFIX,jkbbbsva.com #9103
+  - DOMAIN-SUFFIX,im5.lqvim.cc #9103
+  - DOMAIN-SUFFIX,sportnanoapi.com #比分页面
 # 雷速体育
   - DOMAIN-SUFFIX,api.weibo.com
   - DOMAIN-SUFFIX,statistic.live.126.net
