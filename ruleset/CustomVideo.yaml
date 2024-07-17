@@ -17,6 +17,8 @@ payload:
   - DOMAIN-KEYWORD,xvideos
   - DOMAIN-KEYWORD,xvcams
   - DOMAIN-KEYWORD,javdb
+# 网盘云盘
+  - DOMAIN-SUFFIX,pikpak.me
 # 成人视频网站
   - DOMAIN-SUFFIX,njav.tv
   - DOMAIN-SUFFIX,javplayer.me
