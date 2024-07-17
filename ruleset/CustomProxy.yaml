@@ -20,6 +20,7 @@ payload:
   - DOMAIN-SUFFIX,proton.me
   - DOMAIN-SUFFIX,protonvpn.com
   - DOMAIN-SUFFIX,vbar.fun
+  - DOMAIN-SUFFIX,maridd.net
 # youtube下载器
   - DOMAIN-SUFFIX,unidownloader.com
 # 订阅转换
