@@ -7,6 +7,8 @@ payload:
 # 包含常用应用的各种去广告规则。
 # 可能有轻微副作用，可放心使用。（如果网站功能和广告冲突，会删掉去广告规则）
 # 雷速体育
+  - DOMAIN-SUFFIX,mssdk.volces.com
+  - DOMAIN-SUFFIX,sv.adintl.cn
   - DOMAIN-SUFFIX,ap2.qiyukf.com
   - DOMAIN-SUFFIX,tnc3-aliec2.zijieapi.com
   - DOMAIN-SUFFIX,zlsdk.1rtb.net
@@ -16,6 +18,8 @@ payload:
   - DOMAIN-SUFFIX,leisu-log.cn-hangzhou.log.aliyuncs.com
   - DOMAIN-SUFFIX,cloud-config-service.rtc.aliyuncs.com
   - DOMAIN-SUFFIX,videocloud.cn-hangzhou.log.aliyuncs.com
+  - DOMAIN-SUFFIX,vpp-license-proxy.aliyuncs.com
+  - DOMAIN-SUFFIX,cloudauth-device-dualstack.cn-shanghai.aliyuncs.com
 # Amazon
   - DOMAIN-SUFFIX,advice-ads.s3.amazonaws.com
 # 163
