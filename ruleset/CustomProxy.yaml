@@ -20,8 +20,6 @@ payload:
   - DOMAIN-SUFFIX,proton.me
   - DOMAIN-SUFFIX,protonvpn.com
   - DOMAIN-SUFFIX,vbar.fun
-# 网盘云盘
-  - DOMAIN-SUFFIX,pikpak.me
 # 视频网站
   - DOMAIN-SUFFIX,fansly.com
   - DOMAIN-SUFFIX,mariedee.link
