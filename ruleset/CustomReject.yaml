@@ -8,7 +8,9 @@ payload:
 # 可能有轻微副作用，可放心使用。（如果网站功能和广告冲突，会删掉去广告规则）
 # 乐球直播
   - DOMAIN-SUFFIX,sportnanoapi.com
-  - DOMAIN-SUFFIX,njscwh.com
+  - DOMAIN-SUFFIX,sinaimg.cn
+  - DOMAIN-SUFFIX,lqvim.cc
+  - DOMAIN-SUFFIX,kunmjli.cn
 # 雷速体育
   - DOMAIN-SUFFIX,api.weibo.com
   - DOMAIN-SUFFIX,statistic.live.126.net
