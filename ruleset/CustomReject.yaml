@@ -9,6 +9,7 @@ payload:
 # 乐球直播
   - DOMAIN-SUFFIX,nxlishuo.cn
   - DOMAIN-SUFFIX,sportnanoapi.com
+  - DOMAIN-SUFFIX,lqaatj.top
 # 雷速体育
   - DOMAIN-SUFFIX,api.weibo.com
   - DOMAIN-SUFFIX,statistic.live.126.net
