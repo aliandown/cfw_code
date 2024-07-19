@@ -34,6 +34,7 @@ payload:
 # VPS管理解析申请
   
 # 域名管理解析申请
+  - DOMAIN-SUFFIX,spaceship.com
   - DOMAIN-SUFFIX,us.kg
   - DOMAIN-SUFFIX,1gb.ua
 # 奈飞破解 Netflix
