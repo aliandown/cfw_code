@@ -20,6 +20,7 @@ payload:
   - DOMAIN-SUFFIX,dedyn.io
   - DOMAIN-SUFFIX,rr.nu
     # 个人域名管理
+  - DOMAIN-SUFFIX,elevenfamilies.link
   - DOMAIN-SUFFIX,ck.ua
   - DOMAIN-SUFFIX,us.kg
   - DOMAIN-SUFFIX,eu.org
