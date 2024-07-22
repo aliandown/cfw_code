@@ -19,6 +19,7 @@ payload:
 # Servervy 永久免费虚拟主机
   - DOMAIN-SUFFIX,servervy.com  
 # 其他网站
+  - DOMAIN-SUFFIX,v2rayssr.com
   - DOMAIN-SUFFIX,frepai.com
   - DOMAIN-SUFFIX,optiklink.com
   - DOMAIN-SUFFIX,anyfastcloud.com
