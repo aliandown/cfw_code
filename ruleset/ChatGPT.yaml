@@ -12,12 +12,24 @@ payload:
   - DOMAIN-SUFFIX,coze.com
   - PROCESS-NAME,coze
 # ChatGPT openai
+  - DOMAIN,ai.cn
+  - DOMAIN-SUFFIX,ai.com
+  - DOMAIN-SUFFIX,auth0.com
+  - DOMAIN-SUFFIX,challenges.cloudflare.com
+  - DOMAIN-SUFFIX,client-api.arkoselabs.com
+  - DOMAIN-SUFFIX,events.statsigapi.net
+  - DOMAIN-SUFFIX,featuregates.org
+  - DOMAIN-SUFFIX,identrust.com
+  - DOMAIN-SUFFIX,intercom.io
+  - DOMAIN-SUFFIX,intercomcdn.com
+  - DOMAIN-SUFFIX,poe.com
+  - DOMAIN-SUFFIX,sentry.io
+  - DOMAIN-SUFFIX,stripe.com
+  - DOMAIN-KEYWORD,openai
+  - DOMAIN-KEYWORD,chatgpt
   - DOMAIN-SUFFIX,openai.com
   - DOMAIN-SUFFIX,chatgpt.com
-  - DOMAIN-SUFFIX,auth0.com
   - DOMAIN-SUFFIX,algolia.net
-  - PROCESS-NAME,openai
-  - PROCESS-NAME,chatgpt
 # Monica
   - DOMAIN-SUFFIX,monica.im
   - DOMAIN-SUFFIX,onfastspring.com
