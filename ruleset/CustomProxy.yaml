@@ -87,6 +87,7 @@ payload:
 # 亚马逊 Proxy
   - DOMAIN-SUFFIX,aws,amazon.com
   - DOMAIN-SUFFIX,amazon.com
+  - DOMAIN-SUFFIX,amazonaws.com
 # 以太坊 Proxy
   - DOMAIN-SUFFIX,infura.io
 # Windows APP Proxy
