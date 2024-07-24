@@ -4,3 +4,5 @@ payload:
   - DOMAIN-SUFFIX,40017.cn
   - DOMAIN-SUFFIX,17u.cn
   - DOMAIN-SUFFIX,7moor-fs1.com
+# 亚马逊VPS
+  - DOMAIN-SUFFIX,aws.a2z.com
