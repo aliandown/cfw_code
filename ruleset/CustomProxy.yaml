@@ -33,12 +33,6 @@ payload:
   - DOMAIN-SUFFIX,v1.mk
 # 身份信息生成管理
   - DOMAIN-SUFFIX,chatgpt.org.uk
-# VPS管理解析申请
-  
-# 域名管理解析申请
-  - DOMAIN-SUFFIX,spaceship.com
-  - DOMAIN-SUFFIX,vips.elevengroup.us.kg
-  - DOMAIN-SUFFIX,1gb.ua
 # 奈飞破解 Netflix
   - DOMAIN-SUFFIX,flixvision.app
   - DOMAIN-SUFFIX,sklstech.com
@@ -59,9 +53,6 @@ payload:
   - DOMAIN-SUFFIX,vidsrc.xyz
   - DOMAIN-SUFFIX,2embed.cc
   - DOMAIN-KEYWORD,123chill
-# Worker 自定域名
-  - DOMAIN-SUFFIX,elevenfamilies.link
-  - DOMAIN-SUFFIX,cloudns.org
 # 机场 Proxy
   - DOMAIN-SUFFIX,dukadi.one
   - DOMAIN-SUFFIX,一元机场.xyz
