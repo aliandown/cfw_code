@@ -9,6 +9,8 @@ payload:
   #- DOMAIN-SUFFIX,githubassets.com
   # 国外域名管理
     #
+  - DOMAIN-SUFFIX,visa.com
+  - DOMAIN-KEYWORD,visa.com
   - DOMAIN-SUFFIX,spaceship.com
   - DOMAIN-SUFFIX,1gb.ua
   - DOMAIN-SUFFIX,l53.net
