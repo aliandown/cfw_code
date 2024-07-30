@@ -9,6 +9,8 @@ payload:
   - DOMAIN-SUFFIX,jsdelivr.com
   - DOMAIN-SUFFIX,8xbet.tv
   - DOMAIN-SUFFIX,apple.com
+# cloudflare相关网站通过国内解析
+  - DOMAIN-SUFFIX,cloudflare.com
 # CF反代域名测速地址
   - DOMAIN-SUFFIX,baipiao.eu.org
   - DOMAIN-SUFFIX,visa.com
