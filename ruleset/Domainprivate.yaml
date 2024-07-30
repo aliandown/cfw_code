@@ -4,34 +4,34 @@ payload:
   # youtube下载器
   - DOMAIN-SUFFIX,unidownloader.com
   # GITHUB
-  - DOMAIN-SUFFIX,github.com
-  - DOMAIN-SUFFIX,githubusercontent.com
-  - DOMAIN-SUFFIX,githubassets.com
+  #- DOMAIN-SUFFIX,github.com
+  #- DOMAIN-SUFFIX,githubusercontent.com
+  #- DOMAIN-SUFFIX,githubassets.com
   # 国外域名管理
     #
   - DOMAIN-SUFFIX,spaceship.com
   - DOMAIN-SUFFIX,1gb.ua
   - DOMAIN-SUFFIX,l53.net
     #
-  - DOMAIN-SUFFIX,cloudflare.com
-  - DOMAIN-SUFFIX,workers.dev
-  - DOMAIN-SUFFIX,pages.dev
+  #- DOMAIN-SUFFIX,cloudflare.com
+  #- DOMAIN-SUFFIX,workers.dev
+  #- DOMAIN-SUFFIX,pages.dev
     #各大佬反代优选DNS解析
-  - DOMAIN-SUFFIX,dedyn.io
-  - DOMAIN-SUFFIX,rr.nu
+  #- DOMAIN-SUFFIX,dedyn.io
+  #- DOMAIN-SUFFIX,rr.nu
     # 个人域名管理
-  - DOMAIN-SUFFIX,elevenfamilies.link
-  - DOMAIN-SUFFIX,rr.nu
-  - DOMAIN-SUFFIX,ck.ua
-  - DOMAIN-SUFFIX,us.kg
-  - DOMAIN-SUFFIX,eu.org
-  - DOMAIN-SUFFIX,dynadot.com
-  - DOMAIN-SUFFIX,cloudns.net
-  - DOMAIN-SUFFIX,cloudns.org
-  - DOMAIN-SUFFIX,elevenfamilies.us.kg
-  - DOMAIN-SUFFIX,elevengroup.us.kg
-  - DOMAIN-SUFFIX,eleventrade.us.kg
-  - DOMAIN-SUFFIX,elevenfamilies.ck.ua
-  - DOMAIN-SUFFIX,elevenfamilies.eu.org
+  #- DOMAIN-SUFFIX,elevenfamilies.link
+  #- DOMAIN-SUFFIX,rr.nu
+  #- DOMAIN-SUFFIX,ck.ua
+  #- DOMAIN-SUFFIX,us.kg
+  #- DOMAIN-SUFFIX,eu.org
+  #- DOMAIN-SUFFIX,dynadot.com
+  #- DOMAIN-SUFFIX,cloudns.net
+  #- DOMAIN-SUFFIX,cloudns.org
+  #- DOMAIN-SUFFIX,elevenfamilies.us.kg
+  #- DOMAIN-SUFFIX,elevengroup.us.kg
+  #- DOMAIN-SUFFIX,eleventrade.us.kg
+  #- DOMAIN-SUFFIX,elevenfamilies.ck.ua
+  #- DOMAIN-SUFFIX,elevenfamilies.eu.org
   # 国外VPS服务器管理
   - DOMAIN-SUFFIX,serv00.com
