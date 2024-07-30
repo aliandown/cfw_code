@@ -13,9 +13,9 @@ payload:
   - DOMAIN-SUFFIX,cloudflare.com
 # CF反代域名测速地址
   - DOMAIN-SUFFIX,baipiao.eu.org
-  - DOMAIN-SUFFIX,visa.com
-  - DOMAIN-KEYWORD,visa.com
-  - DOMAIN-SUFFIX,whoer.net
+  #- DOMAIN-SUFFIX,visa.com
+  #- DOMAIN-KEYWORD,visa.com
+  #- DOMAIN-SUFFIX,whoer.net
 # 联通性测速地址
   - DOMAIN-SUFFIX,gstatic.com
 # 1XBET网址
