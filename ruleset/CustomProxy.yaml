@@ -22,6 +22,8 @@ payload:
   - DOMAIN-SUFFIX,proton.me
   - DOMAIN-SUFFIX,protonvpn.com
   - DOMAIN-SUFFIX,vbar.fun
+# VPS服务器
+  - DOMAIN-SUFFIX,aws.a2z.com
 # 域名IP查询网站
   - DOMAIN-SUFFIX,nslookup.io
 # 磁力下载网站
