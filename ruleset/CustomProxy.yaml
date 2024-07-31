@@ -24,6 +24,7 @@ payload:
   - DOMAIN-SUFFIX,vbar.fun
 # VPS服务器
   - DOMAIN-SUFFIX,aws.a2z.com
+  - DOMAIN-KEYWORD,aws.a2z
 # 域名IP查询网站
   - DOMAIN-SUFFIX,nslookup.io
 # 磁力下载网站
