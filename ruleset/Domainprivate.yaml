@@ -15,14 +15,15 @@ payload:
   - DOMAIN-SUFFIX,1gb.ua
   - DOMAIN-SUFFIX,l53.net
     #
-  #- DOMAIN-SUFFIX,cloudflare.com
+  - DOMAIN-SUFFIX,cloudflare.com
   - DOMAIN-SUFFIX,workers.dev
   - DOMAIN-SUFFIX,pages.dev
     #各大佬反代优选DNS解析
   #- DOMAIN-SUFFIX,dedyn.io
   #- DOMAIN-SUFFIX,rr.nu
-    # 个人域名管理
-  #- DOMAIN-SUFFIX,elevenfamilies.link
+   - DOMAIN-SUFFIX,090227.xyz
+  # 个人域名管理
+  - DOMAIN-SUFFIX,elevenfamilies.link
   - DOMAIN-SUFFIX,rr.nu
   - DOMAIN-SUFFIX,ck.ua
   - DOMAIN-SUFFIX,us.kg
