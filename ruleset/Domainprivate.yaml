@@ -25,7 +25,7 @@ payload:
    - DOMAIN-SUFFIX,164746.xyz
    - DOMAIN-SUFFIX,030101.xyz
   # 个人域名管理
-  - DOMAIN-SUFFIX,elevenfamilies.link
+  #- DOMAIN-SUFFIX,elevenfamilies.link
   - DOMAIN-SUFFIX,rr.nu
   - DOMAIN-SUFFIX,ck.ua
   - DOMAIN-SUFFIX,us.kg
