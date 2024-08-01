@@ -19,5 +19,6 @@ payload:
   - DOMAIN-SUFFIX,performfeeds.com
   - DOMAIN-SUFFIX,llnwd.net
   - DOMAIN-SUFFIX,imgarena-prod-v2-eu.akamaized.net
+  - DOMAIN-SUFFIX,ws-cdn001.akamaized.net
   - DOMAIN-SUFFIX,proxy2.wynd.network
 
