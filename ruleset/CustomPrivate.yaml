@@ -18,10 +18,7 @@ payload:
   - DOMAIN-SUFFIX,sportradar.com
   - DOMAIN-SUFFIX,performfeeds.com
   - DOMAIN-SUFFIX,llnwd.net
-  - DOMAIN-SUFFIX,imgarena-prod-eu.akamaized.net
-  - DOMAIN-SUFFIX,imgarena-prod-v1-eu.akamaized.net
-  - DOMAIN-SUFFIX,imgarena-prod-v2-eu.akamaized.net
-  - DOMAIN-SUFFIX,imgarena-prod-v3-eu.akamaized.net
+  - DOMAIN-KEYWORD,imgarena
   - DOMAIN-SUFFIX,ws-cdn001.akamaized.net
   - DOMAIN-SUFFIX,lt-fn-cdn001.akamaized.net
   - DOMAIN-SUFFIX,img-cdn001.akamaized.net
