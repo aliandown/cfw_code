@@ -17,6 +17,8 @@ payload:
   - DOMAIN-KEYWORD,xvideos
   - DOMAIN-KEYWORD,xvcams
   - DOMAIN-KEYWORD,javdb
+# 个人专用
+  - DOMAIN-SUFFIX,alist.elevenfamilies.link
 # 网盘云盘
   - DOMAIN-SUFFIX,pikpak.me
   - DOMAIN-SUFFIX,mypikpak.com
