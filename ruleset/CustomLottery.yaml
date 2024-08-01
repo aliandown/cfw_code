@@ -5,7 +5,6 @@ payload:
   # 皇冠网址 akamaized.net属于CND解析公司
   - DOMAIN-SUFFIX,ry00000.com
   - DOMAIN-SUFFIX,f288880.com
-  - DOMAIN-SUFFIX,llnwd.net
   - DOMAIN-SUFFIX,mos011.com
   - DOMAIN-SUFFIX,mos022.com
   - DOMAIN-SUFFIX,mos033.com
