@@ -17,5 +17,7 @@ payload:
   - DOMAIN-SUFFIX,geniussports.com
   - DOMAIN-SUFFIX,sportradar.com
   - DOMAIN-SUFFIX,performfeeds.com
+  - DOMAIN-SUFFIX,llnwd.net
   - DOMAIN-SUFFIX,imgarena-prod-v2-eu.akamaized.net
+  - DOMAIN-SUFFIX,proxy2.wynd.network
 
