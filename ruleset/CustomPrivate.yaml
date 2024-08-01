@@ -20,6 +20,9 @@ payload:
   - DOMAIN-SUFFIX,llnwd.net
   - DOMAIN-KEYWORD,imgarena- #imgarena-prod-eu.akamaized.net 包含的关键字
   - DOMAIN-KEYWORD,-cdn001. #ws-cdn001.akamaized.net  包含的关键字
+  - DOMAIN-KEYWORD,-cdn002. #ws-cdn002.akamaized.net  包含的关键字
   - DOMAIN-SUFFIX,proxy1.wynd.network
   - DOMAIN-SUFFIX,proxy2.wynd.network
+  - DOMAIN-SUFFIX,proxy3.wynd.network
+  - DOMAIN-SUFFIX,proxy4.wynd.network
 
