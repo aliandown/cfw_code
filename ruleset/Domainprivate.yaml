@@ -38,6 +38,7 @@ payload:
   #- DOMAIN-SUFFIX,eleventrade.us.kg
   - DOMAIN-SUFFIX,elevenfamilies.ck.ua
   - DOMAIN-SUFFIX,elevenfamilies.eu.org
+  - DOMAIN-SUFFIX,alist.elevenfamilies.link
   - DOMAIN-SUFFIX,aws.elevenfamilies.link
   # 国外VPS服务器管理
   - DOMAIN-SUFFIX,serv00.com
