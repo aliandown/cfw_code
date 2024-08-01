@@ -21,5 +21,6 @@ payload:
   - DOMAIN-SUFFIX,imgarena-prod-v2-eu.akamaized.net
   - DOMAIN-SUFFIX,ws-cdn001.akamaized.net
   - DOMAIN-SUFFIX,lt-fn-cdn001.akamaized.net
+  - DOMAIN-SUFFIX,img-cdn001.akamaized.net
   - DOMAIN-SUFFIX,proxy2.wynd.network
 
