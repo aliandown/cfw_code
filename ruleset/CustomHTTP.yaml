@@ -1,5 +1,6 @@
 # NAME: Developer
 payload:
+  - DOMAIN-SUFFIX,kantai8.com
   - DOMAIN-SUFFIX,mirror.ghproxy.com
   - DOMAIN-SUFFIX,ghproxy.com
   - DOMAIN-SUFFIX,ghps.cc
