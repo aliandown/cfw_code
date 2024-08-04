@@ -85,12 +85,11 @@ payload:
   #- DOMAIN-SUFFIX,dynadot.com
   - DOMAIN-SUFFIX,cloudns.net
   - DOMAIN-SUFFIX,cloudns.org
-  #- DOMAIN-SUFFIX,elevenfamilies.us.kg
-  #- DOMAIN-SUFFIX,elevengroup.us.kg
-  #- DOMAIN-SUFFIX,eleventrade.us.kg
+  - DOMAIN-SUFFIX,elevenfamilies.us.kg
+  - DOMAIN-SUFFIX,elevengroup.us.kg
+  - DOMAIN-SUFFIX,eleventrade.us.kg
   - DOMAIN-SUFFIX,elevenfamilies.ck.ua
   - DOMAIN-SUFFIX,elevenfamilies.eu.org
-  - DOMAIN-SUFFIX,alist.elevenfamilies.link
-  - DOMAIN-SUFFIX,aws.elevenfamilies.link
+  - DOMAIN-SUFFIX,elevenfamilies.link
   # 国外VPS服务器管理
   - DOMAIN-SUFFIX,serv00.com
