@@ -1,0 +1,7 @@
+# NAME: 自定义跳过国外全球拉截
+payload:
+  - DOMAIN-SUFFIX,collector.github.com
+  - DOMAIN-SUFFIX,api.github.com
+  - DOMAIN-SUFFIX,static.cloudflareinsights.com
+# 亚马逊VPS
+  - DOMAIN-SUFFIX,aws.a2z.com
