@@ -1,8 +1,7 @@
 # NAME: 自定义全球拉截
 payload:
-  - DOMAIN-SUFFIX,collector.github.com
-  - DOMAIN-SUFFIX,api.github.com
-  - DOMAIN-SUFFIX,static.cloudflareinsights.com
+  - DOMAIN-SUFFIX,github.com
+  - DOMAIN-SUFFIX,cloudflareinsights.com
   - DOMAIN-SUFFIX,data.hicloud.com
   - DOMAIN-SUFFIX,40017.cn
   - DOMAIN-SUFFIX,17u.cn
