@@ -13,19 +13,10 @@ payload:
   - DOMAIN-SUFFIX,browserleaks.com
   - DOMAIN-SUFFIX,browserleaks.org
   - DOMAIN-SUFFIX,whrq.net
-  # 全球门户网站
-  - DOMAIN-SUFFIX,google.com
-  - DOMAIN-SUFFIX,facebook.com
   # 亚马逊VPS服务器
   - DOMAIN-SUFFIX,awsstatic.com
   - DOMAIN-SUFFIX,amazonaws.com
   - DOMAIN-SUFFIX,aws.amazon.com
-  #YOUTUBE
-  - DOMAIN-SUFFIX,youtube.com
-  - DOMAIN-SUFFIX,googlevideo.com
-  - DOMAIN-SUFFIX,ytimg.com
-  - DOMAIN-SUFFIX,ggpht.com
-  - DOMAIN-SUFFIX,googleapis.com  
   # youtube下载器
   - DOMAIN-SUFFIX,unidownloader.com
   # GITHUB
