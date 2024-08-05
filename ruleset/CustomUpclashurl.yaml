@@ -6,6 +6,15 @@
 # TOTAL: 6
 payload:
   # 个人自定义域名 直连
+  - DOMAIN-SUFFIX,wsjp.eleventrade.us.kg
+  - DOMAIN-SUFFIX,wskr.eleventrade.us.kg
+  - DOMAIN-SUFFIX,wshk.eleventrade.us.kg
+  - DOMAIN-SUFFIX,wssg.eleventrade.us.kg
+  - DOMAIN-SUFFIX,wsae.eleventrade.us.kg
+  - DOMAIN-SUFFIX,wsbr.eleventrade.us.kg
+  - DOMAIN-SUFFIX,wsnl.eleventrade.us.kg
+  - DOMAIN-SUFFIX,wsau.eleventrade.us.kg
+  - DOMAIN-SUFFIX,wsus.eleventrade.us.kg
   - DOMAIN-SUFFIX,eleventrade.us.kg
   - DOMAIN-SUFFIX,elevengroup.us.kg
   - DOMAIN-SUFFIX,elevenfamilies.us.kg
