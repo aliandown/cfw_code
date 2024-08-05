@@ -5,13 +5,6 @@
 # DOMAIN-SUFFIX: 6
 # TOTAL: 6
 payload:
-  # gitlab 直连
-  - DOMAIN-SUFFIX,gitlab-assets.oss-cn-hongkong.aliyuncs.com
-  - DOMAIN-SUFFIX,gitlab-static.net
-  - DOMAIN-SUFFIX,gitlab.com
-  - DOMAIN-SUFFIX,gitlab.net
-  - DOMAIN-SUFFIX,gitter-static.net
-  - DOMAIN-SUFFIX,gitter.im
   # 个人自定义域名 直连
   - DOMAIN-SUFFIX,eleventrade.us.kg
   - DOMAIN-SUFFIX,elevengroup.us.kg
