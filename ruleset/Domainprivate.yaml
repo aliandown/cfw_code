@@ -13,13 +13,6 @@ payload:
   - DOMAIN-SUFFIX,browserleaks.com
   - DOMAIN-SUFFIX,browserleaks.org
   - DOMAIN-SUFFIX,whrq.net
-  # gitlab 直连
-  - DOMAIN-SUFFIX,gitlab-assets.oss-cn-hongkong.aliyuncs.com
-  - DOMAIN-SUFFIX,gitlab-static.net
-  - DOMAIN-SUFFIX,gitlab.com
-  - DOMAIN-SUFFIX,gitlab.net
-  - DOMAIN-SUFFIX,gitter-static.net
-  - DOMAIN-SUFFIX,gitter.im
   # 全球门户网站
   - DOMAIN-SUFFIX,google.com
   - DOMAIN-SUFFIX,facebook.com
