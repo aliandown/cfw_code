@@ -23,6 +23,7 @@ payload:
   - DOMAIN-SUFFIX,protonvpn.com
   - DOMAIN-SUFFIX,vbar.fun
 # 微软解析
+  - DOMAIN-SUFFIX,www2.bing.com
   - DOMAIN-SUFFIX,self.events.data.microsoft.com
   - DOMAIN-SUFFIX,img-s-msn-com.akamaized.net
 # VPN软件说明书
