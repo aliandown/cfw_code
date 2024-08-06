@@ -1,6 +1,7 @@
 # NAME: Developer
 # REPO: https://github.com/blackmatrix7/ios_rule_script
 payload:
+  - DOMAIN-SUFFIX,api.ipify.org
   - DOMAIN-SUFFIX,pandora.com
   - DOMAIN-SUFFIX,tunein.com
   - DOMAIN-SUFFIX,bcbolthboa-a.akamaihd.net
