@@ -202,3 +202,5 @@ payload:
   - "+.jsdelivr.net"
 # 国外VPS管理
   - "+.serv00.com"
+其他
+  - "+.martianwallet.xyz"
