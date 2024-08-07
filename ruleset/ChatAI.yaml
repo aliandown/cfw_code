@@ -14,6 +14,3 @@ payload:
 # Monica
   - DOMAIN-SUFFIX,monica.im
   - DOMAIN-SUFFIX,onfastspring.com
-# 微软 Copilot
-  - PROCESS-NAME,copilot
-  - PROCESS-NAME,microsoft-copilot
