@@ -1,7 +1,2 @@
 # NAME: Developer
 payload:
-  - DOMAIN-SUFFIX,mirror.ghproxy.com
-  - DOMAIN-SUFFIX,ghproxy.com
-  - DOMAIN-SUFFIX,ghps.cc
-  - DOMAIN-SUFFIX,gh-proxy.com
-  - DOMAIN-SUFFIX,jsdelivr.net
