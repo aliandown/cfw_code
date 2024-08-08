@@ -23,6 +23,7 @@ payload:
 # 微软网址
   - DOMAIN-SUFFIX,live.com
 # github 第三方镜像
+  - DOMAIN-SUFFIX,mirror.ghproxy.com
   - DOMAIN-SUFFIX,ghproxy.com
   - DOMAIN-KEYWORD,ghproxy
   - DOMAIN-SUFFIX,ghps.cc
