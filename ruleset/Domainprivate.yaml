@@ -1,60 +1,26 @@
 # NAME: Developer
 # REPO: https://github.com/blackmatrix7/ios_rule_script
 payload:
-  - DOMAIN-SUFFIX,api.ipify.org
-  - DOMAIN-SUFFIX,pandora.com
-  - DOMAIN-SUFFIX,tunein.com
-  - DOMAIN-SUFFIX,bcbolthboa-a.akamaihd.net
-  - DOMAIN-SUFFIX,fast.com
-  - DOMAIN-SUFFIX,hulu.com
-  - DOMAIN-SUFFIX,dnsleaktest.com
-  - DOMAIN-SUFFIX,huluim.com
-  - DOMAIN-SUFFIX,hbogo.com
-  - DOMAIN-SUFFIX,2ip.io
-  - DOMAIN-SUFFIX,browserleaks.com
-  - DOMAIN-SUFFIX,browserleaks.org
-  - DOMAIN-SUFFIX,whrq.net
-  # 亚马逊VPS服务器
-  - DOMAIN-SUFFIX,awsstatic.com
-  - DOMAIN-SUFFIX,amazonaws.com
-  - DOMAIN-SUFFIX,aws.amazon.com
-  # youtube下载器
-  - DOMAIN-SUFFIX,unidownloader.com
-  # GITHUB
-  - DOMAIN-SUFFIX,github.com
-  - DOMAIN-SUFFIX,githubusercontent.com
-  - DOMAIN-SUFFIX,githubassets.com
-  # 国外域名管理
-    #
-  - DOMAIN-SUFFIX,visa.com
-  - DOMAIN-KEYWORD,visa.com
-  - DOMAIN-SUFFIX,spaceship.com
-  - DOMAIN-SUFFIX,1gb.ua
-  - DOMAIN-SUFFIX,l53.net
-    #
-  #- DOMAIN-SUFFIX,cloudflare.com
-  - DOMAIN-SUFFIX,workers.dev
-  - DOMAIN-SUFFIX,pages.dev
-    #各大佬反代优选DNS解析
+  #各大佬反代优选DNS解析
   #- DOMAIN-SUFFIX,dedyn.io
   #- DOMAIN-SUFFIX,rr.nu
-   - DOMAIN-SUFFIX,090227.xyz
-   - DOMAIN-SUFFIX,164746.xyz
-   - DOMAIN-SUFFIX,030101.xyz
+  #- DOMAIN-SUFFIX,090227.xyz
+  #- DOMAIN-SUFFIX,164746.xyz
+  #- DOMAIN-SUFFIX,030101.xyz
   # 个人域名管理
   #- DOMAIN-SUFFIX,elevenfamilies.link
-  - DOMAIN-SUFFIX,rr.nu
-  - DOMAIN-SUFFIX,ck.ua
-  - DOMAIN-SUFFIX,us.kg
-  - DOMAIN-SUFFIX,eu.org
+  #- DOMAIN-SUFFIX,rr.nu
+  #- DOMAIN-SUFFIX,ck.ua
+  #- DOMAIN-SUFFIX,us.kg
+  #- DOMAIN-SUFFIX,eu.org
   #- DOMAIN-SUFFIX,dynadot.com
-  - DOMAIN-SUFFIX,cloudns.net
-  - DOMAIN-SUFFIX,cloudns.org
-  - DOMAIN-SUFFIX,elevenfamilies.us.kg
-  - DOMAIN-SUFFIX,elevengroup.us.kg
-  - DOMAIN-SUFFIX,eleventrade.us.kg
-  - DOMAIN-SUFFIX,elevenfamilies.ck.ua
-  - DOMAIN-SUFFIX,elevenfamilies.eu.org
-  - DOMAIN-SUFFIX,elevenfamilies.link
+  #- DOMAIN-SUFFIX,cloudns.net
+  #- DOMAIN-SUFFIX,cloudns.org
+  #- DOMAIN-SUFFIX,elevenfamilies.us.kg
+  #- DOMAIN-SUFFIX,elevengroup.us.kg
+  #- DOMAIN-SUFFIX,eleventrade.us.kg
+  #- DOMAIN-SUFFIX,elevenfamilies.ck.ua
+  #- DOMAIN-SUFFIX,elevenfamilies.eu.org
+  #- DOMAIN-SUFFIX,elevenfamilies.link
   # 国外VPS服务器管理
   - DOMAIN-SUFFIX,serv00.com
