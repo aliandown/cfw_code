@@ -38,11 +38,6 @@ payload:
 # 足球直播
   - DOMAIN-SUFFIX,xinzuqiu.com
   - DOMAIN-KEYWORD,xinzuqiu
-  - IP-CIDR,154.197.2.239/32,no-resolve
-  - IP-CIDR,154.197.7.98/32,no-resolve
-  - IP-CIDR,154.197.2.240/32,no-resolve
-  - IP-CIDR,43.225.159.17/32,no-resolve
-  - IP-CIDR,103.107.238.128/32,no-resolve
 # 其他足球直播
   - DOMAIN-SUFFIX,365ball.com
   - DOMAIN-SUFFIX,wqzb01.com
