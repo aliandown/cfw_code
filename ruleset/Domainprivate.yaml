@@ -23,4 +23,4 @@ payload:
   #- DOMAIN-SUFFIX,elevenfamilies.eu.org
   #- DOMAIN-SUFFIX,elevenfamilies.link
   # 国外VPS服务器管理
-  - DOMAIN-SUFFIX,serv00.com
+  #- DOMAIN-SUFFIX,serv00.com
