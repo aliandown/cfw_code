@@ -1,6 +1,9 @@
 # NAME: Developer
 # REPO: https://github.com/blackmatrix7/ios_rule_script
 payload:
+  # WIFI挂机挖矿
+  - DOMAIN-KEYWORD,getgrass
+  - DOMAIN-SUFFIX,wynd.network
   #各大佬反代优选DNS解析
   #- DOMAIN-SUFFIX,dedyn.io
   #- DOMAIN-SUFFIX,rr.nu
