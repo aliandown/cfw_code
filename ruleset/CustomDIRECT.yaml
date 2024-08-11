@@ -9,6 +9,7 @@ payload:
   - DOMAIN-SUFFIX,jsdelivr.com
   - DOMAIN-SUFFIX,8xbet.tv
 # WIFI挂机挖矿
+  - DOMAIN-KEYWORD,getgrass
   - DOMAIN-SUFFIX,wynd.network
 # 个人域名管理
   - DOMAIN-SUFFIX,elevenfamilies.us.kg
