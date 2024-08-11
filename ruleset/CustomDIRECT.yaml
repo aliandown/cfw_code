@@ -8,6 +8,8 @@ payload:
   - DOMAIN-SUFFIX,greasyfork.org
   - DOMAIN-SUFFIX,jsdelivr.com
   - DOMAIN-SUFFIX,8xbet.tv
+# WIFI挂机挖矿
+  - DOMAIN-SUFFIX,wynd.network
 # 个人域名管理
   - DOMAIN-SUFFIX,elevenfamilies.us.kg
   - DOMAIN-SUFFIX,elevengroup.us.kg
