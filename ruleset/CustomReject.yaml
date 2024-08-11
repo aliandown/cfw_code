@@ -6,6 +6,11 @@ payload:
   - DOMAIN-SUFFIX,bugly.qq.com
 # 包含常用应用的各种去广告规则。
 # 可能有轻微副作用，可放心使用。（如果网站功能和广告冲突，会删掉去广告规则）
+# 个信 个安 个推 推送推广
+  - DOMAIN-SUFFIX,sdk.open.talk.getui.net
+  - DOMAIN-SUFFIX,sdk.open.talk.getui.com
+  - DOMAIN-SUFFIX,sdk.open.talk.gepush.com
+  - DOMAIN-SUFFIX,sdk.open.talk.igexin.com
 # 雷速体育
   - DOMAIN-SUFFIX,api.weibo.com
   - DOMAIN-SUFFIX,statistic.live.126.net
