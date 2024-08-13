@@ -5,7 +5,7 @@ payload:
   - DOMAIN-KEYWORD,getgrass
   - DOMAIN-SUFFIX,wynd.network
   #各大佬反代优选DNS解析
-  #- DOMAIN-SUFFIX,dedyn.io
+  - DOMAIN-SUFFIX,dedyn.io
   #- DOMAIN-SUFFIX,rr.nu
   #- DOMAIN-SUFFIX,090227.xyz
   #- DOMAIN-SUFFIX,164746.xyz
