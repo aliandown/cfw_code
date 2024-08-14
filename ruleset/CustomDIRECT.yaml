@@ -33,6 +33,10 @@ payload:
 # 足球直播
   #- DOMAIN-SUFFIX,xinzuqiu.com
   #- DOMAIN-KEYWORD,xinzuqiu
+# 乐球直播
+   - DOMAIN-SUFFIX,njscwh.com
+   - DOMAIN-SUFFIX,tgrfst.cc
+   - DOMAIN-KEYWORD,leqiu
 # 其他足球直播
   #- DOMAIN-SUFFIX,365ball.com
   #- DOMAIN-SUFFIX,wqzb01.com
