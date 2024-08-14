@@ -1,6 +1,8 @@
 # NAME: Developer
 # REPO: https://github.com/blackmatrix7/ios_rule_script
 payload:
+  # 雷速体育
+  - DOMAIN-SUFFIX,kantai8.com
   #皇冠体育
   - DOMAIN-SUFFIX,ry00000.com
   - DOMAIN-SUFFIX,f288880.com
