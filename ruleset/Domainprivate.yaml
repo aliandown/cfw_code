@@ -18,6 +18,22 @@ payload:
   - DOMAIN-SUFFIX,hga039.com
   - DOMAIN-SUFFIX,hga050.com
   - DOMAIN-SUFFIX,niab12345.com
+  - DOMAIN-SUFFIX,hgapp0001.com
+  - DOMAIN-SUFFIX,hgapp0002.com
+  - DOMAIN-SUFFIX,hgapp0003.com
+  - DOMAIN-SUFFIX,hgapp0004.com
+  - DOMAIN-SUFFIX,hgapp0005.com
+  - DOMAIN-SUFFIX,hgapp0006.com
+  - DOMAIN-SUFFIX,hgapp0007.com
+  - DOMAIN-SUFFIX,hgapp0008.com
+  - DOMAIN-SUFFIX,hgapp0009.com
+  - DOMAIN-SUFFIX,geniussports.com
+  - DOMAIN-SUFFIX,sportradar.com
+  - DOMAIN-SUFFIX,performfeeds.com
+  - DOMAIN-SUFFIX,llnwd.net
+  - DOMAIN-KEYWORD,imgarena- #imgarena-prod-eu.akamaized.net 包含的关键字
+  - DOMAIN-KEYWORD,-cdn001. #ws-cdn001.akamaized.net  包含的关键字
+  - DOMAIN-KEYWORD,-cdn002. #ws-cdn002.akamaized.net  包含的关键字
   # WIFI挂机挖矿
   - DOMAIN-KEYWORD,getgrass
   - DOMAIN-SUFFIX,wynd.network
