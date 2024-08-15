@@ -4,9 +4,6 @@ payload:
   - DOMAIN,ads.youtube.com
   - DOMAIN-SUFFIX,ssmobi.cn
   - DOMAIN-SUFFIX,bugly.qq.com
-# 黄瓜直播 快3  
-  - DOMAIN-SUFFIX,scxfcy.com
-  - DOMAIN-SUFFIX,vrxgrju.com
 # 包含常用应用的各种去广告规则。
 # 可能有轻微副作用，可放心使用。（如果网站功能和广告冲突，会删掉去广告规则）
 # 个信 个安 个推 推送推广
