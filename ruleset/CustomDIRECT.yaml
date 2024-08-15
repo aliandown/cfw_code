@@ -1,5 +1,7 @@
 # NAME: Developer
 payload:
+# IP查询网站
+  - DOMAIN-SUFFIX,ipcelou.com
 # 雷速体育
   - DOMAIN-SUFFIX,kantai8.com
 # WIFI挂机挖矿
