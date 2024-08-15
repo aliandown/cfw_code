@@ -42,6 +42,7 @@ payload:
   #- DOMAIN-SUFFIX,xinzuqiu.com
   #- DOMAIN-KEYWORD,xinzuqiu
 # 乐球直播
+   - DOMAIN-SUFFIX,jkttewya.com
    - DOMAIN-SUFFIX,njscwh.com
    - DOMAIN-SUFFIX,tgrfst.cc
    - DOMAIN-KEYWORD,leqiu
