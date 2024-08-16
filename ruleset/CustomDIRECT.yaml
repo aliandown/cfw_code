@@ -1,6 +1,5 @@
 # NAME: Developer
 payload:
-  - DOMAIN-SUFFIX,builtwith.com
 # IP查询网站
   - DOMAIN-SUFFIX,ipcelou.com
 # 星星体育
