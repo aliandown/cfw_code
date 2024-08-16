@@ -51,6 +51,8 @@ payload:
    - DOMAIN-SUFFIX,ksmttr.com
    - DOMAIN-SUFFIX,sypfumws.com
    - DOMAIN-SUFFIX,hbswfw.com
+# 小米电视APP
+   - PROCESS-NAME,com.mygithub0.tvbox0.osdX
 # 其他足球直播
   #- DOMAIN-SUFFIX,365ball.com
   #- DOMAIN-SUFFIX,wqzb01.com
