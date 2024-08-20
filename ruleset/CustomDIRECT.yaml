@@ -1,5 +1,7 @@
 # NAME: Developer
 payload:
+# 域名管理
+  - DOMAIN-KEYWORD,dynv6
 # IP查询网站
   #- DOMAIN-SUFFIX,ipcelou.com
 # 星星体育
