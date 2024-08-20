@@ -37,7 +37,7 @@ payload:
   - DOMAIN-KEYWORD,ghproxy
   - DOMAIN-SUFFIX,ghps.cc
   - DOMAIN-SUFFIX,gh-proxy.com
-  #- DOMAIN-SUFFIX,jsdelivr.net
+  - DOMAIN-KEYWORD,jsdelivr
 # 蓝箭体育
    - DOMAIN-SUFFIX,letarrow.com
 # 足球直播
