@@ -59,5 +59,7 @@ payload:
   #- DOMAIN-SUFFIX,elevenfamilies.ck.ua
   #- DOMAIN-SUFFIX,elevenfamilies.eu.org
   #- DOMAIN-SUFFIX,elevenfamilies.link
+  # fdcesu反代域名
+   - DOMAIN-SUFFIX,asia.cloud
   # 国外VPS服务器管理
   #- DOMAIN-SUFFIX,serv00.com
