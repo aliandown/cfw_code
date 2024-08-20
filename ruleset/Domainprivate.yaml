@@ -37,10 +37,10 @@ payload:
   - DOMAIN-KEYWORD,-cdn001. #ws-cdn001.akamaized.net  包含的关键字
   - DOMAIN-KEYWORD,-cdn002. #ws-cdn002.akamaized.net  包含的关键字
   # WIFI挂机挖矿
-  - DOMAIN-KEYWORD,getgrass
-  - DOMAIN-SUFFIX,wynd.network
+  #- DOMAIN-KEYWORD,getgrass
+  #- DOMAIN-SUFFIX,wynd.network
   #各大佬反代优选DNS解析
-  - DOMAIN-SUFFIX,dedyn.io
+  #- DOMAIN-SUFFIX,dedyn.io
   #- DOMAIN-SUFFIX,rr.nu
   #- DOMAIN-SUFFIX,090227.xyz
   #- DOMAIN-SUFFIX,164746.xyz
@@ -51,13 +51,13 @@ payload:
   #- DOMAIN-SUFFIX,us.kg
   #- DOMAIN-SUFFIX,eu.org
   #- DOMAIN-SUFFIX,dynadot.com
-  - DOMAIN-SUFFIX,cloudns.net
-  - DOMAIN-SUFFIX,cloudns.org
-  - DOMAIN-SUFFIX,elevenfamilies.us.kg
-  - DOMAIN-SUFFIX,elevengroup.us.kg
-  - DOMAIN-SUFFIX,eleventrade.us.kg
-  - DOMAIN-SUFFIX,elevenfamilies.ck.ua
-  - DOMAIN-SUFFIX,elevenfamilies.eu.org
-  - DOMAIN-SUFFIX,elevenfamilies.link
+  #- DOMAIN-SUFFIX,cloudns.net
+  #- DOMAIN-SUFFIX,cloudns.org
+  #- DOMAIN-SUFFIX,elevenfamilies.us.kg
+  #- DOMAIN-SUFFIX,elevengroup.us.kg
+  #- DOMAIN-SUFFIX,eleventrade.us.kg
+  #- DOMAIN-SUFFIX,elevenfamilies.ck.ua
+  #- DOMAIN-SUFFIX,elevenfamilies.eu.org
+  #- DOMAIN-SUFFIX,elevenfamilies.link
   # 国外VPS服务器管理
   #- DOMAIN-SUFFIX,serv00.com
