@@ -67,6 +67,7 @@ payload:
    - IP-CIDR,129.153.64.190/32
    - IP-CIDR,13.248.251.127/32
    - IP-CIDR,76.223.15.10/32
+   - IP-CIDR,76.223.15.10/32
 # 黄瓜直播
    - PROCESS-NAME,dsfm.ytif.qeya.mpya
    - DOMAIN-SUFFIX,ksmttr.com
