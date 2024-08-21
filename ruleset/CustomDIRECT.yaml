@@ -64,6 +64,8 @@ payload:
    - DOMAIN-SUFFIX,tfjddtj.cc
    - DOMAIN-SUFFIX,jksenbah.com
    - DOMAIN-KEYWORD,leqiu
+   - IP-CIDR,129.153.64.190/32
+   - IP-CIDR,13.248.251.127/32
 # 黄瓜直播
    - PROCESS-NAME,dsfm.ytif.qeya.mpya
    - DOMAIN-SUFFIX,ksmttr.com
