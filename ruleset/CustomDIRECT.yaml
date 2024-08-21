@@ -5,6 +5,7 @@ payload:
 # 域名管理
   - DOMAIN-KEYWORD,dynv6
 # IP查询网站
+  - DOMAIN-SUFFIX,builtwith.com
   #- DOMAIN-SUFFIX,ipcelou.com
 # 星星体育
   - DOMAIN-SUFFIX,xingxingtiyu.com
