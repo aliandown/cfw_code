@@ -8,6 +8,8 @@ payload:
   - DOMAIN-SUFFIX,ping.pe
   - DOMAIN-SUFFIX,builtwith.com
   #- DOMAIN-SUFFIX,ipcelou.com
+# VPS服务商
+  - DOMAIN-SUFFIX,linode.com
 # 星星体育
   - DOMAIN-SUFFIX,xingxingtiyu.com
 # 雷速体育
