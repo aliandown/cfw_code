@@ -53,15 +53,20 @@ payload:
   #- DOMAIN-SUFFIX,dynadot.com
   #- DOMAIN-SUFFIX,cloudns.net
   #- DOMAIN-SUFFIX,cloudns.org
-  #- DOMAIN-SUFFIX,elevenfamilies.us.kg
-  #- DOMAIN-SUFFIX,elevengroup.us.kg
-  #- DOMAIN-SUFFIX,eleventrade.us.kg
-  #- DOMAIN-SUFFIX,elevenfamilies.ck.ua
-  #- DOMAIN-SUFFIX,elevenfamilies.eu.org
-  #- DOMAIN-SUFFIX,elevenfamilies.link
+  - DOMAIN-SUFFIX,elevenfamilies.us.kg
+  - DOMAIN-SUFFIX,elevengroup.us.kg
+  - DOMAIN-SUFFIX,eleventrade.us.kg
+  - DOMAIN-SUFFIX,elevenfamilies.ck.ua
+  - DOMAIN-SUFFIX,elevenfamilies.eu.org
+  - DOMAIN-SUFFIX,elevenfamilies.link
   # fdcesu反代域名
   - DOMAIN-SUFFIX,asia.cloud
-  # github 第三方镜像
+ # github 第三方镜像
+  - DOMAIN-SUFFIX,mirror.ghproxy.com
+  - DOMAIN-SUFFIX,ghproxy.com
+  - DOMAIN-KEYWORD,ghproxy
+  - DOMAIN-SUFFIX,ghps.cc
+  - DOMAIN-SUFFIX,gh-proxy.com
   - DOMAIN-KEYWORD,jsdelivr
-  # 国外VPS服务器管理
-  #- DOMAIN-SUFFIX,serv00.com
+# 国外VPS服务器管理
+  - DOMAIN-SUFFIX,serv00.com
