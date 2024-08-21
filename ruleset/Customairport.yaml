@@ -1,7 +1,5 @@
 # NAME: Customairport
 payload:
-# 查询所有使用Cloudflare的网站
-  - DOMAIN-SUFFIX,builtwith.com
 # 国外软件下载网站
   - DOMAIN-SUFFIX,apkpure.com
   - DOMAIN-SUFFIX,apkcombo.com
