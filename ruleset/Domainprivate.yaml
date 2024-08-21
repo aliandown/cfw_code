@@ -62,6 +62,6 @@ payload:
   # fdcesu反代域名
    - DOMAIN-SUFFIX,asia.cloud
   # github 第三方镜像
-  - DOMAIN-KEYWORD,jsdelivr
+   - DOMAIN-KEYWORD,jsdelivr
   # 国外VPS服务器管理
   #- DOMAIN-SUFFIX,serv00.com
