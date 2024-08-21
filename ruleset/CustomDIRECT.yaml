@@ -1,6 +1,7 @@
 # NAME: Developer
 payload:
 # VPS服务商
+  - DOMAIN-KEYWORD,lightnode
 # 域名管理
   - DOMAIN-KEYWORD,dynv6
 # IP查询网站
