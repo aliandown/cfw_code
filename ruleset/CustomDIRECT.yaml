@@ -6,7 +6,6 @@ payload:
   - DOMAIN-KEYWORD,dynv6
 # IP查询网站
   - DOMAIN-SUFFIX,ping.pe
-  - DOMAIN-SUFFIX,builtwith.com
   #- DOMAIN-SUFFIX,ipcelou.com
 # VPS服务商
   - DOMAIN-SUFFIX,linode.com
