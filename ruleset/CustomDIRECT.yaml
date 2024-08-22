@@ -1,5 +1,7 @@
 # NAME: Developer
 payload:
+# termius SSH
+  - DOMAIN-SUFFIX,termius.com
 # 查询所有使用Cloudflare的网站
   - DOMAIN-SUFFIX,builtwith.com
 # 域名管理
