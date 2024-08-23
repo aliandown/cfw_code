@@ -1,5 +1,8 @@
 # NAME: Developer
 payload:
+# WIFI挂机挖矿
+  - DOMAIN-KEYWORD,getgrass
+  - DOMAIN,proxy2.wynd.network
 # termius SSH
   - DOMAIN-SUFFIX,termius.com
 # 查询所有使用Cloudflare的网站
