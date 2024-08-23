@@ -15,9 +15,6 @@ payload:
   - DOMAIN-SUFFIX,xingxingtiyu.com
 # 雷速体育
   - DOMAIN-SUFFIX,kantai8.com
-# WIFI挂机挖矿
-  - DOMAIN-KEYWORD,getgrass
-  - DOMAIN-SUFFIX,wynd.network
 # 个人域名管理
   - DOMAIN-SUFFIX,elevenfamilies.us.kg
   - DOMAIN-SUFFIX,elevengroup.us.kg
