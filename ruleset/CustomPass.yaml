@@ -1,1 +1,4 @@
-
+payload:
+# WIFI挂机挖矿
+  - DOMAIN-KEYWORD,getgrass
+  - DOMAIN-SUFFIX,wynd.network
