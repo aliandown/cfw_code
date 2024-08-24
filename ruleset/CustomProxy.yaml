@@ -106,8 +106,6 @@ payload:
 # 国外测速 Proxy
   - DOMAIN-SUFFIX,speedtest.net
   - DOMAIN-SUFFIX,fiber.google.com
-# 国外查询本地IP
-  - DOMAIN-SUFFIX,ip-api.com
 # 解锁地区 Proxy
   - DOMAIN-SUFFIX,pandora.com
   - DOMAIN-KEYWORD,pandora
