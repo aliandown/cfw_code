@@ -1,6 +1,8 @@
 # NAME: Developer
 # REPO: https://github.com/blackmatrix7/ios_rule_script
 payload:
+  # 开源建站
+  - DOMAIN-SUFFIX,gitlab.com
   # WIFI挂机挖矿
   - DOMAIN-KEYWORD,getgrass
   - DOMAIN,proxy2.wynd.network
@@ -40,9 +42,6 @@ payload:
   - DOMAIN-KEYWORD,imgarena- #imgarena-prod-eu.akamaized.net 包含的关键字
   - DOMAIN-KEYWORD,-cdn001. #ws-cdn001.akamaized.net  包含的关键字
   - DOMAIN-KEYWORD,-cdn002. #ws-cdn002.akamaized.net  包含的关键字
-  # WIFI挂机挖矿
-  #- DOMAIN-KEYWORD,getgrass
-  #- DOMAIN-SUFFIX,wynd.network
   #各大佬反代优选DNS解析
   #- DOMAIN-SUFFIX,dedyn.io
   #- DOMAIN-SUFFIX,rr.nu
