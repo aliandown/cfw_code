@@ -1,6 +1,8 @@
 # NAME: Developer
 # REPO: https://github.com/blackmatrix7/ios_rule_script
 payload:
+  # IP查询工具
+  - DOMAIN-SUFFIX,ping.pe
   # 开源建站
   - DOMAIN-SUFFIX,gitlab.com
   # WIFI挂机挖矿
