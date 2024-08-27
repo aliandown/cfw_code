@@ -1,5 +1,6 @@
 # NAME: 自定义跳过国内全球拉截
 payload:
+  - DOMAIN-SUFFIX,music.163.com
   - DOMAIN-SUFFIX,data.hicloud.com
   - DOMAIN-SUFFIX,40017.cn
   - DOMAIN-SUFFIX,17u.cn
