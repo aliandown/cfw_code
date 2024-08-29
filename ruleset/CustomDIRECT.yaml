@@ -8,8 +8,6 @@ payload:
   - DOMAIN-SUFFIX,termius.com
 # 查询所有使用Cloudflare的网站
   - DOMAIN-SUFFIX,builtwith.com
-# 域名管理
-  - DOMAIN-KEYWORD,dynv6
 # IP查询网站
   - DOMAIN-SUFFIX,ping.pe
   #- DOMAIN-SUFFIX,ipcelou.com
@@ -19,7 +17,10 @@ payload:
   - DOMAIN-SUFFIX,xingxingtiyu.com
 # 雷速体育
   - DOMAIN-SUFFIX,kantai8.com
+# 域名管理
+  - DOMAIN-KEYWORD,dynv6
 # 个人域名管理
+  - DOMAIN-SUFFIX,us.kg
   - DOMAIN-SUFFIX,elevenfamilies.us.kg
   - DOMAIN-SUFFIX,elevengroup.us.kg
   - DOMAIN-SUFFIX,eleventrade.us.kg
