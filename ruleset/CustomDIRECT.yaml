@@ -20,6 +20,7 @@ payload:
 # 域名管理
   - DOMAIN-KEYWORD,dynv6
 # 个人域名管理
+  - DOMAIN-KEYWORD,elevenfamilies
   - DOMAIN-SUFFIX,us.kg
   - DOMAIN-SUFFIX,elevenfamilies.us.kg
   - DOMAIN-SUFFIX,elevengroup.us.kg
