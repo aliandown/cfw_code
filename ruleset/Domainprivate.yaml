@@ -50,6 +50,8 @@ payload:
   #- DOMAIN-SUFFIX,090227.xyz
   #- DOMAIN-SUFFIX,164746.xyz
   #- DOMAIN-SUFFIX,030101.xyz
+  # 域名管理
+  - DOMAIN-KEYWORD,dynv6
   # 个人域名管理
   #- DOMAIN-SUFFIX,rr.nu
   #- DOMAIN-SUFFIX,ck.ua
@@ -58,6 +60,8 @@ payload:
   #- DOMAIN-SUFFIX,dynadot.com
   #- DOMAIN-SUFFIX,cloudns.net
   #- DOMAIN-SUFFIX,cloudns.org
+  - DOMAIN-KEYWORD,elevenfamilies
+  - DOMAIN-SUFFIX,us.kg
   - DOMAIN-SUFFIX,elevenfamilies.us.kg
   - DOMAIN-SUFFIX,elevengroup.us.kg
   - DOMAIN-SUFFIX,eleventrade.us.kg
