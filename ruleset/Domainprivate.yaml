@@ -50,6 +50,11 @@ payload:
   #- DOMAIN-SUFFIX,090227.xyz
   #- DOMAIN-SUFFIX,164746.xyz
   #- DOMAIN-SUFFIX,030101.xyz
+  # CF反代域名测速地址
+  - DOMAIN-SUFFIX,baipiao.eu.org
+  - DOMAIN-SUFFIX,visa.com
+  - DOMAIN-KEYWORD,visa
+  #- DOMAIN-SUFFIX,whoer.net
   # 域名管理
   - DOMAIN-KEYWORD,dynv6
   # 个人域名管理
