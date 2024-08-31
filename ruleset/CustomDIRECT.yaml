@@ -21,13 +21,15 @@ payload:
   - DOMAIN-KEYWORD,dynv6
 # 个人域名管理
   - DOMAIN-KEYWORD,elevenfamilies
-  - DOMAIN-SUFFIX,us.kg
-  - DOMAIN-SUFFIX,elevenfamilies.us.kg
-  - DOMAIN-SUFFIX,elevengroup.us.kg
-  - DOMAIN-SUFFIX,eleventrade.us.kg
-  - DOMAIN-SUFFIX,elevenfamilies.ck.ua
-  - DOMAIN-SUFFIX,elevenfamilies.eu.org
-  - DOMAIN-SUFFIX,elevenfamilies.link  
+  - DOMAIN-KEYWORD,elevengroup
+  - DOMAIN-KEYWORD,eleventrade
+  #- DOMAIN-SUFFIX,us.kg
+  #- DOMAIN-SUFFIX,elevenfamilies.us.kg
+  #- DOMAIN-SUFFIX,elevengroup.us.kg
+  #- DOMAIN-SUFFIX,eleventrade.us.kg
+  #- DOMAIN-SUFFIX,elevenfamilies.ck.ua
+  #- DOMAIN-SUFFIX,elevenfamilies.eu.org
+  #- DOMAIN-SUFFIX,elevenfamilies.link
 # CF反代域名测速地址
   #- DOMAIN-SUFFIX,baipiao.eu.org
   #- DOMAIN-SUFFIX,visa.com
