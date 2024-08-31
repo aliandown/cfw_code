@@ -66,13 +66,15 @@ payload:
   #- DOMAIN-SUFFIX,cloudns.net
   #- DOMAIN-SUFFIX,cloudns.org
   - DOMAIN-KEYWORD,elevenfamilies
-  - DOMAIN-SUFFIX,us.kg
-  - DOMAIN-SUFFIX,elevenfamilies.us.kg
-  - DOMAIN-SUFFIX,elevengroup.us.kg
-  - DOMAIN-SUFFIX,eleventrade.us.kg
-  - DOMAIN-SUFFIX,elevenfamilies.ck.ua
-  - DOMAIN-SUFFIX,elevenfamilies.eu.org
-  - DOMAIN-SUFFIX,elevenfamilies.link
+  - DOMAIN-KEYWORD,elevengroup
+  - DOMAIN-KEYWORD,eleventrade
+  #- DOMAIN-SUFFIX,us.kg
+  #- DOMAIN-SUFFIX,elevenfamilies.us.kg
+  #- DOMAIN-SUFFIX,elevengroup.us.kg
+  #- DOMAIN-SUFFIX,eleventrade.us.kg
+  #- DOMAIN-SUFFIX,elevenfamilies.ck.ua
+  #- DOMAIN-SUFFIX,elevenfamilies.eu.org
+  #- DOMAIN-SUFFIX,elevenfamilies.link
   # fdcesu反代域名
   #- DOMAIN-SUFFIX,asia.cloud
  # github 第三方镜像
