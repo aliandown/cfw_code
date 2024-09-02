@@ -81,6 +81,8 @@ payload:
    - DOMAIN-SUFFIX,ksmttr.com
    - DOMAIN-SUFFIX,sypfumws.com
    - DOMAIN-SUFFIX,hbswfw.com
+   - DOMAIN-SUFFIX,ipdrgm.com
+   - DOMAIN-SUFFIX,ksdjjasjf.xyz
 # 小米电视APP
    - DOMAIN-SUFFIX,mmzb09.com
    - PROCESS-NAME,com.mygithub0.tvbox0.osdX
