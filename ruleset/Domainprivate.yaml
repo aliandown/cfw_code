@@ -65,9 +65,9 @@ payload:
   #- DOMAIN-SUFFIX,dynadot.com
   #- DOMAIN-SUFFIX,cloudns.net
   #- DOMAIN-SUFFIX,cloudns.org
-  - DOMAIN-KEYWORD,elevenfamilies
-  - DOMAIN-KEYWORD,elevengroup
-  - DOMAIN-KEYWORD,eleventrade
+  #- DOMAIN-KEYWORD,elevenfamilies
+  #- DOMAIN-KEYWORD,elevengroup
+  #- DOMAIN-KEYWORD,eleventrade
   #- DOMAIN-SUFFIX,us.kg
   #- DOMAIN-SUFFIX,elevenfamilies.us.kg
   #- DOMAIN-SUFFIX,elevengroup.us.kg
