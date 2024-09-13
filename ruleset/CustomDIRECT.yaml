@@ -1,25 +1,27 @@
 # NAME: Developer
 payload:
-# WIFI挂机挖矿
+  # 足球比分网
+  - DOMAIN-KEYWORD,dszuqiu
+  # WIFI挂机挖矿
   - DOMAIN-KEYWORD,getgrass
   - DOMAIN,proxy2.wynd.network
   - DOMAIN-SUFFIX,zendesk.com
-# termius SSH
+  # termius SSH
   - DOMAIN-SUFFIX,termius.com
-# 查询所有使用Cloudflare的网站
+  # 查询所有使用Cloudflare的网站
   - DOMAIN-SUFFIX,builtwith.com
-# IP查询网站
+  # IP查询网站
   - DOMAIN-SUFFIX,ping.pe
   #- DOMAIN-SUFFIX,ipcelou.com
-# VPS服务商
+  # VPS服务商
   - DOMAIN-SUFFIX,linode.com
-# 星星体育
+  # 星星体育
   - DOMAIN-SUFFIX,xingxingtiyu.com
-# 雷速体育
+  # 雷速体育
   - DOMAIN-SUFFIX,kantai8.com
-# 域名管理
+  # 域名管理
   - DOMAIN-KEYWORD,dynv6
-# 个人域名管理
+  # 个人域名管理
   - DOMAIN-KEYWORD,elevenfamilies
   - DOMAIN-KEYWORD,elevengroup
   - DOMAIN-KEYWORD,eleventrade
@@ -30,32 +32,32 @@ payload:
   #- DOMAIN-SUFFIX,elevenfamilies.ck.ua
   #- DOMAIN-SUFFIX,elevenfamilies.eu.org
   #- DOMAIN-SUFFIX,elevenfamilies.link
-# CF反代域名测速地址
+  # CF反代域名测速地址
   #- DOMAIN-SUFFIX,baipiao.eu.org
   #- DOMAIN-SUFFIX,visa.com
   #- DOMAIN-KEYWORD,visa
   #- DOMAIN-SUFFIX,whoer.net
-# 联通性测速地址
+  # 联通性测速地址
   - DOMAIN-SUFFIX,gstatic.com
-# 1XBET网址
+  # 1XBET网址
   #- DOMAIN-SUFFIX,1xlite-152661.top
   #- DOMAIN-SUFFIX,1xbet.com
   #- DOMAIN-KEYWORD,1xbet
-# 微软网址
+  # 微软网址
   #- DOMAIN-SUFFIX,live.com
-# github 第三方镜像
+  # github 第三方镜像
   - DOMAIN-SUFFIX,mirror.ghproxy.com
   - DOMAIN-SUFFIX,ghproxy.com
   - DOMAIN-KEYWORD,ghproxy
   - DOMAIN-SUFFIX,ghps.cc
   - DOMAIN-SUFFIX,gh-proxy.com
   - DOMAIN-KEYWORD,jsdelivr
-# 蓝箭体育
+  # 蓝箭体育
    - DOMAIN-SUFFIX,letarrow.com
-# 足球直播
+  # 足球直播
   #- DOMAIN-SUFFIX,xinzuqiu.com
   #- DOMAIN-KEYWORD,xinzuqiu
-# 乐球直播
+  # 乐球直播
    - DOMAIN-SUFFIX,jkttewya.com
    - DOMAIN-SUFFIX,njscwh.com
    - DOMAIN-SUFFIX,tgrfst.cc
@@ -76,7 +78,7 @@ payload:
    - IP-CIDR,13.248.251.127/32,no-resolve
    - IP-CIDR,76.223.15.10/32,no-resolve
    - IP-CIDR,76.223.15.10/32,no-resolve
-# 黄瓜直播
+  # 黄瓜直播
    - PROCESS-NAME,dsfm.ytif.qeya.mpya
    - DOMAIN-SUFFIX,ksmttr.com
    - DOMAIN-SUFFIX,sypfumws.com
@@ -84,10 +86,10 @@ payload:
    - DOMAIN-SUFFIX,ipdrgm.com
    - DOMAIN-SUFFIX,ksdjjasjf.xyz
    - DOMAIN-SUFFIX,scxfcy.com
-# 小米电视APP
+  # 小米电视APP
    - DOMAIN-SUFFIX,mmzb09.com
    - PROCESS-NAME,com.mygithub0.tvbox0.osdX
-# 其他足球直播
+  # 其他足球直播
   #- DOMAIN-SUFFIX,365ball.com
   #- DOMAIN-SUFFIX,wqzb01.com
   #- DOMAIN-KEYWORD,wqzb01
