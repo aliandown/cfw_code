@@ -1,7 +1,10 @@
 # NAME: Developer
 payload:
+  # 软件
+  - DOMAIN-KEYWORD,immersivetranslate
   # 足球比分网
   - DOMAIN-KEYWORD,dszuqiu
+  - DOMAIN-KEYWORD,static007
   # WIFI挂机挖矿
   - DOMAIN-KEYWORD,getgrass
   - DOMAIN,proxy2.wynd.network
@@ -58,6 +61,7 @@ payload:
   #- DOMAIN-SUFFIX,xinzuqiu.com
   #- DOMAIN-KEYWORD,xinzuqiu
   # 乐球直播
+   - DOMAIN-SUFFIX,jkhgstye.com
    - DOMAIN-SUFFIX,dandongrf.com
    - DOMAIN-SUFFIX,tuiyes.com
    - DOMAIN-SUFFIX,vrxgrju.com
