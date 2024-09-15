@@ -1,5 +1,7 @@
 # NAME: Developer
 payload:
+  # 恶意软件
+  - DOMAIN-SUFFIX,nelreports.net
   # 软件
   - DOMAIN-KEYWORD,immersivetranslate
   # 足球比分网
