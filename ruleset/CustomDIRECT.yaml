@@ -63,6 +63,7 @@ payload:
   #- DOMAIN-SUFFIX,xinzuqiu.com
   #- DOMAIN-KEYWORD,xinzuqiu
   # 乐球直播
+   - DOMAIN-SUFFIX,jkuueyqax.com
    - DOMAIN-SUFFIX,jkhgstye.com
    - DOMAIN-SUFFIX,dandongrf.com
    - DOMAIN-SUFFIX,tuiyes.com
