@@ -44,6 +44,7 @@ payload:
   - DOMAIN-KEYWORD,imgarena- #imgarena-prod-eu.akamaized.net 包含的关键字
   - DOMAIN-KEYWORD,-cdn001. #ws-cdn001.akamaized.net  包含的关键字
   - DOMAIN-KEYWORD,-cdn002. #ws-cdn002.akamaized.net  包含的关键字
+  - IP-CIDR,123.108.119.118/32,no-resolve
   #各大佬反代优选DNS解析
   #- DOMAIN-SUFFIX,dedyn.io
   #- DOMAIN-SUFFIX,rr.nu
