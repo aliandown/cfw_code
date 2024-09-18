@@ -47,6 +47,7 @@ payload:
   #- DOMAIN-SUFFIX,asia.cloud
  # github 第三方镜像
   - DOMAIN-SUFFIX,mirror.ghproxy.com
+  - DOMAIN-SUFFIX,ghp.ci
   - DOMAIN-SUFFIX,ghproxy.com
   - DOMAIN-KEYWORD,ghproxy
   - DOMAIN-SUFFIX,ghps.cc
