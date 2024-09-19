@@ -4,6 +4,7 @@ payload:
   - DOMAIN-SUFFIX,nelreports.net
   # 软件
   - DOMAIN-KEYWORD,immersivetranslate
+  - DOMAIN-KEYWORD,mozilla
   # 足球比分网
   - DOMAIN-KEYWORD,dszuqiu
   - DOMAIN-KEYWORD,static007
