@@ -5,6 +5,7 @@ payload:
   # 软件
   - DOMAIN-KEYWORD,immersivetranslate
   - DOMAIN-KEYWORD,mozilla
+  - DOMAIN-KEYWORD,unlocktool
   # 足球比分网
   - DOMAIN-KEYWORD,dszuqiu
   - DOMAIN-KEYWORD,static007
