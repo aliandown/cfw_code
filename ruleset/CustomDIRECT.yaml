@@ -6,6 +6,7 @@ payload:
   - DOMAIN-KEYWORD,immersivetranslate
   - DOMAIN-KEYWORD,mozilla
   - DOMAIN-KEYWORD,unlocktool
+  - DOMAIN-SUFFIX,emojiall.com
   # 足球比分网
   - DOMAIN-KEYWORD,dszuqiu
   - DOMAIN-KEYWORD,static007
