@@ -3,7 +3,7 @@ payload:
   # 恶意软件
   - DOMAIN-SUFFIX,nelreports.net
   # 软件
-  - DOMAIN-SUFFIX,rd.16583.com
+  - DOMAIN-SUFFIX,rd.16583.xyz
   - DOMAIN-SUFFIX,cn.bing.com
   - DOMAIN-KEYWORD,immersivetranslate
   - DOMAIN-KEYWORD,mozilla
