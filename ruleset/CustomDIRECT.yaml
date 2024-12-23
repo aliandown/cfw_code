@@ -4,6 +4,7 @@ payload:
   - DOMAIN-SUFFIX,nelreports.net
   # 软件
   - DOMAIN-SUFFIX,rd.16583.xyz
+  - DOMAIN-SUFFIX,istoreos.com
   - DOMAIN-SUFFIX,x8box.com
   - DOMAIN-KEYWORD,immersivetranslate
   - DOMAIN-KEYWORD,mozilla
