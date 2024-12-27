@@ -15,7 +15,6 @@ payload:
   - DOMAIN-SUFFIX,emojiall.com
   - DOMAIN-SUFFIX,teamviewer.com
   - DOMAIN-KEYWORD,teamviewer
-  - DOMAIN-SUFFIX,cn.bing.com
   # 足球比分网
   - DOMAIN-KEYWORD,dszuqiu
   - DOMAIN-KEYWORD,static007
