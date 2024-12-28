@@ -4,7 +4,8 @@ payload:
   - DOMAIN-SUFFIX,nelreports.net
   # 软件
   - DOMAIN-SUFFIX,pingtools.org
-  - DOMAIN-SUFFIX,rd.16583.xyz
+  - DOMAIN-SUFFIX,rd4.16583.xyz
+  - DOMAIN-SUFFIX,rd6.16583.xyz
   - DOMAIN-SUFFIX,cjkj.ink
   - DOMAIN-SUFFIX,hikaixin.com
   - DOMAIN-SUFFIX,kaixindianshi.com
