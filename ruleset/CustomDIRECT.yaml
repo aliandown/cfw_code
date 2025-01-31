@@ -3,6 +3,10 @@ payload:
   # 恶意软件
   - DOMAIN-SUFFIX,nelreports.net
   # 软件
+  - DOMAIN-SUFFIX,sanity.io
+  - DOMAIN-KEYWORD,sanity
+  - DOMAIN-SUFFIX,tailscale.com
+  - DOMAIN-KEYWORD,tailscale
   - DOMAIN-SUFFIX,tailscale.com
   - DOMAIN-KEYWORD,tailscale
   - DOMAIN-SUFFIX,gitlink.net
