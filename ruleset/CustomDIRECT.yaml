@@ -26,6 +26,13 @@ payload:
   - DOMAIN-SUFFIX,emojiall.com
   - DOMAIN-SUFFIX,teamviewer.com
   - DOMAIN-KEYWORD,teamviewer
+  # gitlab
+  - DOMAIN-SUFFIX,gitlab-assets.oss-cn-hongkong.aliyuncs.com
+  - DOMAIN-SUFFIX,gitlab-static.net
+  - DOMAIN-SUFFIX,gitlab.com
+  - DOMAIN-SUFFIX,gitlab.net
+  - DOMAIN-SUFFIX,gitter-static.net
+  - DOMAIN-SUFFIX,gitter.im
   # 足球比分网
   - DOMAIN-KEYWORD,dszuqiu
   - DOMAIN-KEYWORD,static007
