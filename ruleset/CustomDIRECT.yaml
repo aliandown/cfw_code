@@ -26,6 +26,10 @@ payload:
   - DOMAIN-SUFFIX,emojiall.com
   - DOMAIN-SUFFIX,teamviewer.com
   - DOMAIN-KEYWORD,teamviewer
+  # IPTV
+  - DOMAIN-KEYWORD,cmdns.xyz
+  - DOMAIN-KEYWORD,v1.mk
+  - DOMAIN-KEYWORD,112114.xyz
   # gitlab
   - DOMAIN-SUFFIX,gitlab-assets.oss-cn-hongkong.aliyuncs.com
   - DOMAIN-SUFFIX,gitlab-static.net
