@@ -85,6 +85,8 @@ payload:
   - DOMAIN-KEYWORD,ghproxy
   - DOMAIN-SUFFIX,ghps.cc
   - DOMAIN-SUFFIX,gh-proxy.com
+  - DOMAIN-SUFFIX,ghgo.xyz
+  - DOMAIN-SUFFIX,ghfast.top
   - DOMAIN-KEYWORD,jsdelivr
   # 蓝箭体育
    - DOMAIN-SUFFIX,letarrow.com
