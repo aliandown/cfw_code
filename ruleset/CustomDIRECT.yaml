@@ -3,6 +3,7 @@ payload:
   # 恶意软件
   - DOMAIN-SUFFIX,nelreports.net
   # 软件
+  - DOMAIN-SUFFIX,gitlink.net
   - DOMAIN-SUFFIX,pingtools.org
   - DOMAIN-SUFFIX,rd4.16583.xyz
   - DOMAIN-SUFFIX,rd6.16583.xyz
