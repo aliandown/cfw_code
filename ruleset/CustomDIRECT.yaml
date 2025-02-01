@@ -1,7 +1,5 @@
 # NAME: Developer
 payload:
-  # Worker
-  - DOMAIN-KEYWORD,visa
   # 恶意软件
   - DOMAIN-SUFFIX,nelreports.net
   # 软件
