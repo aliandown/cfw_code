@@ -126,7 +126,9 @@ payload:
    - DOMAIN-SUFFIX,b1tffe.cc
    - DOMAIN-SUFFIX,tfjddtj.cc
    - DOMAIN-SUFFIX,jksenbah.com
+   - DOMAIN-SUFFIX,jkdwdsn.com
    - DOMAIN-KEYWORD,leqiu
+   - IP-CIDR,13.248.237.121,no-resolve
    - IP-CIDR,13.248.237.121,no-resolve
    - IP-CIDR,3.33.231.20/32,no-resolve
    - IP-CIDR,129.153.64.190/32,no-resolve
