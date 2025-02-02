@@ -9,12 +9,12 @@ payload:
 # 乐视手机拦截
   - DOMAIN-SUFFIX,lfengmobile.com
 # 个信 个安 个推 推送推广
-  - DOMAIN-SUFFIX,ido.getui.net
-  - DOMAIN-SUFFIX,sdk.open.phone.igexin.com
-  - DOMAIN-SUFFIX,sdk.open.talk.getui.net
-  - DOMAIN-SUFFIX,sdk.open.talk.getui.com
-  - DOMAIN-SUFFIX,sdk.open.talk.gepush.com
-  - DOMAIN-SUFFIX,sdk.open.talk.igexin.com
+  #- DOMAIN-SUFFIX,ido.getui.net
+  #- DOMAIN-SUFFIX,sdk.open.phone.igexin.com
+  #- DOMAIN-SUFFIX,sdk.open.talk.getui.net
+  #- DOMAIN-SUFFIX,sdk.open.talk.getui.com
+  #- DOMAIN-SUFFIX,sdk.open.talk.gepush.com
+  #- DOMAIN-SUFFIX,sdk.open.talk.igexin.com
 # 雷速体育
   - DOMAIN-SUFFIX,api.weibo.com
   - DOMAIN-SUFFIX,statistic.live.126.net
