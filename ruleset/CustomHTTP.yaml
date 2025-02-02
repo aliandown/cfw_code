@@ -1,3 +1,6 @@
 # NAME: Developer
 payload:
-  
+  # 球探体育
+  - DOMAIN-SUFFIX,ewin007.com
+  - DOMAIN-SUFFIX,titan007.com
+  - DOMAIN-SUFFIX,static007.com
