@@ -133,6 +133,14 @@ payload:
   #- DOMAIN-SUFFIX,xinzuqiu.com
   #- DOMAIN-KEYWORD,xinzuqiu
   # 乐球直播
+   - DOMAIN-SUFFIX,smzb618.com
+   - DOMAIN-SUFFIX,pokepay.cc
+   - DOMAIN-SUFFIX,paytend.com
+   - DOMAIN-SUFFIX,blahdns.com
+   - DOMAIN-SUFFIX,jytv600.com
+   - DOMAIN-SUFFIX,fifa.com
+   - DOMAIN-SUFFIX,v2xtls.org
+   - DOMAIN-SUFFIX,wqzb.com
    - DOMAIN-SUFFIX,hhmxwl.com
    - DOMAIN-SUFFIX,qdmeron.com
    - DOMAIN-SUFFIX,nxit.net
