@@ -1,3 +1,10 @@
+aryanna.ns.cloudflare.com:443
+nucum.ns.cloudflare.com:443
+uma.ns.cloudflare.com:443
+melinda.ns.cloudflare.com:443
+anita.ns.cloudflare.com:443
+eva.ns.cloudflare.com:443
+dell.ns.cloudflare.com:443
 chloe.ns.cloudflare.com:443
 erin.ns.cloudflare.com:443
 luciana.ns.cloudflare.com:443
