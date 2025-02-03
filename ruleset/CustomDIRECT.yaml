@@ -133,6 +133,7 @@ payload:
   #- DOMAIN-SUFFIX,xinzuqiu.com
   #- DOMAIN-KEYWORD,xinzuqiu
   # 乐球直播
+   - DOMAIN-SUFFIX,hhmxwl.com
    - DOMAIN-SUFFIX,qdmeron.com
    - DOMAIN-SUFFIX,nxit.net
    - DOMAIN-SUFFIX,jkuueyqax.com
