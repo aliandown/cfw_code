@@ -25,7 +25,7 @@ payload:
   - DOMAIN-KEYWORD,-cdn002. #ws-cdn002.akamaized.net  包含的关键字
   - DOMAIN-KEYWORD,-ipv4.   #lc-live-http-ipv4.akamaized.net  包含的关键字
   - DOMAIN-KEYWORD,-msn-com #img-s-msn-com.akamaized.net  包含的关键字
-  - DOMAIN-KEYWORD,1309591.
+  - DOMAIN-SUFFIX,1309591.akamaized.net #1309591.akamaized.net  包含的关键字
   - IP-CIDR,123.108.119.118/32,no-resolve
   - IP-CIDR,199.26.98.228/32,no-resolve
   - IP-CIDR,123.108.119.156/32,no-resolve
