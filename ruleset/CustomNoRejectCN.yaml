@@ -7,5 +7,7 @@ payload:
   - DOMAIN-SUFFIX,40017.cn
   - DOMAIN-SUFFIX,17u.cn
   - DOMAIN-SUFFIX,7moor-fs1.com
-# 微软
+  # deepseek
+  - DOMAIN-SUFFIX,castatic.fengkongcloud.com
+  # 微软
   - DOMAIN-SUFFIX,app.adjust.com
