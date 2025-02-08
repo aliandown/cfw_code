@@ -19,6 +19,7 @@ payload:
   - DOMAIN-SUFFIX,hga039.com
   - DOMAIN-SUFFIX,hga050.com
   - DOMAIN-SUFFIX,niab12345.com
+  - DOMAIN-SUFFIX,akamaized.net
   - DOMAIN-KEYWORD,imgarena- #imgarena-prod-eu.akamaized.net 包含的关键字
   - DOMAIN-SUFFIX,llnwd.net
   - DOMAIN-KEYWORD,-cdn001. #ws-cdn001.akamaized.net  包含的关键字
