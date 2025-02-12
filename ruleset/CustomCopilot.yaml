@@ -5,6 +5,7 @@ payload:
   - DOMAIN,browser.pipe.aria.microsoft.com
   - DOMAIN,www.bingapis.com
   - DOMAIN,functional.events.data.microsoft.com
+
   - DOMAIN,designer.microsoft.com
   - DOMAIN,edge.microsoft.com
   - DOMAIN,copilot.microsoft.com
@@ -18,6 +19,7 @@ payload:
   - DOMAIN,prod-westus2.access-point.cloudmessaging.edge.microsoft.com #自定加入
   #- DOMAIN,cn-bing-com.cn.a-0001.a-msedge.net
   #- DOMAIN,ooc-g2.tm-4.office.com
+  - DOMAIN,sin-efz.ms-acdc.office.com
   - DOMAIN,telem-edge.smartscreen.microsoft.com
   - DOMAIN,client.wns.windows.com #自定加入
   - DOMAIN-SUFFIX,a-msedge.net #自定加入
