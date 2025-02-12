@@ -15,6 +15,6 @@ ProxyIP.Oracle.CMLiussss.net
 ProxyIP.Aliyun.CMLiussss.net
 ProxyIP.Oracle.CMLiussss.net
 ProxyIP.DigitalOcean.CMLiussss.net
-ProxyIP.Vultr.fxxk.CMLiussss.net
-ProxyIP.Multacom.fxxk.CMLiussss.net
+ProxyIP.Vultr.CMLiussss.net
+ProxyIP.Multacom.CMLiussss.net
 
