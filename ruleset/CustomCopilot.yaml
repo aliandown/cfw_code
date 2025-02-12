@@ -14,6 +14,7 @@ payload:
   - DOMAIN,xsp-efz.ms-acdc.office.com #自定加入
   #- DOMAIN-SUFFIX,mm.bing.net  #自定加入
   #- DOMAIN,prod-westus2.access-point.cloudmessaging.edge.microsoft.com #自定加入
+  - DOMAIN,cn-bing-com.cn.a-0001.a-msedge.net
   - DOMAIN-SUFFIX,centralus.cloudapp.azure.com
   - DOMAIN-SUFFIX,northeurope.cloudapp.azure.com
   - DOMAIN-SUFFIX,events.data.microsoft.com
