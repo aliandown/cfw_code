@@ -12,7 +12,7 @@ payload:
   - DOMAIN,prod-japaneast.access-point.cloudmessaging.edge.microsoft.com #自定加入
   - DOMAIN,studiostaticassetsprod.azureedge.net #自定加入
   - DOMAIN,edge-mobile-static.azureedge.net #自定加入
-  #- DOMAIN,xsp-efz.ms-acdc.office.com #自定加入
+  - DOMAIN,xsp-efz.ms-acdc.office.com #自定加入
   #- DOMAIN,static.edge.microsoftapp.net
   #- DOMAIN-SUFFIX,mm.bing.net  #自定加入
   - DOMAIN,prod-westus2.access-point.cloudmessaging.edge.microsoft.com #自定加入
