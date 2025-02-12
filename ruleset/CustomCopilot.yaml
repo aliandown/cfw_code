@@ -18,7 +18,7 @@ payload:
   - DOMAIN,prod-westus2.access-point.cloudmessaging.edge.microsoft.com #自定加入
   #- DOMAIN,cn-bing-com.cn.a-0001.a-msedge.net
   #- DOMAIN,ooc-g2.tm-4.office.com
-  #- DOMAIN,client.wns.windows.com
+  - DOMAIN,client.wns.windows.com #自定加入
   - DOMAIN-SUFFIX,a-msedge.net #自定加入
   - DOMAIN-SUFFIX,westus.cloudapp.azure.com #自定加入
   - DOMAIN-SUFFIX,westus2.cloudapp.azure.com #自定加入
