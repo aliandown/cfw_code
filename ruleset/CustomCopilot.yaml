@@ -5,7 +5,7 @@ payload:
   - DOMAIN,browser.pipe.aria.microsoft.com
   - DOMAIN,www.bingapis.com
   - DOMAIN,functional.events.data.microsoft.com
-
+  - DOMAIN,assets.msn.cn
   - DOMAIN,designer.microsoft.com
   - DOMAIN,edge.microsoft.com
   - DOMAIN,copilot.microsoft.com
