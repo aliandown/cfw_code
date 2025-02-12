@@ -18,7 +18,6 @@ payload:
   - DOMAIN,prod-westus2.access-point.cloudmessaging.edge.microsoft.com #自定加入
   #- DOMAIN,cn-bing-com.cn.a-0001.a-msedge.net
   - DOMAIN-SUFFIX,a-msedge.net #自定加入
-  - DOMAIN-SUFFIX,trafficmanager.net #自定加入
   - DOMAIN-SUFFIX,westus.cloudapp.azure.com #自定加入
   - DOMAIN-SUFFIX,westus2.cloudapp.azure.com #自定加入
   - DOMAIN-SUFFIX,uksouth.cloudapp.azure.com #自定加入
@@ -31,3 +30,4 @@ payload:
   - DOMAIN-SUFFIX,northeurope2.cloudapp.azure.com #自定加入
   - DOMAIN-SUFFIX,events.data.microsoft.com
   - DOMAIN-SUFFIX,prod.do.dsp.mp.microsoft.com
+  - DOMAIN-SUFFIX,trafficmanager.net
