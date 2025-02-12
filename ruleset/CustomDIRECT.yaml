@@ -1,7 +1,7 @@
 # NAME: Developer
 payload:
   # 恶意软件
-  - DOMAIN-SUFFIX,nelreports.net
+  #- DOMAIN-SUFFIX,nelreports.net
   # 内网穿透
   - DOMAIN-SUFFIX,tailscale.com
   - DOMAIN-KEYWORD,tailscale
