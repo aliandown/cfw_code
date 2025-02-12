@@ -14,4 +14,3 @@ peaches.ns.cloudflare.com:443
 stevie.ns.cloudflare.com:443
 carla.ns.cloudflare.com:443
 gabriella.ns.cloudflare.com:443
-kinsley.ns.cloudflare.com:443
