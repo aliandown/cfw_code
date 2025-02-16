@@ -18,7 +18,7 @@ payload:
 # 雷速体育
   - DOMAIN-SUFFIX,api.weibo.com
   - DOMAIN-SUFFIX,statistic.live.126.net
-  - DOMAIN-SUFFIX,mssdk.volces.com
+  #- DOMAIN-SUFFIX,mssdk.volces.com
   - DOMAIN-SUFFIX,sv.adintl.cn
   - DOMAIN-SUFFIX,ap2.qiyukf.com
   - DOMAIN-SUFFIX,tnc3-aliec2.zijieapi.com
@@ -440,7 +440,7 @@ payload:
   - DOMAIN-SUFFIX,nativeapp.toutiao.com
   - DOMAIN-SUFFIX,pangolin-sdk-toutiao-b.com
   - DOMAIN-SUFFIX,pangolin-sdk-toutiao.com
-  - DOMAIN-SUFFIX,pangolin.snssdk.com
+  #- DOMAIN-SUFFIX,pangolin.snssdk.com
   - DOMAIN-SUFFIX,partner.toutiao.com
   - DOMAIN-SUFFIX,pglstatp-toutiao.com
   - DOMAIN-SUFFIX,sm.toutiao.com
