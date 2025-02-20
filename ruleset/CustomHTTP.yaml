@@ -1,3 +1,7 @@
 # NAME: Developer
 payload:
-
+  # 皇冠网址 视频直播
+  - DOMAIN-SUFFIX,botaoo.com
+  - DOMAIN-SUFFIX,hzwxbz3.cn
+  - DOMAIN-SUFFIX,zlm4.com
+  - DOMAIN-SUFFIX,hzwxbz2.cn
