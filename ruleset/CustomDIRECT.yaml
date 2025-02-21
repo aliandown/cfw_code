@@ -8,6 +8,7 @@ payload:
   - IP-CIDR,18.197.242.41/32,no-resolve
   - IP-CIDR,103.84.155.178/32,no-resolve
   # 软件
+  - DOMAIN-SUFFIX,moomooapp.com
   - DOMAIN-SUFFIX,nokia.com
   - DOMAIN-SUFFIX,hcfy.ai
   - DOMAIN-SUFFIX,sanity.io
