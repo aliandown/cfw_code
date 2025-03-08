@@ -46,12 +46,12 @@ payload:
   # fdcesu反代域名
   #- DOMAIN-SUFFIX,asia.cloud
  # github 第三方镜像
-  - DOMAIN-SUFFIX,mirror.ghproxy.com
-  - DOMAIN-SUFFIX,ghp.ci
-  - DOMAIN-SUFFIX,ghproxy.com
-  - DOMAIN-KEYWORD,ghproxy
-  - DOMAIN-SUFFIX,ghps.cc
-  - DOMAIN-SUFFIX,gh-proxy.com
-  - DOMAIN-KEYWORD,jsdelivr
+  #- DOMAIN-SUFFIX,mirror.ghproxy.com
+  #- DOMAIN-SUFFIX,ghp.ci
+  #- DOMAIN-SUFFIX,ghproxy.com
+  #- DOMAIN-KEYWORD,ghproxy
+  #- DOMAIN-SUFFIX,ghps.cc
+  #- DOMAIN-SUFFIX,gh-proxy.com
+  #- DOMAIN-KEYWORD,jsdelivr
 # 国外VPS服务器管理
-  - DOMAIN-SUFFIX,serv00.com
+  #- DOMAIN-SUFFIX,serv00.com
