@@ -7,6 +7,7 @@ payload:
   - DOMAIN-KEYWORD,ws-fn-cdn001.akamaized.net
   - DOMAIN-KEYWORD,ws-fn-cdn002.akamaized.net
   - DOMAIN-KEYWORD,744133.akamaized.net
+  - DOMAIN-KEYWORD,lc-live-http-ipv4.akamaized.net
   # 全球-泛播域名地址
   - DOMAIN-SUFFIX,ns.cloudflare.com
   - DOMAIN-SUFFIX,visa.cn
