@@ -2,6 +2,11 @@
 payload:
   #
   - DOMAIN-KEYWORD,imgarena- #imgarena-prod-eu.akamaized.net 包含的关键字
+  - DOMAIN-KEYWORD,ws-cdn001.akamaized.net
+  - DOMAIN-KEYWORD,ws-cdn002.akamaized.net
+  - DOMAIN-KEYWORD,ws-fn-cdn001.akamaized.net
+  - DOMAIN-KEYWORD,ws-fn-cdn002.akamaized.net
+  - DOMAIN-KEYWORD,744133.akamaized.net
   # 全球-泛播域名地址
   - DOMAIN-SUFFIX,ns.cloudflare.com
   - DOMAIN-SUFFIX,visa.cn
