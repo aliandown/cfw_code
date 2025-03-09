@@ -1,5 +1,7 @@
 # NAME: 以下域名强制通过国内DNS解析
 payload:
+  #
+  
   # 全球-泛播域名地址
   - DOMAIN-SUFFIX,ns.cloudflare.com
   - DOMAIN-SUFFIX,visa.cn
