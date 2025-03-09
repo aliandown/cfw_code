@@ -1,7 +1,7 @@
 # NAME: Developer
 # REPO: https://github.com/blackmatrix7/ios_rule_script
 payload:
-  # 皇冠网址 视频直播
+  # 皇冠网址 下载程序
   - DOMAIN-SUFFIX,hgapp0001.com
   - DOMAIN-SUFFIX,hgapp0002.com
   - DOMAIN-SUFFIX,hgapp0003.com
@@ -14,5 +14,13 @@ payload:
   - DOMAIN-SUFFIX,geniussports.com
   - DOMAIN-SUFFIX,sportradar.com
   - DOMAIN-SUFFIX,performfeeds.com
+  # 视频直播
+  - DOMAIN-KEYWORD,imgarena- #imgarena-prod-eu.akamaized.net 包含的关键字
+  - DOMAIN-KEYWORD,ws-cdn001.akamaized.net
+  - DOMAIN-KEYWORD,ws-cdn002.akamaized.net
+  - DOMAIN-KEYWORD,ws-fn-cdn001.akamaized.net
+  - DOMAIN-KEYWORD,ws-fn-cdn002.akamaized.net
+  - DOMAIN-KEYWORD,744133.akamaized.net
+  - DOMAIN-KEYWORD,lc-live-http-ipv4.akamaized.net
   
 
