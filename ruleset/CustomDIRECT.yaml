@@ -4,6 +4,7 @@ payload:
   - DOMAIN-SUFFIX,socialchain.app
   - DOMAIN-SUFFIX,onesignal.com
   - DOMAIN-SUFFIX,minepi.com
+  - DOMAIN-SUFFIX,piappengine
   # 恶意软件
   #- DOMAIN-SUFFIX,nelreports.net
   # 内网穿透
