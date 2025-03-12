@@ -1,11 +1,6 @@
 # NAME: Developer
 # REPO: https://github.com/blackmatrix7/ios_rule_script
 payload:
-  # 加密货币
-  - DOMAIN-SUFFIX,socialchain.app
-  - DOMAIN-SUFFIX,onesignal.com
-  - DOMAIN-SUFFIX,minepi.com
-  - DOMAIN-SUFFIX,piappengine
   # IP查询工具
   - DOMAIN-SUFFIX,ping.pe
   # 开源建站
