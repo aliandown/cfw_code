@@ -120,6 +120,7 @@ payload:
   #- DOMAIN-SUFFIX,1xbet.com
   #- DOMAIN-KEYWORD,1xbet
   # 微软网址
+  - DOMAIN-KEYWORD,-msedge.net
   #- DOMAIN-SUFFIX,live.com
   # github 第三方镜像
   - DOMAIN-SUFFIX,mirror.ghproxy.com
