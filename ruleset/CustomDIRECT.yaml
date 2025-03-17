@@ -2,6 +2,7 @@
 payload:
   # 游戏软件
   - DOMAIN-SUFFIX,51cywx.com
+  - DOMAIN-SUFFIX,shuerwenhua.com
   # 恶意软件
   #- DOMAIN-SUFFIX,nelreports.net
   # 内网穿透
