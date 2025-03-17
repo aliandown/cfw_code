@@ -1,5 +1,6 @@
 # NAME: 自定义跳过国内全球拉截
 payload:
+  - DOMAIN-SUFFIX,app.tanwan.com
   - DOMAIN-SUFFIX,xiaojukeji.com
   - DOMAIN-SUFFIX,163yun.com
   - DOMAIN-SUFFIX,music.163.com
