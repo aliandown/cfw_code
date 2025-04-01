@@ -70,9 +70,9 @@ payload:
   # 域名管理
   - DOMAIN-KEYWORD,dynv6
   # 个人域名管理
-  - DOMAIN-KEYWORD,elevenfamilies
-  - DOMAIN-KEYWORD,elevengroup
-  - DOMAIN-KEYWORD,eleventrade
+  #- DOMAIN-KEYWORD,elevenfamilies
+  #- DOMAIN-KEYWORD,elevengroup
+  #- DOMAIN-KEYWORD,eleventrade
   # 全球-泛播域名地址
   - DOMAIN-SUFFIX,ns.cloudflare.com
   - DOMAIN-SUFFIX,visa.cn
