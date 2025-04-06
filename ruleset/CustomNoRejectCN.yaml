@@ -1,7 +1,5 @@
 # NAME: 自定义跳过国内全球拉截
 payload:
-  #乐球
-  - DOMAIN-SUFFIX,lqcos.beijxs.com
   #综合
   - DOMAIN-SUFFIX,app.tanwan.com
   - DOMAIN-SUFFIX,xiaojukeji.com
