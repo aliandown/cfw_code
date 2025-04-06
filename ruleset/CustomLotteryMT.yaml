@@ -3,8 +3,10 @@
 payload:
   # 雷速体育
   - DOMAIN-SUFFIX,kantai8.com
-  # 蓝箭体育
+  # 蓝箭体育、新球体育、球探体育
+  - DOMAIN-SUFFIX,titan007.com
   - DOMAIN-SUFFIX,letarrow.com
+  - DOMAIN-SUFFIX,d.win007.nowodds.com
   # 足球直播
    #- DOMAIN-SUFFIX,xinzuqiu.com
    #- DOMAIN-KEYWORD,xinzuqiu
