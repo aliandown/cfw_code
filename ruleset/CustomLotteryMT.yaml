@@ -7,6 +7,7 @@ payload:
   - DOMAIN-SUFFIX,geniussports.com
   - DOMAIN-SUFFIX,sportradar.com
   - DOMAIN-SUFFIX,performfeeds.com
+  - DOMAIN-SUFFIX,niab12345.com
   # 皇冠网址 视频直播CND解析
   - DOMAIN-KEYWORD,imgarena- #imgarena-prod-eu.akamaized.net 包含的关键字
   - DOMAIN-SUFFIX,ws-cdn001.akamaized.net
