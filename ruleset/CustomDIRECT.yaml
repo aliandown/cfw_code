@@ -178,15 +178,15 @@ payload:
    - DOMAIN-SUFFIX,jksenbah.com
    - DOMAIN-SUFFIX,jkdwdsn.com
    - DOMAIN-SUFFIX,njhycx.com
-   - DOMAIN-KEYWORD,leqiu
-   - IP-CIDR,84.17.37.154/32,no-resolve
-   - IP-CIDR,15.197.172.91/32,no-resolve
-   - IP-CIDR,13.248.237.121/32,no-resolve
-   - IP-CIDR,3.33.231.20/32,no-resolve
-   - IP-CIDR,129.153.64.190/32,no-resolve
-   - IP-CIDR,13.248.251.127/32,no-resolve
-   - IP-CIDR,76.223.15.10/32,no-resolve
-   - IP-CIDR,76.223.15.10/32,no-resolve
+   #- DOMAIN-KEYWORD,leqiu
+   #- IP-CIDR,84.17.37.154/32,no-resolve
+   #- IP-CIDR,15.197.172.91/32,no-resolve
+   #- IP-CIDR,13.248.237.121/32,no-resolve
+   #- IP-CIDR,3.33.231.20/32,no-resolve
+   #- IP-CIDR,129.153.64.190/32,no-resolve
+   #- IP-CIDR,13.248.251.127/32,no-resolve
+   #- IP-CIDR,76.223.15.10/32,no-resolve
+   #- IP-CIDR,76.223.15.10/32,no-resolve
   # 黄瓜直播
    - PROCESS-NAME,dsfm.ytif.qeya.mpya
    - DOMAIN-SUFFIX,ksmttr.com
