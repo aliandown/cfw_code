@@ -1,16 +1,6 @@
 # NAME: Developer
 # REPO: https://github.com/blackmatrix7/ios_rule_script
 payload:
-  # 皇冠网址 动画图型CND解析
-  - DOMAIN-SUFFIX,hgapp0001.com
-  - DOMAIN-SUFFIX,hgapp0002.com
-  - DOMAIN-SUFFIX,hgapp0003.com
-  - DOMAIN-SUFFIX,hgapp0004.com
-  - DOMAIN-SUFFIX,hgapp0005.com
-  - DOMAIN-SUFFIX,hgapp0006.com
-  - DOMAIN-SUFFIX,hgapp0007.com
-  - DOMAIN-SUFFIX,hgapp0008.com
-  - DOMAIN-SUFFIX,hgapp0009.com
   # 皇冠网址 akamaized.net属于CND解析公司
   - DOMAIN-SUFFIX,ry00000.com
   - DOMAIN-SUFFIX,f288880.com
