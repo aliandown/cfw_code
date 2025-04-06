@@ -3,6 +3,7 @@
 payload:
   # 雷速体育
   - DOMAIN-SUFFIX,kantai8.com
+  - DOMAIN-KEYWORD,leqiu
   # 皇冠网址 下载程序
   - DOMAIN-SUFFIX,geniussports.com
   - DOMAIN-SUFFIX,sportradar.com
