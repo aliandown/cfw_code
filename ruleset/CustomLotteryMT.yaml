@@ -3,7 +3,61 @@
 payload:
   # 雷速体育
   - DOMAIN-SUFFIX,kantai8.com
-  - DOMAIN-KEYWORD,leqiu
+  # 蓝箭体育
+  - DOMAIN-SUFFIX,letarrow.com
+  # 足球直播
+   #- DOMAIN-SUFFIX,xinzuqiu.com
+   #- DOMAIN-KEYWORD,xinzuqiu
+  # 乐球直播
+   - DOMAIN-KEYWORD,leqiu
+   - DOMAIN-KEYWORD,bf.
+   - DOMAIN-KEYWORD,jk.
+   - DOMAIN-KEYWORD,tj.
+   - DOMAIN-SUFFIX,smzb618.com
+   - DOMAIN-SUFFIX,pokepay.cc
+   - DOMAIN-SUFFIX,paytend.com
+   - DOMAIN-SUFFIX,blahdns.com
+   - DOMAIN-SUFFIX,jytv600.com
+   - DOMAIN-SUFFIX,fifa.com
+   - DOMAIN-SUFFIX,v2xtls.org
+   - DOMAIN-SUFFIX,wqzb.com
+   - DOMAIN-SUFFIX,hhmxwl.com
+   - DOMAIN-SUFFIX,qdmeron.com
+   - DOMAIN-SUFFIX,nxit.net
+   - DOMAIN-SUFFIX,jkuueyqax.com
+   - DOMAIN-SUFFIX,jkhgstye.com
+   - DOMAIN-SUFFIX,dandongrf.com
+   - DOMAIN-SUFFIX,tuiyes.com
+   - DOMAIN-SUFFIX,vrxgrju.com
+   - DOMAIN-SUFFIX,jjccgd.com
+   - DOMAIN-SUFFIX,znuhdf.com
+   - DOMAIN-SUFFIX,mmmrrq.com
+   - DOMAIN-SUFFIX,uqwklt.com
+   - DOMAIN-SUFFIX,jkttewya.com
+   - DOMAIN-SUFFIX,njscwh.com
+   - DOMAIN-SUFFIX,tgrfst.cc
+   - DOMAIN-SUFFIX,jkswvfey.com
+   - DOMAIN-SUFFIX,jkoowien.com
+   - DOMAIN-SUFFIX,jkxmmdns.com
+   - DOMAIN-SUFFIX,jksenhsdn.com
+   - DOMAIN-SUFFIX,jksensbeu.com
+   - DOMAIN-SUFFIX,b1tffe.cc
+   - DOMAIN-SUFFIX,jkaaszza.com
+   - DOMAIN-SUFFIX,jkoowien.com
+   - DOMAIN-SUFFIX,jksenabbbuu.com
+   - DOMAIN-SUFFIX,b1tffe.cc
+   - DOMAIN-SUFFIX,tfjddtj.cc
+   - DOMAIN-SUFFIX,jksenbah.com
+   - DOMAIN-SUFFIX,jkdwdsn.com
+   - DOMAIN-SUFFIX,njhycx.com
+  # 黄瓜直播
+   - PROCESS-NAME,dsfm.ytif.qeya.mpya
+   - DOMAIN-SUFFIX,ksmttr.com
+   - DOMAIN-SUFFIX,sypfumws.com
+   - DOMAIN-SUFFIX,hbswfw.com
+   - DOMAIN-SUFFIX,ipdrgm.com
+   - DOMAIN-SUFFIX,ksdjjasjf.xyz
+   - DOMAIN-SUFFIX,scxfcy.com 
   # 皇冠网址 下载程序
   - DOMAIN-SUFFIX,geniussports.com
   - DOMAIN-SUFFIX,sportradar.com
