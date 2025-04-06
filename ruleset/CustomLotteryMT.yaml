@@ -9,6 +9,7 @@ payload:
    #- DOMAIN-SUFFIX,xinzuqiu.com
    #- DOMAIN-KEYWORD,xinzuqiu
   # 乐球直播
+   - DOMAIN-KEYWORD,lq.
    - DOMAIN-KEYWORD,leqiu
    - DOMAIN-KEYWORD,bf.
    - DOMAIN-KEYWORD,jk.
