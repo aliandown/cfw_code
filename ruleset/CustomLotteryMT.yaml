@@ -70,17 +70,6 @@ payload:
   - DOMAIN-SUFFIX,sportradar.com
   - DOMAIN-SUFFIX,performfeeds.com
   - DOMAIN-SUFFIX,niab12345.com
-  # 皇冠网址 视频直播CND解析
-  - DOMAIN-KEYWORD,imgarena- #imgarena-prod-eu.akamaized.net 包含的关键字
-  - DOMAIN-SUFFIX,ws-fn-cdn002.akamaized.net
-  - DOMAIN-SUFFIX,lc-live-http-ipv4.akamaized.net
-  - DOMAIN-SUFFIX,ws-cdn002.akamaized.net
-  - DOMAIN-SUFFIX,lcsn-cdn002.akamaized.net
-  - DOMAIN-SUFFIX,lt-fn-cdn002.akamaized.net
-  - DOMAIN-SUFFIX,ws-fn-cdn003.akamaized.net
-  - DOMAIN-SUFFIX,ws-cdn003.akamaized.net
-  - DOMAIN-SUFFIX,lcsn-cdn003.akamaized.net
-  - DOMAIN-SUFFIX,lt-fn-cdn003.akamaized.net
   
   
 
