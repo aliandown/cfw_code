@@ -4,6 +4,7 @@ payload:
   # 皇冠网址 视频直播CND解析
   - DOMAIN-SUFFIX,ws-fn-cdn001.akamaized.net
   - DOMAIN-SUFFIX,ws-cdn001.akamaized.net
+  - DOMAIN-SUFFIX,lcsn-cdn001.akamaized.net
   # 皇冠网址 动画图型CND解析
   - DOMAIN-SUFFIX,hgapp0001.com
   - DOMAIN-SUFFIX,hgapp0002.com
