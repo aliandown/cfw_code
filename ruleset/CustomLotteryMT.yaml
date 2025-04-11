@@ -1,6 +1,27 @@
 # NAME: Developer
 # REPO: https://github.com/blackmatrix7/ios_rule_script
 payload:
+  # 皇冠网址 下载程序
+  - DOMAIN-SUFFIX,geniussports.com
+  - DOMAIN-SUFFIX,sportradar.com
+  - DOMAIN-SUFFIX,performfeeds.com
+  - DOMAIN-SUFFIX,niab12345.com
+  # 皇冠网址 视频直播CND解析
+  - DOMAIN-SUFFIX,ws-fn-cdn001.akamaized.net
+  - DOMAIN-SUFFIX,ws-cdn001.akamaized.net
+  - DOMAIN-SUFFIX,lcsn-cdn001.akamaized.net
+  - DOMAIN-SUFFIX,lt-fn-cdn001.akamaized.net
+  - DOMAIN-SUFFIX,ws-cdn002.akamaized.net
+  - DOMAIN-SUFFIX,lcsn-cdn002.akamaized.net
+  - DOMAIN-SUFFIX,lt-fn-cdn002.akamaized.net
+  - DOMAIN-SUFFIX,ws-fn-cdn003.akamaized.net
+  - DOMAIN-SUFFIX,ws-cdn003.akamaized.net
+  - DOMAIN-SUFFIX,lcsn-cdn003.akamaized.net
+  - DOMAIN-SUFFIX,lt-fn-cdn003.akamaized.net
+  - DOMAIN-KEYWORD,imgarena- #imgarena-prod-eu.akamaized.net 包含的关键字
+  - DOMAIN-SUFFIX,lc-live-http-ipv4.akamaized.net
+  - DOMAIN-SUFFIX,744133.akamaized.net #亚洲视频源解析
+  - DOMAIN-SUFFIX,1309591.akamaized.net #亚洲视频源解析
   # 雷速体育
   - DOMAIN-SUFFIX,kantai8.com
   # 蓝箭体育、新球体育、球探体育
@@ -65,11 +86,5 @@ payload:
    - DOMAIN-SUFFIX,ipdrgm.com
    - DOMAIN-SUFFIX,ksdjjasjf.xyz
    - DOMAIN-SUFFIX,scxfcy.com 
-  # 皇冠网址 下载程序
-  - DOMAIN-SUFFIX,geniussports.com
-  - DOMAIN-SUFFIX,sportradar.com
-  - DOMAIN-SUFFIX,performfeeds.com
-  - DOMAIN-SUFFIX,niab12345.com
-  
   
 
