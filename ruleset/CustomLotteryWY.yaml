@@ -59,3 +59,44 @@ payload:
   - IP-CIDR,223.75.236.241,no-resolve
   - IP-CIDR,205.201.0.181,no-resolve
   - IP-CIDR,199.26.96.181,no-resolve
+  # hga035.com 解析IP
+  - IP-CIDR,199.26.98.223,no-resolve
+  - IP-CIDR,125.252.69.184,no-resolve
+  - IP-CIDR,112.78.105.24,no-resolve
+  - IP-CIDR,112.78.27.28,no-resolve
+  - IP-CIDR,205.201.2.223,no-resolve
+  - IP-CIDR,205.201.10.209,no-resolve
+  - IP-CIDR,199.26.100.223,no-resolve
+  - IP-CIDR,205.201.4.223,no-resolve
+  - IP-CIDR,123.108.119.149,no-resolve
+  - IP-CIDR,203.160.142.223,no-resolve
+  - IP-CIDR,266.133.80.223,no-resolve
+  - IP-CIDR,203.160.140.223,no-resolve
+  - IP-CIDR,266.133.81.223,no-resolve
+  - IP-CIDR,112.78.104.29,no-resolve
+  - IP-CIDR,35.162.234.153,no-resolve
+  - IP-CIDR,210.16.117.179,no-resolve
+  - IP-CIDR,43.229.2.179,no-resolve
+  - IP-CIDR,210.16.117.50,no-resolve
+  - IP-CIDR,124.236.16.201,no-resolve
+  - IP-CIDR,45.33.18.44,no-resolve
+  - IP-CIDR,183.213.92.2,no-resolve
+  - IP-CIDR,106.74.25.198,no-resolve
+  - IP-CIDR,120.209.204.204,no-resolve
+  - IP-CIDR,182.43.124.6,no-resolve
+  - IP-CIDR,223.75.236.241,no-resolve
+  - IP-CIDR,210.16.118.79,no-resolve
+  - IP-CIDR,43.229.3.79,no-resolve
+  - IP-CIDR,210.16.118.54,no-resolve
+  - IP-CIDR,221.228.32.13,no-resolve
+  - IP-CIDR,173.255.194.134,no-resolve
+  - IP-CIDR,199.26.96.47,no-resolve
+  - IP-CIDR,205.201.0.47,no-resolve
+  - IP-CIDR,180.94.224.223,no-resolve
+  - IP-CIDR,66.133.87.71,no-resolve
+  - IP-CIDR,66.133.86.71,no-resolve
+  - IP-CIDR,66.133.89.223,no-resolve
+  - IP-CIDR,205.201.4.163,no-resolve
+  - IP-CIDR,199.26.100.163,no-resolve
+  - IP-CIDR,205.201.4.43,no-resolve
+  - IP-CIDR,199.26.100.43,no-resolve
