@@ -15,3 +15,5 @@ payload:
   - DOMAIN-SUFFIX,fp-it.fengkongcloud.com
   # 微软
   - DOMAIN-SUFFIX,app.adjust.com
+  # 雷速体育
+  - DOMAIN-SUFFIX,httpdns.yunxindns.com
