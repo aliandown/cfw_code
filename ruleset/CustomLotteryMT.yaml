@@ -7,6 +7,8 @@ payload:
   - DOMAIN-SUFFIX,niab12345.com
   - DOMAIN-SUFFIX,ry00000.com
   # 皇冠网址 视频直播CND解析
+  - DOMAIN-SUFFIX,akamaized.net
+  - DOMAIN-SUFFIX,1320210.akamaized.net
   - DOMAIN-SUFFIX,ws-fn-cdn001.akamaized.net
   - DOMAIN-SUFFIX,ws-cdn001.akamaized.net
   - DOMAIN-SUFFIX,lcsn-cdn001.akamaized.net
