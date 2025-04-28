@@ -25,12 +25,6 @@ payload:
   - DOMAIN-SUFFIX,744133.akamaized.net #亚洲视频源解析
   - DOMAIN-SUFFIX,1309591.akamaized.net #亚洲视频源解析
   - DOMAIN-SUFFIX,1320225.akamaized.net #欧洲视频源解析
-  # 雷速体育
-  - DOMAIN-SUFFIX,kantai8.com
-  # 蓝箭体育、新球体育、球探体育
-  - DOMAIN-SUFFIX,titan007.com
-  - DOMAIN-SUFFIX,letarrow.com
-  - DOMAIN-SUFFIX,d.win007.nowodds.com
   # 足球直播
    #- DOMAIN-SUFFIX,xinzuqiu.com
    #- DOMAIN-KEYWORD,xinzuqiu
