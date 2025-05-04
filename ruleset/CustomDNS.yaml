@@ -4,7 +4,9 @@
 # IP-CIDR: 22
 # TOTAL: 110
 payload:
-# 国外DNS解析
+  # 反代域名
+  ts.hpc.tw
+  # 国外DNS解析
   - DOMAIN,1dot1dot1dot1.cloudflare-dns.com
   #- DOMAIN,8888.google
   #- DOMAIN,adblock.mydns.network
