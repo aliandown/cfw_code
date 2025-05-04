@@ -4,8 +4,6 @@
 # IP-CIDR: 22
 # TOTAL: 110
 payload:
-  # 反代域名
-  - DOMAIN-SUFFIX,ts.hpc.tw
   # 国外DNS解析
   - DOMAIN,1dot1dot1dot1.cloudflare-dns.com
   #- DOMAIN,8888.google
