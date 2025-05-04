@@ -5,7 +5,7 @@
 # TOTAL: 110
 payload:
   # 反代域名
-  ts.hpc.tw
+  - DOMAIN-SUFFIX,ts.hpc.tw
   # 国外DNS解析
   - DOMAIN,1dot1dot1dot1.cloudflare-dns.com
   #- DOMAIN,8888.google
