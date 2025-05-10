@@ -16,21 +16,21 @@ payload:
   #- DOMAIN-SUFFIX,sdk.open.talk.gepush.com
   #- DOMAIN-SUFFIX,sdk.open.talk.igexin.com
 # 雷速体育
-  - DOMAIN-SUFFIX,api.weibo.com
-  - DOMAIN-SUFFIX,statistic.live.126.net
+  #- DOMAIN-SUFFIX,api.weibo.com
+  #- DOMAIN-SUFFIX,statistic.live.126.net
   #- DOMAIN-SUFFIX,mssdk.volces.com
-  - DOMAIN-SUFFIX,sv.adintl.cn
-  - DOMAIN-SUFFIX,ap2.qiyukf.com
-  - DOMAIN-SUFFIX,tnc3-aliec2.zijieapi.com
-  - DOMAIN-SUFFIX,zlsdk.1rtb.net
-  - DOMAIN-SUFFIX,beizi.biz
-  - DOMAIN-SUFFIX,tnc3-alisc1.zijieapi.com
-  - DOMAIN-SUFFIX,leisu-log.cn-hangzhou.log.aliyuncs.com
-  - DOMAIN-SUFFIX,cloud-config-service.rtc.aliyuncs.com
-  - DOMAIN-SUFFIX,videocloud.cn-hangzhou.log.aliyuncs.com
-  - DOMAIN-SUFFIX,vpp-license-proxy.aliyuncs.com
-  - DOMAIN-SUFFIX,alivc-aio.cn-hangzhou.log.aliyuncs.com
-  - DOMAIN-SUFFIX,cloudauth-device-dualstack.cn-shanghai.aliyuncs.com
+  #- DOMAIN-SUFFIX,sv.adintl.cn
+  #- DOMAIN-SUFFIX,ap2.qiyukf.com
+  #- DOMAIN-SUFFIX,tnc3-aliec2.zijieapi.com
+  #- DOMAIN-SUFFIX,zlsdk.1rtb.net
+  #- DOMAIN-SUFFIX,beizi.biz
+  #- DOMAIN-SUFFIX,tnc3-alisc1.zijieapi.com
+  #- DOMAIN-SUFFIX,leisu-log.cn-hangzhou.log.aliyuncs.com
+  #- DOMAIN-SUFFIX,cloud-config-service.rtc.aliyuncs.com
+  #- DOMAIN-SUFFIX,videocloud.cn-hangzhou.log.aliyuncs.com
+  #- DOMAIN-SUFFIX,vpp-license-proxy.aliyuncs.com
+  #- DOMAIN-SUFFIX,alivc-aio.cn-hangzhou.log.aliyuncs.com
+  #- DOMAIN-SUFFIX,cloudauth-device-dualstack.cn-shanghai.aliyuncs.com
 # Amazon
   - DOMAIN-SUFFIX,advice-ads.s3.amazonaws.com
 # 163
