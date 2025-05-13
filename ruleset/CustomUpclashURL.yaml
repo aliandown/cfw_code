@@ -1,7 +1,5 @@
 # NAME: 以下域名强制通过国内DNS解析
 payload:
-  # 雷速体育
-  - DOMAIN-SUFFIX,kantai8.com
   # 蓝箭体育、新球体育、球探体育
   - DOMAIN-SUFFIX,titan007.com
   - DOMAIN-SUFFIX,letarrow.com
