@@ -1,5 +1,7 @@
 # NAME: Developer
 payload:
+  # 雷速体育
+  - DOMAIN-SUFFIX,kantai8.com
   # 皇冠网址 视频直播
   - DOMAIN-SUFFIX,botaoo.com
   - DOMAIN-SUFFIX,hzwxbz3.cn
