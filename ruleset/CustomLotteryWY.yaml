@@ -1,6 +1,11 @@
 # NAME: Developer
 # REPO: https://github.com/blackmatrix7/ios_rule_script
 payload:
+  # 皇冠网址 下载程序
+  - DOMAIN-SUFFIX,geniussports.com
+  - DOMAIN-SUFFIX,sportradar.com
+  - DOMAIN-SUFFIX,ry00000.com
+  - DOMAIN-SUFFIX,niab12345.com
   # 皇冠网址 动画图型CND解析
   - DOMAIN-SUFFIX,hgapp0001.com
   - DOMAIN-SUFFIX,performfeeds.com
@@ -28,7 +33,6 @@ payload:
   - DOMAIN-SUFFIX,hga039.com
   - DOMAIN-SUFFIX,hga050.com
   - DOMAIN-SUFFIX,llnwd.net
-  - DOMAIN-SUFFIX,niab12345.com
   - IP-CIDR,123.108.119.118/32,no-resolve
   - IP-CIDR,199.26.98.228/32,no-resolve
   - IP-CIDR,123.108.119.156/32,no-resolve
