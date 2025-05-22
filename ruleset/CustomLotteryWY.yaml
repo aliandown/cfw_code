@@ -28,6 +28,7 @@ payload:
   - DOMAIN-SUFFIX,hga039.com
   - DOMAIN-SUFFIX,hga050.com
   - DOMAIN-SUFFIX,llnwd.net
+  - DOMAIN-SUFFIX,niab12345.com
   - IP-CIDR,123.108.119.118/32,no-resolve
   - IP-CIDR,199.26.98.228/32,no-resolve
   - IP-CIDR,123.108.119.156/32,no-resolve
