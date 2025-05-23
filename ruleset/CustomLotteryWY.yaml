@@ -63,6 +63,7 @@ payload:
   - IP-CIDR,205.201.0.181/32,no-resolve
   - IP-CIDR,199.26.96.181/32,no-resolve
   # hga035.com 解析IP
+  - IP-CIDR,125.252.69.112/32,no-resolve
   - IP-CIDR,112.78.27.20/32,no-resolve
   - IP-CIDR,112.78.27.103/32,no-resolve
   - IP-CIDR,125.252.69.40/32,no-resolve
