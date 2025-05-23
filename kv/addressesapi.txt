@@ -16,4 +16,12 @@ ProxyIP.Oracle.CMLiussss.net
 ProxyIP.DigitalOcean.CMLiussss.net
 ProxyIP.Vultr.CMLiussss.net
 ProxyIP.Multacom.CMLiussss.net
-
+wsus.elevenfamilies.v6.army
+wshk.elevenfamilies.dynv6.net
+wsjp.elevenfamilies.v6.rocks
+wskr.elevenfamilies.v6.navy
+wsgb.elevenfamilies.dns.army
+wstw.elevenfamilies.dynv6.net
+wsnl.elevenfamilies.dns.army
+wsde.elevenfamilies.dns.army
+wsqt.elevenfamilies.dns.navy
