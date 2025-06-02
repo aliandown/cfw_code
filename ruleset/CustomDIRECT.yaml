@@ -12,6 +12,7 @@ payload:
   - IP-CIDR,18.197.242.41/32,no-resolve
   - IP-CIDR,103.84.155.178/32,no-resolve
   # 软件
+  - DOMAIN-SUFFIX,redirect.pandora.xiaomi.com
   - DOMAIN-SUFFIX,deepl.com
   - DOMAIN-SUFFIX,moomooapp.com
   - DOMAIN-SUFFIX,nokia.com
