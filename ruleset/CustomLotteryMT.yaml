@@ -3,7 +3,6 @@
 payload:
   # 皇冠网址 动画图型CND解析
   - DOMAIN-SUFFIX,hgapp0001.com
-  - DOMAIN-SUFFIX,performfeeds.com
   - DOMAIN-SUFFIX,hgapp0002.com
   - DOMAIN-SUFFIX,hgapp0003.com
   - DOMAIN-SUFFIX,hgapp0004.com
