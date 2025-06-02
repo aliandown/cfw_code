@@ -6,17 +6,6 @@ payload:
   - DOMAIN-SUFFIX,sportradar.com
   - DOMAIN-SUFFIX,ry00000.com
   - DOMAIN-SUFFIX,niab12345.com
-  # 皇冠网址 动画图型CND解析
-  - DOMAIN-SUFFIX,hgapp0001.com
-  - DOMAIN-SUFFIX,performfeeds.com
-  - DOMAIN-SUFFIX,hgapp0002.com
-  - DOMAIN-SUFFIX,hgapp0003.com
-  - DOMAIN-SUFFIX,hgapp0004.com
-  - DOMAIN-SUFFIX,hgapp0005.com
-  - DOMAIN-SUFFIX,hgapp0006.com
-  - DOMAIN-SUFFIX,hgapp0007.com
-  - DOMAIN-SUFFIX,hgapp0008.com
-  - DOMAIN-SUFFIX,hgapp0009.com
   # 皇冠网址 akamaized.net属于CND解析公司
   - DOMAIN-SUFFIX,f288880.com
   - DOMAIN-SUFFIX,mos011.com
