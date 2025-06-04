@@ -8,6 +8,7 @@ payload:
   - DOMAIN-SUFFIX,v.adintl.cn
   - DOMAIN-SUFFIX,tnc3-bjlgy.zijieapi.com
   - DOMAIN-SUFFIX,open.e.kuaishou.cn
+  - DOMAIN-SUFFIX,tnc3-alisc1.zijieapi.com
   #其他
   - DOMAIN-SUFFIX,doubleclick.net
   - DOMAIN,ads.youtube.com
