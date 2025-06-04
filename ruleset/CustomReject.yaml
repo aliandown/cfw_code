@@ -1188,3 +1188,465 @@ payload:
   - DOMAIN-SUFFIX,up.qingdaonews.com
   - DOMAIN-SUFFIX,vaserviece.10jqka.com.cn
   - DOMAIN-SUFFIX,sb.scorecardresearch.com
+  # 字节跳动广告
+AND,((DOMAIN-KEYWORD,-ad-), (DOMAIN-SUFFIX,byteimg.com))
+AND,((DOMAIN-KEYWORD,ads), (DOMAIN-KEYWORD,normal), (DOMAIN-SUFFIX,zijieapi.com))
+AND,((DOMAIN-KEYWORD,api), (DOMAIN-KEYWORD,-access-), (DOMAIN-SUFFIX,pangle.io))
+AND,((DOMAIN-KEYWORD,api), (DOMAIN-KEYWORD,-dual-event-), (DOMAIN-SUFFIX,pangle.io))
+AND,((DOMAIN-KEYWORD,api), (DOMAIN-KEYWORD,-log-), (DOMAIN-SUFFIX,pangle.io))
+AND,((DOMAIN-KEYWORD,if), (DOMAIN-KEYWORD,-analytics.bytescm.com))
+AND,((DOMAIN-KEYWORD,lf), (DOMAIN-KEYWORD,-short.bytetos.com))
+AND,((DOMAIN-KEYWORD,minigame), (DOMAIN-SUFFIX,zijieapi.com))
+AND,((DOMAIN-KEYWORD,pangolin), (DOMAIN-SUFFIX,sgsnssdk.com))
+AND,((DOMAIN-KEYWORD,s), (DOMAIN-KEYWORD,-fe-scm.pglstatp-toutiao.com))
+AND,((DOMAIN-KEYWORD,sf), (DOMAIN-KEYWORD,-be-pack.pglstatp-toutiao.com))
+AND,((DOMAIN-KEYWORD,sf), (DOMAIN-KEYWORD,-static.i18n-pglstatp.com))
+AND,((DOMAIN-KEYWORD,sf), (DOMAIN-KEYWORD,-ttcdn-tos.pstatp.com))
+AND,((DOMAIN-KEYWORD,ssdk-), (DOMAIN-SUFFIX,pangle.io))
+AND,((DOMAIN-KEYWORD,-ttam-), (DOMAIN-SUFFIX,ibyteimg.com))
+AND,((DOMAIN-KEYWORD,v), (DOMAIN-KEYWORD,-be-pack.pglstatp-toutiao.com))
+DOMAIN-KEYWORD,-ad.byteoversea.com
+DOMAIN-KEYWORD,-ad-sign.byteimg.com
+DOMAIN-KEYWORD,-analytics.bytescm.com
+DOMAIN-KEYWORD,asiad.byteactivity
+DOMAIN-KEYWORD,-be-pack-sign.pglstatp-toutiao.com
+DOMAIN-KEYWORD,-fe-tos.pglstatp-toutiao.com
+DOMAIN-KEYWORD,log-api.pangolin-sdk-toutiao
+DOMAIN-KEYWORD,-short.bytetos.com
+DOMAIN-KEYWORD,video-cn.snssdk.com
+DOMAIN-SUFFIX,bds.snssdk.com
+DOMAIN-SUFFIX,dm.bytedance.com
+DOMAIN-SUFFIX,dm.pstatp.com
+DOMAIN-SUFFIX,dm.toutiao.com
+DOMAIN-SUFFIX,extlog.snssdk.com
+DOMAIN-SUFFIX,gromore.pangolin-sdk-toutiao.com
+DOMAIN-SUFFIX,is.snssdk.com
+DOMAIN-SUFFIX,log.snssdk.com
+DOMAIN-SUFFIX,mon.zijieapi.com
+DOMAIN-SUFFIX,mssdk.volces.com
+DOMAIN-SUFFIX,mssdk-bu.bytedance.com
+DOMAIN-SUFFIX,pangolin.snssdk.com
+DOMAIN-SUFFIX,s3a.pstatp.com
+DOMAIN-SUFFIX,sdfp.snssdk.com
+DOMAIN-SUFFIX,ssdk-sg.pangle.io
+DOMAIN-SUFFIX,toblog.ctobsnssdk.com
+DOMAIN-SUFFIX,tosv.boe.byted.org
+DOMAIN-SUFFIX,tosv.byted.org
+URL-REGEX, ^http:\/\/p\d+-be-pack-sign\.pglstatp-toutiao\.com\/(ad-app-package|web\.business\.image)\/
+# 讯飞AI营销
+DOMAIN-KEYWORD,iflyad.bj.openstorage.cn
+DOMAIN-KEYWORD,bjimp.voiceads.cn
+# InMobi - 邑盟信息技术（上海）有限公司
+DOMAIN-SUFFIX,config.inmobi.cn
+# 北京锐讯灵通科技有限公司
+DOMAIN-SUFFIX,ztoken.uyunad.com
+# 快手联盟 - 广告服务商
+DOMAIN-SUFFIX,gdfp.gifshow.com
+DOMAIN-SUFFIX,open.e.kuaishou.com
+DOMAIN-SUFFIX,adukwai.com
+# 上海倍孜
+DOMAIN-SUFFIX,sdk.beizi.biz
+# 秒针系统 - 广告服务商
+DOMAIN-SUFFIX,miaozhen.com
+DOMAIN-SUFFIX,admaster.com.cn
+# 艾狄墨搏 - 广告服务商
+DOMAIN-SUFFIX,monitor.ssp.admobile.top
+DOMAIN-SUFFIX,sdk.ssp.admobile.top
+DOMAIN-SUFFIX,admobile.top
+# 袤博 - 广告服务商
+DOMAIN-SUFFIX,api-c.dutils.com
+DOMAIN-SUFFIX,api-d.dutils.com
+DOMAIN-SUFFIX,api-p0.yksdks.com
+DOMAIN-SUFFIX,cache-verify.dutils.com
+DOMAIN-SUFFIX,cdn-api-verify.dutils.com
+DOMAIN-SUFFIX,devs-data.dutils.com
+DOMAIN-SUFFIX,log-verify.dutils.com
+DOMAIN-SUFFIX,m.mpl.dutils.com
+DOMAIN-SUFFIX,api.share.mob.com
+DOMAIN-SUFFIX,api.verify.mob.com
+DOMAIN-SUFFIX,log-verify.mob.com
+DOMAIN-SUFFIX,sdk.push.mob.com
+# 极光 - 广告服务商
+DOMAIN-SUFFIX,jiguang.cn
+DOMAIN-SUFFIX,jpush.cn
+DOMAIN-SUFFIX,jpush.io
+# 百度联盟 - 广告服务商
+DOMAIN-SUFFIX,als.baidu.com
+DOMAIN-SUFFIX,bgg.baidu.com
+DOMAIN-SUFFIX,cpro.baidustatic.com
+DOMAIN-SUFFIX,feed-image.baidu.com
+DOMAIN-SUFFIX,mobads.baidu.com
+DOMAIN-SUFFIX,mobads-logs.baidu.com
+DOMAIN-SUFFIX,mobads-pre-config.cdn.bcebos.com
+DOMAIN-SUFFIX,nadvideo2.baidu.com
+DOMAIN-SUFFIX,pos.baidu.com
+DOMAIN-SUFFIX,union.baidu.cn
+DOMAIN-SUFFIX,union.baidu.com
+DOMAIN-SUFFIX,wn.pos.baidu.com
+# 腾讯
+DOMAIN-KEYWORD,trace.qq.com
+DOMAIN-KEYWORD,trace.video.qq.com
+DOMAIN-SUFFIX,adsmind.gdtimg.com
+DOMAIN-SUFFIX,c2.gdt.qq.com
+DOMAIN-SUFFIX,gdt.qq.com
+DOMAIN-SUFFIX,huatuocode.huatuo.qq.com
+DOMAIN-SUFFIX,i.gtimg.cn
+DOMAIN-SUFFIX,info4.video.qq.com
+DOMAIN-SUFFIX,info6.video.qq.com
+DOMAIN-SUFFIX,ios.bugly.qq.com
+DOMAIN-SUFFIX,ios.video.mpush.qq.com
+DOMAIN-SUFFIX,l.qq.com
+DOMAIN-SUFFIX,mi.gdt.qq.com
+DOMAIN-SUFFIX,otheve.beacon.qq.com
+DOMAIN-SUFFIX,pgdt.gtimg.cn
+DOMAIN-SUFFIX,pgdt.ugdtimg.com
+DOMAIN-SUFFIX,qzs.gdtimg.com
+DOMAIN-SUFFIX,qzs.qq.com
+DOMAIN-SUFFIX,rmonitor.qq.com
+DOMAIN-SUFFIX,sdk.e.qq.com
+DOMAIN-SUFFIX,sdkconfig.video.qq.com
+DOMAIN-SUFFIX,t.gdt.qq.com
+DOMAIN-SUFFIX,tmead.y.qq.com
+DOMAIN-SUFFIX,tmeadbak.y.qq.com
+DOMAIN-SUFFIX,tmeadcomm.y.qq.com
+DOMAIN-SUFFIX,tpns.qq.com
+DOMAIN-SUFFIX,tpstelemetry.tencent.com
+DOMAIN-SUFFIX,ugdtimg.com
+DOMAIN-SUFFIX,v.gdt.qq.com
+DOMAIN-SUFFIX,v2.gdt.qq.com
+DOMAIN-SUFFIX,win.gdt.qq.com
+DOMAIN-SUFFIX,wup.imtt.qq.com
+IP-CIDR,47.110.187.87/32
+# App全渠道统计
+DOMAIN-SUFFIX,openinstall.io
+# 个推
+DOMAIN-SUFFIX,mobileservice.cn
+DOMAIN-SUFFIX,getui.com
+DOMAIN-SUFFIX,igexin.com
+DOMAIN-SUFFIX,b-gtc.getui.net
+DOMAIN-SUFFIX,c-gtc.getui.net
+DOMAIN-SUFFIX,c-hzgt2.getui.com
+DOMAIN-SUFFIX,dnms.getui.com
+DOMAIN-SUFFIX,ido.getui.net
+DOMAIN-SUFFIX,sdk-conf.getui.com
+DOMAIN-SUFFIX,sdk-open-phone.getui.com
+# 友盟
+DOMAIN-SUFFIX,aaid.umeng.com
+DOMAIN-SUFFIX,aspect-upush.umeng.com
+DOMAIN-SUFFIX,cnlogs.umeng.com
+DOMAIN-SUFFIX,deeplink.umeng.com
+DOMAIN-SUFFIX,errlog.umeng.com
+DOMAIN-SUFFIX,errnewlog.umeng.com
+DOMAIN-SUFFIX,log.umtrack.com
+DOMAIN-SUFFIX,plbslog.umeng.com
+DOMAIN-SUFFIX,ucc.umeng.com
+DOMAIN-SUFFIX,ulogs.umeng.com
+DOMAIN-SUFFIX,utoken.umeng.com
+# 天目 - 广告服务商
+DOMAIN-SUFFIX,sdk.tianmu.mobi
+# 上海优比客思科技有限公司 - 广告服务商
+DOMAIN-SUFFIX,e-u1.ubixioe.com
+DOMAIN-SUFFIX,sdk-data.ubixioe.com
+DOMAIN-SUFFIX,tower.ubixioe.com
+DOMAIN-SUFFIX,tx-cfg-u1.ubixioe.com
+DOMAIN-SUFFIX,tx-data-u1.ubixioe.com
+# 阿里巴巴
+DOMAIN-SUFFIX,ossgw.alicdn.com
+DOMAIN-SUFFIX,ems.youku.com
+DOMAIN-SUFFIX,hudong.alicdn.com
+DOMAIN-SUFFIX,et.tanx.com
+DOMAIN-SUFFIX,ut.taobao.com
+DOMAIN-SUFFIX,dns.alidns.com
+DOMAIN-SUFFIX,beacon-api.aliyuncs.com
+DOMAIN-SUFFIX,adash.man.aliyuncs.com
+DOMAIN-SUFFIX,applog.uc.cn
+AND,((DOMAIN-KEYWORD,adash), (DOMAIN-SUFFIX,ut.taobao.com))
+# > 淘宝
+DOMAIN-SUFFIX,agoodm.m.taobao.com
+DOMAIN-SUFFIX,ai.taobao.com
+DOMAIN-SUFFIX,api.waptest.taobao.com
+DOMAIN-SUFFIX,apoll.m.taobao.com
+DOMAIN-SUFFIX,re.m.taobao.com
+DOMAIN-SUFFIX,re.taobao.com
+DOMAIN-SUFFIX,temai.taobao.com
+DOMAIN-SUFFIX,unitacs.m.taobao.com
+DOMAIN-SUFFIX,w.m.taobao.com
+AND,((DOMAIN-KEYWORD,adash), (DOMAIN-SUFFIX,taobao.com))
+DOMAIN-KEYWORD,simba.taobao.com
+# 网易
+DOMAIN-SUFFIX,nex.163.com
+DOMAIN-SUFFIX,iad.g.163.com
+DOMAIN-SUFFIX,adx-bj.anythinktech.com
+DOMAIN-SUFFIX,api.anythinktech.com
+DOMAIN-SUFFIX,tk.anythinktech.com
+DOMAIN-SUFFIX,da.anythinktech.com
+# 美数科技
+DOMAIN-SUFFIX,sdk.1rtb.net
+DOMAIN-SUFFIX,cdn.1rtb.com
+# 嗨量科技 - 海贝巨量
+DOMAIN-SUFFIX,adx.halomobi.com
+# 钧云 - ADHUB
+DOMAIN-SUFFIX,api.htp.hubcloud.com.cn
+DOMAIN-SUFFIX,res1.hubcloud.com.cn
+DOMAIN-SUFFIX,sdktmp.hubcloud.com.cn
+DOMAIN-SUFFIX,v.adx.hubcloud.com.cn
+# SupersonicAds
+DOMAIN-SUFFIX,init.supersonicads.com
+# 聚次方 - TopOn
+DOMAIN-SUFFIX,api.mosspf.com
+DOMAIN-SUFFIX,da.mosspf.com
+# 京东
+DOMAIN-SUFFIX,dsp-x.jd.com
+DOMAIN-SUFFIX,xlog.jd.com
+DOMAIN-SUFFIX,janapi.jd.com
+#instagram
+DOMAIN-SUFFIX,graph-fallback.instagram.com
+DOMAIN-SUFFIX,graph.instagram.com
+# DNS 无响应
+DOMAIN-SUFFIX,adttrackingprd.hwwt8.com
+# 高德地图
+DOMAIN-SUFFIX,amap-aos-info-nogw.amap.com
+# 工商银行
+DOMAIN-SUFFIX,pageviewp.icbc.com.cn
+DOMAIN-SUFFIX,mall.icbc.com.cn
+# Outlook
+DOMAIN-SUFFIX,acdn.adnxs.com
+DOMAIN-SUFFIX,mediation.adnxs.com
+DOMAIN-SUFFIX,sin3-ib.adnxs.com
+# 其他
+DOMAIN-SUFFIX,affcpatrk.com
+# 什么值得买
+DOMAIN-SUFFIX,api.zuihuimai.com
+# 数字联盟
+DOMAIN-SUFFIX,shuzilm.cn
+# Speedtest
+DOMAIN-SUFFIX,ads.pubmatic.com
+DOMAIN-SUFFIX,id.hadron.ad.gt
+DOMAIN-KEYWORD,-adsystem.com
+# 微博 开屏广告
+DOMAIN-SUFFIX,huodong.weibo.cn
+DOMAIN-SUFFIX,biz.weibo.com
+# 微信
+DOMAIN-SUFFIX,badjs.weixinbridge.com
+# 菜鸟
+DOMAIN-SUFFIX,acs4baichuan.m.taobao.com
+DOMAIN-SUFFIX,adsmind.ugdtimg.com
+DOMAIN-SUFFIX,api.sm.cn
+DOMAIN-SUFFIX,baichuan-sdk.alicdn.com
+DOMAIN-SUFFIX,huichuan-mc.sm.cn
+DOMAIN-SUFFIX,huichuan.sm.cn
+DOMAIN-SUFFIX,m-vali.cp31.ott.cibntv.net
+DOMAIN-SUFFIX,nbsdk-baichuan.alicdn.com
+DOMAIN-SUFFIX,vali-g1.cp31.ott.cibntv.net
+DOMAIN-SUFFIX,vali-ugc.cp31.ott.cibntv.net
+# 云闪付 开屏广告
+DOMAIN-SUFFIX,ads.95516.com
+DOMAIN-SUFFIX,switch.cup.com.cn
+# Yandex
+DOMAIN-SUFFIX,yandexmetrica.com
+# 知乎
+DOMAIN-SUFFIX,appcloud.zhihu.com
+DOMAIN-SUFFIX,appcloud2.in.zhihu.com
+DOMAIN-SUFFIX,crash2.zhihu.com
+DOMAIN-SUFFIX,mqtt.zhihu.com
+DOMAIN-SUFFIX,sugar.zhihu.com
+DOMAIN-SUFFIX,zxid-m.mobileservice.cn
+#其它
+DOMAIN-SUFFIX,lookup.api.bsb.baidu.com
+DOMAIN-SUFFIX,u3.ucweb.com
+DOMAIN-SUFFIX,fancyapi.com
+DOMAIN-SUFFIX,wcp.taobao.com
+DOMAIN-SUFFIX,kuaishouzt.com
+DOMAIN-SUFFIX,tec73.com
+DOMAIN-KEYWORD,safebrowsing
+DOMAIN-SUFFIX,ios.prod.cloud.netflix.com
+DOMAIN-SUFFIX,appboot.netflix.com
+DOMAIN-SUFFIX,ios.ngp.prod.cloud.netflix.com
+IP-CIDR,117.177.248.17/32,no-resolve
+IP-CIDR,117.177.248.41/32,no-resolve
+IP-CIDR,223.87.176.139/32,no-resolve
+IP-CIDR,223.87.176.176/32,no-resolve
+IP-CIDR,223.87.177.180/32,no-resolve
+IP-CIDR,223.87.177.182/32,no-resolve
+IP-CIDR,223.87.177.184/32,no-resolve
+IP-CIDR,223.87.177.43/32,no-resolve
+IP-CIDR,223.87.177.47/32,no-resolve
+IP-CIDR,223.87.177.80/32,no-resolve
+IP-CIDR,223.87.182.101/32,no-resolve
+IP-CIDR,223.87.182.102/32,no-resolve
+IP-CIDR,223.87.182.11/32,no-resolve
+IP-CIDR,223.87.182.52/32,no-resolve
+IP-CIDR,1.3.0.10/32,no-resolve
+IP-CIDR,101.201.29.182/32,no-resolve
+IP-CIDR,101.251.211.235/32,no-resolve
+IP-CIDR,103.249.254.113/32,no-resolve
+IP-CIDR,104.195.62.12/32,no-resolve
+IP-CIDR,104.197.140.120/32,no-resolve
+IP-CIDR,104.198.198.188/32,no-resolve
+IP-CIDR,106.187.95.251/32,no-resolve
+IP-CIDR,106.75.65.90/32,no-resolve
+IP-CIDR,106.75.65.92/32,no-resolve
+IP-CIDR,107.21.113.76/32,no-resolve
+IP-CIDR,108.171.248.234/32,no-resolve
+IP-CIDR,111.175.220.160/29,no-resolve
+IP-CIDR,111.206.22.0/24,no-resolve
+IP-CIDR,111.30.135.167/32,no-resolve
+IP-CIDR,111.63.135.0/24,no-resolve
+IP-CIDR,111.73.45.147/32,no-resolve
+IP-CIDR,112.124.115.215/32,no-resolve
+IP-CIDR,112.74.95.46/32,no-resolve
+IP-CIDR,113.207.57.24/32,no-resolve
+IP-CIDR,113.57.230.88/32,no-resolve
+IP-CIDR,114.55.123.44/32,no-resolve
+IP-CIDR,114.95.102.77/32,no-resolve
+IP-CIDR,115.29.141.121/32,no-resolve
+IP-CIDR,115.29.247.48/32,no-resolve
+IP-CIDR,116.206.22.7/32,no-resolve
+IP-CIDR,116.55.227.242/32,no-resolve
+IP-CIDR,117.144.242.32/32,no-resolve
+IP-CIDR,117.25.133.209/32,no-resolve
+IP-CIDR,118.144.88.215/28,no-resolve
+IP-CIDR,119.188.13.0/24,no-resolve
+IP-CIDR,120.132.57.41/32,no-resolve
+IP-CIDR,120.132.63.203/32,no-resolve
+IP-CIDR,120.197.89.239/32,no-resolve
+IP-CIDR,120.198.116.0/24,no-resolve
+IP-CIDR,120.26.151.246/32,no-resolve
+IP-CIDR,120.27.34.156/32,no-resolve
+IP-CIDR,120.55.199.139/32,no-resolve
+IP-CIDR,120.80.57.123/32,no-resolve
+IP-CIDR,121.15.207.243/32,no-resolve
+IP-CIDR,121.199.73.185/32,no-resolve
+IP-CIDR,121.201.108.2/32,no-resolve
+IP-CIDR,121.201.11.95/32,no-resolve
+IP-CIDR,121.251.255.0/24,no-resolve
+IP-CIDR,121.43.75.169/32,no-resolve
+IP-CIDR,122.225.103.120/32,no-resolve
+IP-CIDR,122.226.223.163/32,no-resolve
+IP-CIDR,122.227.254.195/32,no-resolve
+IP-CIDR,122.228.236.165/32,no-resolve
+IP-CIDR,123.125.111.0/24,no-resolve
+IP-CIDR,123.139.154.201/24,no-resolve
+IP-CIDR,123.57.162.39/32,no-resolve
+IP-CIDR,123.57.94.184/32,no-resolve
+IP-CIDR,123.59.152.170/32,no-resolve
+IP-CIDR,123.59.78.229/32,no-resolve
+IP-CIDR,124.160.194.11/32,no-resolve
+IP-CIDR,125.46.61.28/32,no-resolve
+IP-CIDR,125.89.69.5/32,no-resolve
+IP-CIDR,139.159.32.82/32,no-resolve
+IP-CIDR,139.196.239.52/32,no-resolve
+IP-CIDR,139.224.26.92/32,no-resolve
+IP-CIDR,139.224.74.148/32,no-resolve
+IP-CIDR,146.148.85.61/32,no-resolve
+IP-CIDR,162.212.181.32/32,no-resolve
+IP-CIDR,173.208.177.227/32,no-resolve
+IP-CIDR,180.76.155.58/32,no-resolve
+IP-CIDR,180.76.162.60/32,no-resolve
+IP-CIDR,180.76.171.28/32,no-resolve
+IP-CIDR,180.76.172.149/32,no-resolve
+IP-CIDR,180.76.181.213/32,no-resolve
+IP-CIDR,182.92.81.104/32,no-resolve
+IP-CIDR,183.131.79.130/32,no-resolve
+IP-CIDR,183.131.79.30/32,no-resolve
+IP-CIDR,183.59.53.187/29,no-resolve
+IP-CIDR,183.6.188.226/29,no-resolve
+IP-CIDR,198.40.52.11/32,no-resolve
+IP-CIDR,202.104.1.27/32,no-resolve
+IP-CIDR,202.105.165.202/32,no-resolve
+IP-CIDR,205.209.138.102/32,no-resolve
+IP-CIDR,211.103.159.32/32,no-resolve
+IP-CIDR,211.137.132.89/32,no-resolve
+IP-CIDR,211.139.178.49/32,no-resolve
+IP-CIDR,211.149.225.23/32,no-resolve
+IP-CIDR,211.167.105.131/32,no-resolve
+IP-CIDR,211.98.71.195/29,no-resolve
+IP-CIDR,218.25.246.118/32,no-resolve
+IP-CIDR,219.234.83.60/32,no-resolve
+IP-CIDR,221.179.140.0/24,no-resolve
+IP-CIDR,221.179.183.0/24,no-resolve
+IP-CIDR,221.179.191.0/24,no-resolve
+IP-CIDR,221.179.46.190/25,no-resolve
+IP-CIDR,221.204.213.222/32,no-resolve
+IP-CIDR,221.228.214.101/32,no-resolve
+IP-CIDR,222.187.226.96/32,no-resolve
+IP-CIDR,223.6.255.99/32,no-resolve
+IP-CIDR,23.235.156.167/32,no-resolve
+IP-CIDR,23.42.186.24/32,no-resolve
+IP-CIDR,23.66.147.48/32,no-resolve
+IP-CIDR,27.255.67.120/32,no-resolve
+IP-CIDR,42.51.146.207/32,no-resolve
+IP-CIDR,45.34.240.72/32,no-resolve
+IP-CIDR,46.165.197.153/32,no-resolve
+IP-CIDR,46.165.197.231/32,no-resolve
+IP-CIDR,47.90.50.177/32,no-resolve
+IP-CIDR,47.93.103.196/32,no-resolve
+IP-CIDR,47.94.89.32/32,no-resolve
+IP-CIDR,47.96.162.122/32,no-resolve
+IP-CIDR,58.215.179.159/32,no-resolve
+IP-CIDR,58.221.28.166/32,no-resolve
+IP-CIDR,60.19.29.21/28,no-resolve
+IP-CIDR,60.190.139.164/32,no-resolve
+IP-CIDR,60.191.124.196/32,no-resolve
+IP-CIDR,60.210.17.12/24,no-resolve
+IP-CIDR,61.129.70.132/32,no-resolve
+IP-CIDR,61.132.216.232/32,no-resolve
+IP-CIDR,61.132.221.146/32,no-resolve
+IP-CIDR,61.132.255.212/32,no-resolve
+IP-CIDR,61.132.255.222/25,no-resolve
+IP-CIDR,61.147.184.18/32,no-resolve
+IP-CIDR,61.152.223.15/32,no-resolve
+IP-CIDR,61.174.50.167/25,no-resolve
+IP-CIDR,61.191.12.74/32,no-resolve
+IP-CIDR,61.191.206.4/32,no-resolve
+IP-CIDR,67.229.224.28/32,no-resolve
+IP-CIDR,69.28.57.245/32,no-resolve
+IP-CIDR,74.117.182.77/32,no-resolve
+IP-CIDR,78.140.131.214/32,no-resolve
+IP-CIDR,39.107.15.115/32,no-resolve
+IP-CIDR,47.89.59.182/32,no-resolve
+IP-CIDR,103.49.209.27/32,no-resolve
+IP-CIDR,123.56.152.96/32,no-resolve
+IP-CIDR,61.160.200.223/32,no-resolve
+IP-CIDR,61.160.200.242/32,no-resolve
+IP-CIDR,61.160.200.252/32,no-resolve
+IP-CIDR,61.174.50.214/32,no-resolve
+IP-CIDR,111.175.220.163/32,no-resolve
+IP-CIDR,111.175.220.164/32,no-resolve
+IP-CIDR,124.232.160.178/32,no-resolve
+IP-CIDR,175.6.223.15/32,no-resolve
+IP-CIDR,183.59.53.237/32,no-resolve
+IP-CIDR,218.93.127.37/32,no-resolve
+IP-CIDR,221.228.17.152/32,no-resolve
+IP-CIDR,221.231.6.79/32,no-resolve
+IP-CIDR,222.186.61.91/32,no-resolve
+IP-CIDR,222.186.61.95/32,no-resolve
+IP-CIDR,222.186.61.96/32,no-resolve
+IP-CIDR,222.186.61.97/32,no-resolve
+IP-CIDR,106.75.231.48/32,no-resolve
+IP-CIDR,119.4.249.166/32,no-resolve
+IP-CIDR,220.196.52.141/32,no-resolve
+IP-CIDR,221.6.4.148/32,no-resolve
+IP-CIDR,114.247.28.96/32,no-resolve
+IP-CIDR,221.179.131.72/32,no-resolve
+IP-CIDR,221.179.140.145/32,no-resolve
+IP-CIDR,10.72.25.0/24,no-resolve
+IP-CIDR,115.182.16.79/32,no-resolve
+IP-CIDR,118.144.88.126/32,no-resolve
+IP-CIDR,118.144.88.215/32,no-resolve
+IP-CIDR,118.144.88.216/32,no-resolve
+IP-CIDR,120.76.189.132/32,no-resolve
+IP-CIDR,124.14.21.147/32,no-resolve
+IP-CIDR,124.14.21.151/32,no-resolve
+IP-CIDR,180.166.52.24/32,no-resolve
+IP-CIDR,211.161.101.106/32,no-resolve
+IP-CIDR,220.115.251.25/32,no-resolve
+IP-CIDR,222.73.156.235/32,no-resolve
+IP-CIDR,203.107.1.1/24,no-resolve
+AND,((DOMAIN-KEYWORD,f-log), (DOMAIN-SUFFIX,grammarly.io))
+AND,((DOMAIN-KEYWORD,genuine), (DOMAIN-KEYWORD,autodesk))
+AND,((DOMAIN-SUFFIX,msa.cdn.mediaset.net), (DOMAIN-KEYWORD,adv0))
+AND,((DOMAIN-SUFFIX,prod.hosts.ooklaserver.net), (DOMAIN-KEYWORD,.ad.))
+AND,((NOT,((OR,((DOMAIN-SUFFIX,bilibili.com),(DOMAIN-SUFFIX,hdslb.com),(DOMAIN-SUFFIX,wo.cn),(DOMAIN-SUFFIX,biligame.com),(DOMAIN-SUFFIX,bilivideo.com),(DOMAIN-SUFFIX,biliapi.com),(DOMAIN-SUFFIX,biliapi.net),(DOMAIN-SUFFIX,biliintl.com),(DOMAIN-SUFFIX,bstarstatic.com),(DOMAIN-SUFFIX,akamaized.net))))),(USER-AGENT,bili*))
+AND,((OR,((DOMAIN-SUFFIX,gvt3.com), (DOMAIN-SUFFIX,gvt2.com), (DOMAIN-SUFFIX,gvt1.com), (DOMAIN-SUFFIX,gvt0.com))), (DOMAIN-KEYWORD,beacon))
+URL-REGEX,^https:\/\/spclient\.wg\.spotify\.com\/ad-logic\/prefetch$
