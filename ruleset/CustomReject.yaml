@@ -7,9 +7,27 @@ payload:
   - DOMAIN-SUFFIX,api.fu.xcultur.com
   - DOMAIN-SUFFIX,v.adintl.cn
   - DOMAIN-SUFFIX,tnc3-bjlgy.zijieapi.com
-  - DOMAIN-SUFFIX,tnc3-+.zijieapi.com
+  - DOMAIN-SUFFIX,tnc3-bjlgy1.zijieapi.com
+  - DOMAIN-SUFFIX,tnc3-bjlgy2.zijieapi.com
+  - DOMAIN-SUFFIX,tnc3-bjlgy3.zijieapi.com
+  - DOMAIN-SUFFIX,tnc3-bjlgy4.zijieapi.com
+  - DOMAIN-SUFFIX,tnc3-bjlgy5.zijieapi.com
+  - DOMAIN-SUFFIX,tnc3-bjlgy6.zijieapi.com
+  - DOMAIN-SUFFIX,tnc3-alisc.zijieapi.com
+  - DOMAIN-SUFFIX,tnc3-alisc1.zijieapi.com
+  - DOMAIN-SUFFIX,tnc3-alisc2.zijieapi.com
+  - DOMAIN-SUFFIX,tnc3-alisc3.zijieapi.com
+  - DOMAIN-SUFFIX,tnc3-alisc4.zijieapi.com
+  - DOMAIN-SUFFIX,tnc3-alisc5.zijieapi.com
+  - DOMAIN-SUFFIX,tnc3-alisc6.zijieapi.com
+  - DOMAIN-SUFFIX,tnc3-bjlgy.zijieapi.com
+  - DOMAIN-SUFFIX,tnc3-bjlgy1.zijieapi.com
+  - DOMAIN-SUFFIX,tnc3-bjlgy2.zijieapi.com
+  - DOMAIN-SUFFIX,tnc3-bjlgy3.zijieapi.com
+  - DOMAIN-SUFFIX,tnc3-bjlgy4.zijieapi.com
+  - DOMAIN-SUFFIX,tnc3-bjlgy5.zijieapi.com
+  - DOMAIN-SUFFIX,tnc3-bjlgy6.zijieapi.com
   - DOMAIN-SUFFIX,open.e.kuaishou.cn
-  - DOMAIN-SUFFIX,tnc3-+.zijieapi.com
   - DOMAIN-SUFFIX,api.wxcjgg.cn
   - DOMAIN-SUFFIX,apmplus.volces.com
   #其他
