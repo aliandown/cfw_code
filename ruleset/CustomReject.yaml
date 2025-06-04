@@ -30,23 +30,8 @@ payload:
   - DOMAIN-SUFFIX,open.e.kuaishou.cn
   - DOMAIN-SUFFIX,api.wxcjgg.cn
   - DOMAIN-SUFFIX,apmplus.volces.com
-  #其他
-  - DOMAIN-SUFFIX,doubleclick.net
-  - DOMAIN,ads.youtube.com
-  - DOMAIN-SUFFIX,ssmobi.cn
-  - DOMAIN-SUFFIX,bugly.qq.com
-# 包含常用应用的各种去广告规则。
-# 可能有轻微副作用，可放心使用。（如果网站功能和广告冲突，会删掉去广告规则）
-# 乐视手机拦截
-  - DOMAIN-SUFFIX,lfengmobile.com
-# 个信 个安 个推 推送推广
-  #- DOMAIN-SUFFIX,ido.getui.net
-  #- DOMAIN-SUFFIX,sdk.open.phone.igexin.com
-  #- DOMAIN-SUFFIX,sdk.open.talk.getui.net
-  #- DOMAIN-SUFFIX,sdk.open.talk.getui.com
-  #- DOMAIN-SUFFIX,sdk.open.talk.gepush.com
-  #- DOMAIN-SUFFIX,sdk.open.talk.igexin.com
-# 雷速体育
+  # 雷速体育
+  - DOMAIN-SUFFIX,h5.leisu.com
   - DOMAIN-SUFFIX,yunxinfw.com
   #- DOMAIN-SUFFIX,api.weibo.com
   #- DOMAIN-SUFFIX,statistic.live.126.net
@@ -63,6 +48,22 @@ payload:
   #- DOMAIN-SUFFIX,vpp-license-proxy.aliyuncs.com
   #- DOMAIN-SUFFIX,alivc-aio.cn-hangzhou.log.aliyuncs.com
   #- DOMAIN-SUFFIX,cloudauth-device-dualstack.cn-shanghai.aliyuncs.com
+  #其他
+  - DOMAIN-SUFFIX,doubleclick.net
+  - DOMAIN,ads.youtube.com
+  - DOMAIN-SUFFIX,ssmobi.cn
+  - DOMAIN-SUFFIX,bugly.qq.com
+# 包含常用应用的各种去广告规则。
+# 可能有轻微副作用，可放心使用。（如果网站功能和广告冲突，会删掉去广告规则）
+# 乐视手机拦截
+  - DOMAIN-SUFFIX,lfengmobile.com
+# 个信 个安 个推 推送推广
+  #- DOMAIN-SUFFIX,ido.getui.net
+  #- DOMAIN-SUFFIX,sdk.open.phone.igexin.com
+  #- DOMAIN-SUFFIX,sdk.open.talk.getui.net
+  #- DOMAIN-SUFFIX,sdk.open.talk.getui.com
+  #- DOMAIN-SUFFIX,sdk.open.talk.gepush.com
+  #- DOMAIN-SUFFIX,sdk.open.talk.igexin.com
 # Amazon
   - DOMAIN-SUFFIX,advice-ads.s3.amazonaws.com
 # 163
