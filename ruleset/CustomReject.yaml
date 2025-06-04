@@ -4,6 +4,11 @@ payload:
   - sdk.zhangyuyidong.cn
   - sdklog.zhangyuyidong.cn
   - v.adintl.cn
+  - DOMAIN-SUFFIX,api.ssp.xcultur.com
+  - DOMAIN-SUFFIX,api.fu.xcultur.com
+  - DOMAIN-SUFFIX,v.adintl.cn
+  - DOMAIN-SUFFIX,tnc3-bjlgy.zijieapi.com
+  - DOMAIN-SUFFIX,open.e.kuaishou.cn
   #其他
   - DOMAIN-SUFFIX,doubleclick.net
   - DOMAIN,ads.youtube.com
