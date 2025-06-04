@@ -10,6 +10,7 @@ payload:
   - DOMAIN-SUFFIX,open.e.kuaishou.cn
   - DOMAIN-SUFFIX,tnc3-*.zijieapi.com
   - DOMAIN-SUFFIX,api.wxcjgg.cn
+  - DOMAIN-SUFFIX,apmplus.volces.com
   #其他
   - DOMAIN-SUFFIX,doubleclick.net
   - DOMAIN,ads.youtube.com
