@@ -31,7 +31,6 @@ payload:
   - DOMAIN-SUFFIX,api.wxcjgg.cn
   - DOMAIN-SUFFIX,apmplus.volces.com
   # 雷速体育
-  - DOMAIN-SUFFIX,h5.leisu.com
   - DOMAIN-SUFFIX,yunxinfw.com
   - DOMAIN-SUFFIX,mores.toponad.com
   - DOMAIN-SUFFIX,oceanengine.com
