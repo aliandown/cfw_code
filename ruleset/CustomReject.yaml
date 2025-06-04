@@ -31,6 +31,7 @@ payload:
   - DOMAIN-SUFFIX,api.wxcjgg.cn
   - DOMAIN-SUFFIX,apmplus.volces.com
   # 雷速体育
+  - DOMAIN-SUFFIX,dypnsapi.aliyuncs.com
   - DOMAIN-SUFFIX,cloud-config-service.rtc.aliyuncs.com
   - DOMAIN-SUFFIX,vpp-license-proxy.aliyuncs.com
   - DOMAIN-SUFFIX,auth-asg.aliyuncs.com
