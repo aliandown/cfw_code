@@ -31,6 +31,7 @@ payload:
   - DOMAIN-SUFFIX,api.wxcjgg.cn
   - DOMAIN-SUFFIX,apmplus.volces.com
   # 雷速体育
+  - DOMAIN-SUFFIX,app-gateway.leisuapi.com
   - DOMAIN-SUFFIX,hzjizhun.cn
   - DOMAIN-SUFFIX,zhangyuyidong.cn
   - DOMAIN-SUFFIX,shunchangzhixing.com
