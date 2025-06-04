@@ -1,5 +1,10 @@
 # NAME: 自定义全球拉截
 payload:
+  #新球体育
+  - sdk.zhangyuyidong.cn
+  - sdklog.zhangyuyidong.cn
+  - v.adintl.cn
+  #其他
   - DOMAIN-SUFFIX,doubleclick.net
   - DOMAIN,ads.youtube.com
   - DOMAIN-SUFFIX,ssmobi.cn
