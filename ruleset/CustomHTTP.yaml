@@ -1,14 +1,4 @@
 # NAME: Developer
 payload:
-  # 蓝箭体育、新球体育、球探体育
-  - DOMAIN-SUFFIX,titan007.com
-  - DOMAIN-SUFFIX,letarrow.com
-  - DOMAIN-KEYWORD,static007
-  - DOMAIN-SUFFIX,d.win007.nowodds.com
-  # 雷速体育
-  - DOMAIN-SUFFIX,kantai8.com
-  # 星星体育
-  - DOMAIN-SUFFIX,xingxingtiyu.com
-  # 足球比分网
-  - DOMAIN-KEYWORD,dszuqiu
+  
   
