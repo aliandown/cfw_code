@@ -1,5 +1,7 @@
 # NAME: Developer
 payload:
+  # 银行机构
+  - DOMAIN-SUFFIX,cardinalcommerce.com
   # 游戏软件
   - DOMAIN-SUFFIX,51cywx.com
   - DOMAIN-SUFFIX,shuerwenhua.com
