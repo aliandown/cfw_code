@@ -11,7 +11,7 @@ payload:
   - DOMAIN,edgeservices.bing.com
   - DOMAIN,prod-japaneast.access-point.cloudmessaging.edge.microsoft.com #自定加入
   - DOMAIN,studiostaticassetsprod.azureedge.net #自定加入
-  - DOMAIN,edge-mobile-static.azureedge.net #自定加入
+  #- DOMAIN,edge-mobile-static.azureedge.net #自定加入
   - DOMAIN,xsp-efz.ms-acdc.office.com #自定加入
   - DOMAIN,hnd-efz.ms-acdc.office.com #自定加入
   #- DOMAIN,static.edge.microsoftapp.net
