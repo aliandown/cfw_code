@@ -42,9 +42,9 @@ payload:
   - DOMAIN-SUFFIX,zhangyuyidong.cn
   - DOMAIN-SUFFIX,shunchangzhixing.com
   - DOMAIN-SUFFIX,t-dsp.pinduoduo.com
-  - DOMAIN-SUFFIX,lbs.netease.im
-  - DOMAIN-SUFFIX,dr.netease.im
-  - DOMAIN-SUFFIX,link.netease.im
+  #- DOMAIN-SUFFIX,lbs.netease.im
+  #- DOMAIN-SUFFIX,dr.netease.im
+  #- DOMAIN-SUFFIX,link.netease.im
   - DOMAIN-SUFFIX,adimage.bwton.com
   - DOMAIN-SUFFIX,yunxinfw.com
   - DOMAIN-SUFFIX,mores.toponad.com
