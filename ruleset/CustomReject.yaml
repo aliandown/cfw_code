@@ -1,7 +1,5 @@
 # NAME: 自定义全球拉截
 payload:
-  #乐球直播
-  - DOMAIN-SUFFIX,lqcos.beijxs.com
   #新球体育
   - DOMAIN-SUFFIX,sdk.zhangyuyidong.cn
   - DOMAIN-SUFFIX,sdklog.zhangyuyidong.cn
