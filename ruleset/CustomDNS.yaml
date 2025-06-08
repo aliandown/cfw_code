@@ -5,7 +5,7 @@
 # TOTAL: 110
 payload:
   # 国外DNS解析
-  - DOMAIN,1dot1dot1dot1.cloudflare-dns.com
+  #- DOMAIN,1dot1dot1dot1.cloudflare-dns.com
   #- DOMAIN,8888.google
   #- DOMAIN,adblock.mydns.network
   #- DOMAIN,applied-privacy.net
@@ -16,7 +16,7 @@ payload:
   #- DOMAIN,dns.aa.net.uk
   #- DOMAIN,dns.aaflalo.me
   #- DOMAIN,dns.cfiec.net
-  - DOMAIN,dns.cloudflare.com
+  #- DOMAIN,dns.cloudflare.com
   #- DOMAIN,dns.containerpi.com
   #- DOMAIN,dns.dns-over-https.com
   #- DOMAIN,dns.dnsoverhttps.net
@@ -72,7 +72,7 @@ payload:
   #- DOMAIN,jp.tiarap.org
   #- DOMAIN,mozilla.cloudflare-dns.com
   #- DOMAIN,odvr.nic.cz
-  - DOMAIN,one.one.one.one
+  #- DOMAIN,one.one.one.one
   #- DOMAIN,ordns.he.net
   #- DOMAIN,private.canadianshield.cira.ca
   #- DOMAIN,protected.canadianshield.cira.ca
@@ -87,8 +87,8 @@ payload:
   #- IP-CIDR,208.67.222.222/32
   #- IP-CIDR,45.11.45.11/32
   #- IP-CIDR,149.112.112.112/32
-  - IP-CIDR,1.1.1.1/32
-  - IP-CIDR,1.0.0.1/32
+  #- IP-CIDR,1.1.1.1/32
+  #- IP-CIDR,1.0.0.1/32
   #- IP-CIDR,101.101.101.101/32
   #- IP-CIDR,101.102.103.104/32
   #- IP-CIDR,12.159.2.159/32
