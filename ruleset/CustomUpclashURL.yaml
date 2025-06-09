@@ -1,7 +1,5 @@
 # NAME: 以下域名强制通过国内DNS解析
 payload:
-  # 足球大师
-  - DOMAIN-SUFFIX,dszuqiu.com
   # 皇冠网址 视频直播CND解析
   - DOMAIN-SUFFIX,geniussports.com
   # 乐球直播
