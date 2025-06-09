@@ -1,5 +1,7 @@
 # NAME: 自定义全球拉截
 payload:
+  - DOMAIN-SUFFIX,ry00000.com
+  - DOMAIN-SUFFIX,niab12345.com
   #新球体育
   - DOMAIN-SUFFIX,sdk.zhangyuyidong.cn
   - DOMAIN-SUFFIX,sdklog.zhangyuyidong.cn
