@@ -1,6 +1,8 @@
 # NAME: Developer
 # REPO: https://github.com/blackmatrix7/ios_rule_script
 payload:
+  # 足球大师
+  - DOMAIN-SUFFIX,dszuqiu.com
   - DOMAIN-SUFFIX,karing.app
   #- DOMAIN-SUFFIX,cn.bing.com
   #- DOMAIN-SUFFIX,reallyfreegeoip.org
