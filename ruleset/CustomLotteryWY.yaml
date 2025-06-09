@@ -44,7 +44,6 @@ payload:
   - DOMAIN-SUFFIX,1320225.akamaized.net #欧洲视频源解析
   # 皇冠网址 下载程序
   - DOMAIN-SUFFIX,sportradar.com
-  - DOMAIN-SUFFIX,ry00000.com
   - DOMAIN-SUFFIX,niab12345.com
   # 皇冠网址 akamaized.net属于CND解析公司
   - DOMAIN-SUFFIX,f288880.com
