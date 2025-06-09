@@ -12,7 +12,6 @@ payload:
   - DOMAIN-SUFFIX,hgapp0008.com
   - DOMAIN-SUFFIX,hgapp0009.com
   - IP-CIDR,123.108.119.0/24,no-resolve
-  - IP-CIDR,125.252.69.0/24,no-resolve
   # 皇冠网址 视频直播
   - DOMAIN-SUFFIX,botaoo.com
   - DOMAIN-SUFFIX,hzwxbz3.cn
