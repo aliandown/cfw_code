@@ -1,5 +1,6 @@
 # NAME: 自定义全球拉截
 payload:
+  # 皇冠体育
   - DOMAIN-SUFFIX,ry00000.com
   - DOMAIN-SUFFIX,niab12345.com
   #新球体育
