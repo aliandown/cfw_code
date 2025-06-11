@@ -21,25 +21,25 @@ payload:
   - DOMAIN-SUFFIX,sf3-fe-tos.pglstatp-toutiao.com
   #- DOMAIN-SUFFIX,vpp-license-proxy.aliyuncs.com
   #- DOMAIN-SUFFIX,cloudauth-device-dualstack.cn-shanghai.aliyuncs.com
-  - DOMAIN-SUFFIX,hzjizhun.cn
-  - DOMAIN-SUFFIX,zhangyuyidong.cn
-  - DOMAIN-SUFFIX,shunchangzhixing.com
+  #- DOMAIN-SUFFIX,hzjizhun.cn
+  #- DOMAIN-SUFFIX,zhangyuyidong.cn
+  #- DOMAIN-SUFFIX,shunchangzhixing.com
   - DOMAIN-SUFFIX,t-dsp.pinduoduo.com
   #- DOMAIN-SUFFIX,lbs.netease.im
   #- DOMAIN-SUFFIX,dr.netease.im
   #- DOMAIN-SUFFIX,link.netease.im
-  - DOMAIN-SUFFIX,adimage.bwton.com
-  - DOMAIN-SUFFIX,yunxinfw.com
-  - DOMAIN-SUFFIX,mores.toponad.com
-  - DOMAIN-SUFFIX,oceanengine.com
+  #- DOMAIN-SUFFIX,adimage.bwton.com
+  #- DOMAIN-SUFFIX,yunxinfw.com
+  #- DOMAIN-SUFFIX,mores.toponad.com
+  #- DOMAIN-SUFFIX,oceanengine.com
   #- DOMAIN-SUFFIX,api.weibo.com
   #- DOMAIN-SUFFIX,statistic.live.126.net
-  - DOMAIN-SUFFIX,mssdk.volces.com
+  #- DOMAIN-SUFFIX,mssdk.volces.com
   #- DOMAIN-SUFFIX,sv.adintl.cn
-  - DOMAIN-SUFFIX,ap2.qiyukf.com
+  #- DOMAIN-SUFFIX,ap2.qiyukf.com
   #- DOMAIN-SUFFIX,tnc3-aliec2.zijieapi.com
-  - DOMAIN-SUFFIX,zlsdk.1rtb.net
-  - DOMAIN-SUFFIX,beizi.biz
+  #- DOMAIN-SUFFIX,zlsdk.1rtb.net
+  #- DOMAIN-SUFFIX,beizi.biz
   #- DOMAIN-SUFFIX,tnc3-alisc1.zijieapi.com
   #- DOMAIN-SUFFIX,leisu-log.cn-hangzhou.log.aliyuncs.com
   #- DOMAIN-SUFFIX,cloud-config-service.rtc.aliyuncs.com
