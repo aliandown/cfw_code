@@ -13,6 +13,7 @@ payload:
   - DOMAIN-KEYWORD,.tq
   - DOMAIN-KEYWORD,lq*.
   - DOMAIN-KEYWORD,lqcos.
+  - DOMAIN-KEYWORD,stxfund.com
   - DOMAIN-SUFFIX,smzb618.com
   - DOMAIN-SUFFIX,pokepay.cc
   - DOMAIN-SUFFIX,paytend.com
