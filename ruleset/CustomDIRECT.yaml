@@ -127,17 +127,17 @@ payload:
   - DOMAIN-KEYWORD,-msedge.net
   #- DOMAIN-SUFFIX,live.com
   # github 第三方镜像
-  #- DOMAIN-SUFFIX,mirror.ghproxy.com
-  #- DOMAIN-SUFFIX,ghproxy.com
-  #- DOMAIN-KEYWORD,ghproxy
-  #- DOMAIN-SUFFIX,ghps.cc
-  #- DOMAIN-SUFFIX,gh-proxy.com
-  #- DOMAIN-SUFFIX,ghgo.xyz
-  #- DOMAIN-SUFFIX,ghfast.top
-  #- DOMAIN-KEYWORD,jsdelivr
+  - DOMAIN-SUFFIX,mirror.ghproxy.com
+  - DOMAIN-SUFFIX,ghproxy.com
+  - DOMAIN-KEYWORD,ghproxy
+  - DOMAIN-SUFFIX,ghps.cc
+  - DOMAIN-SUFFIX,gh-proxy.com
+  - DOMAIN-SUFFIX,ghgo.xyz
+  - DOMAIN-SUFFIX,ghfast.top
+  - DOMAIN-KEYWORD,jsdelivr
   # 小米电视APP
-   - DOMAIN-SUFFIX,mmzb09.com
-   - PROCESS-NAME,com.mygithub0.tvbox0.osdX
+  - DOMAIN-SUFFIX,mmzb09.com
+  - PROCESS-NAME,com.mygithub0.tvbox0.osdX
   # 其他足球直播
   #- DOMAIN-SUFFIX,365ball.com
   #- DOMAIN-SUFFIX,wqzb01.com
