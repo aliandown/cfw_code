@@ -3,6 +3,7 @@ payload:
   # 加密交易所
   - DOMAIN-KEYWORD,bybit
   - DOMAIN-KEYWORD,byapps
+  - DOMAIN-KEYWORD,bycsi
   - DOMAIN-SUFFIX,wsot2022.com
   # 1XBET
   - DOMAIN-SUFFIX,cdnafric.com
