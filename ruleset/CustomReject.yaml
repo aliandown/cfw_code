@@ -4,8 +4,8 @@ payload:
   - DOMAIN-SUFFIX,ry00000.com
   - DOMAIN-SUFFIX,niab12345.com
   #新球体育
-  - DOMAIN,sdk-event.beizi.biz:80
-  - DOMAIN,sdk-api.beizi.biz:80	
+  - DOMAIN,sdk-event.beizi.biz
+  - DOMAIN,sdk-api.beizi.biz
   - DOMAIN,sdk.zhangyuyidong.cn
   - DOMAIN,sdklog.zhangyuyidong.cn
   - DOMAIN,api.ssp.xcultur.com
