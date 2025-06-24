@@ -1,8 +1,5 @@
 # NAME: Developer
 payload:
-  # 雷速体育
-  - DOMAIN-SUFFIX,letarrow.com
-  - DOMAIN-SUFFIX,titan007.com
   # 银行机构
   - DOMAIN-SUFFIX,cardinalcommerce.com
   # 游戏软件
