@@ -4,26 +4,28 @@ payload:
   - DOMAIN-SUFFIX,ry00000.com
   - DOMAIN-SUFFIX,niab12345.com
   #新球体育
-  - DOMAIN-SUFFIX,sdk.zhangyuyidong.cn
-  - DOMAIN-SUFFIX,sdklog.zhangyuyidong.cn
-  - DOMAIN-SUFFIX,api.ssp.xcultur.com
-  - DOMAIN-SUFFIX,api.fu.xcultur.com
-  - DOMAIN-SUFFIX,v.adintl.cn
-  - DOMAIN-SUFFIX,open.e.kuaishou.cn
-  - DOMAIN-SUFFIX,api.wxcjgg.cn
-  - DOMAIN-SUFFIX,apmplus.volces.com
+  - DOMAIN,sdk-event.beizi.biz:80
+  - DOMAIN,sdk-api.beizi.biz:80	
+  - DOMAIN,sdk.zhangyuyidong.cn
+  - DOMAIN,sdklog.zhangyuyidong.cn
+  - DOMAIN,api.ssp.xcultur.com
+  - DOMAIN,api.fu.xcultur.com
+  - DOMAIN,v.adintl.cn
+  - DOMAIN,open.e.kuaishou.cn
+  - DOMAIN,api.wxcjgg.cn
+  - DOMAIN,apmplus.volces.com
   # 雷速体育
   #- DOMAIN-SUFFIX,dypnsapi.aliyuncs.com
   #- DOMAIN-SUFFIX,cloud-config-service.rtc.aliyuncs.com
   #- DOMAIN-SUFFIX,vpp-license-proxy.aliyuncs.com
   #- DOMAIN-SUFFIX,auth-asg.aliyuncs.com
-  - DOMAIN-SUFFIX,sf3-fe-tos.pglstatp-toutiao.com
+  - DOMAIN,sf3-fe-tos.pglstatp-toutiao.com
   #- DOMAIN-SUFFIX,vpp-license-proxy.aliyuncs.com
   #- DOMAIN-SUFFIX,cloudauth-device-dualstack.cn-shanghai.aliyuncs.com
   #- DOMAIN-SUFFIX,hzjizhun.cn
   #- DOMAIN-SUFFIX,zhangyuyidong.cn
   #- DOMAIN-SUFFIX,shunchangzhixing.com
-  - DOMAIN-SUFFIX,t-dsp.pinduoduo.com
+  - DOMAIN,t-dsp.pinduoduo.com
   #- DOMAIN-SUFFIX,lbs.netease.im
   #- DOMAIN-SUFFIX,dr.netease.im
   #- DOMAIN-SUFFIX,link.netease.im
