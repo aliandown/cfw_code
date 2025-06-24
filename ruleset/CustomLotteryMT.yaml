@@ -3,7 +3,7 @@
 payload:
   # 雷速体育
   - DOMAIN-SUFFIX,namitiyu.com
-  - DOMAIN-SUFFIX,live.kantai8.com
+  - DOMAIN-SUFFIX,kantai8.com
   # 足球直播
   #- DOMAIN-SUFFIX,xinzuqiu.com
   #- DOMAIN-KEYWORD,xinzuqiu
