@@ -1,7 +1,5 @@
 # NAME: 以下域名强制通过国内DNS解析
 payload:
-  # 皇冠网址 视频直播CND解析
-  - DOMAIN-SUFFIX,geniussports.com
   # 乐球直播
   - DOMAIN-KEYWORD,lq.
   - DOMAIN-KEYWORD,leqiu
