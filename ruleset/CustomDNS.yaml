@@ -56,6 +56,7 @@ payload:
   #- DOMAIN,doh.qis.io
   - DOMAIN,dot.sb
   - DOMAIN,doh.sb
+  - DOMAIN,jp-nrt.doh.sb
   #- DOMAIN,doh.seby.io
   #- DOMAIN,doh.securedns.eu
   #- DOMAIN,doh.tiar.app
