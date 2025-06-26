@@ -1,5 +1,10 @@
 # NAME: 以下域名强制通过国内DNS解析
 payload:
+  # 斗球直播
+  - DOMAIN-SUFFIX,vdsbqjz.com
+  - DOMAIN-SUFFIX,0xlo0p.com
+  - DOMAIN-SUFFIX,qaffvz.com
+  - DOMAIN-SUFFIX,zczlxxkj.com
   # 乐球直播
   - DOMAIN-KEYWORD,lq.
   - DOMAIN-KEYWORD,leqiu
