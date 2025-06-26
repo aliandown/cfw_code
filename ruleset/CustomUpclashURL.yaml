@@ -1,6 +1,8 @@
 # NAME: 以下域名强制通过国内DNS解析
 payload:
   # 斗球直播
+  - DOMAIN-SUFFIX,bengvet.com
+  - DOMAIN-SUFFIX,wdieijv
   - DOMAIN-SUFFIX,dq87774.com
   - DOMAIN-SUFFIX,yrcmza.com
   - DOMAIN-SUFFIX,vdsbqjz.com
