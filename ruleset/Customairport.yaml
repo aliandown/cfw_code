@@ -1,6 +1,5 @@
 # NAME: Customairport
 payload:
-  - DOMAIN-SUFFIX,performfeeds.com
   # 加密交易所
   - DOMAIN-KEYWORD,bybit
   - DOMAIN-KEYWORD,byapps
