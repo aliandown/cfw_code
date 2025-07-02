@@ -10,6 +10,8 @@ payload:
   - DOMAIN-KEYWORD,byabcde.com
   - DOMAIN-SUFFIX,wsot2022.com
   # 新球体育
+  - DOMAIN-SUFFIX,xcultur.com
+  - DOMAIN-SUFFIX,beizi.biz
   - DOMAIN-SUFFIX,letarrow.com
   - DOMAIN-SUFFIX,titan007.com
   # 足球大师
