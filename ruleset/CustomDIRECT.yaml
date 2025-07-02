@@ -1,8 +1,11 @@
 # NAME: Developer
 payload:
-  # 银行机构
+  # paypal
+  - DOMAIN,browser-intake-us5-datadoghq.com
+  - DOMAIN-SUFFIX,dyneti.com
   - DOMAIN-SUFFIX,paypalobjects.com
   - DOMAIN-SUFFIX,paypal.com
+  # 银行机构
   - DOMAIN-SUFFIX,cardinalcommerce.com
   # 游戏软件
   - DOMAIN-SUFFIX,51cywx.com
