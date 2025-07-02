@@ -4,16 +4,16 @@ payload:
   - DOMAIN-SUFFIX,ry00000.com
   - DOMAIN-SUFFIX,niab12345.com
   #新球体育
-  - DOMAIN,sdk-event.beizi.biz
-  - DOMAIN,sdk-api.beizi.biz
+  #- DOMAIN,sdk-event.beizi.biz
+  #- DOMAIN,sdk-api.beizi.biz
   #- DOMAIN,sdk.zhangyuyidong.cn
   #- DOMAIN,sdklog.zhangyuyidong.cn
-  - DOMAIN,api.ssp.xcultur.com
-  - DOMAIN,api.fu.xcultur.com
-  - DOMAIN,v.adintl.cn
-  - DOMAIN,open.e.kuaishou.cn
-  - DOMAIN,api.wxcjgg.cn
-  - DOMAIN,apmplus.volces.com
+  #- DOMAIN,api.ssp.xcultur.com
+  #- DOMAIN,api.fu.xcultur.com
+  #- DOMAIN,v.adintl.cn
+  #- DOMAIN,open.e.kuaishou.cn
+  #- DOMAIN,api.wxcjgg.cn
+  #- DOMAIN,apmplus.volces.com
   # 雷速体育
   #- DOMAIN-SUFFIX,dypnsapi.aliyuncs.com
   #- DOMAIN-SUFFIX,cloud-config-service.rtc.aliyuncs.com
