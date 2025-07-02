@@ -1,6 +1,7 @@
 # NAME: Developer
 payload:
   # paypal
+  - DOMAIN-SUFFIX,paypal-mktg.com
   - DOMAIN,browser-intake-us5-datadoghq.com
   - DOMAIN-SUFFIX,dyneti.com
   - DOMAIN-SUFFIX,paypalobjects.com
