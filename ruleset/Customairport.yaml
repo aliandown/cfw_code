@@ -1,13 +1,5 @@
 # NAME: Customairport
 payload:
-  # 加密交易所
-  - DOMAIN-KEYWORD,bybit
-  - DOMAIN-KEYWORD,byapps
-  - DOMAIN-KEYWORD,bycsi
-  - DOMAIN-KEYWORD,byd3c3.com
-  - DOMAIN-KEYWORD,bybdc6.com
-  - DOMAIN-KEYWORD,byabcde.com
-  - DOMAIN-SUFFIX,wsot2022.com
   # 1XBET
   - DOMAIN-SUFFIX,cdnafric.com
   - DOMAIN-SUFFIX,traincdn.com
