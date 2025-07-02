@@ -10,7 +10,7 @@ payload:
   - DOMAIN,sdklog.zhangyuyidong.cn
   - DOMAIN,api.ssp.xcultur.com
   - DOMAIN,api.fu.xcultur.com
-  - DOMAIN,v.adintl.cn
+  #- DOMAIN,v.adintl.cn
   - DOMAIN,open.e.kuaishou.cn
   - DOMAIN,api.wxcjgg.cn
   - DOMAIN,apmplus.volces.com
