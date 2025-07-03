@@ -12,7 +12,7 @@ payload:
   #- DOMAIN,api.fu.xcultur.com
   #- DOMAIN,v.adintl.cn
   - DOMAIN,open.e.kuaishou.cn
-  #- DOMAIN,api.wxcjgg.cn
+  - DOMAIN,api.wxcjgg.cn
   #- DOMAIN,apmplus.volces.com
   # 雷速体育
   #- DOMAIN-SUFFIX,dypnsapi.aliyuncs.com
