@@ -1,6 +1,17 @@
 # NAME: Developer
 # REPO: https://github.com/blackmatrix7/ios_rule_script
 payload:
+  # github 第三方镜像
+  - DOMAIN,github.dpik.top
+  - DOMAIN,gh.llkk.cc
+  - DOMAIN-SUFFIX,mirror.ghproxy.com
+  - DOMAIN-SUFFIX,ghproxy.com
+  - DOMAIN-KEYWORD,ghproxy
+  - DOMAIN-SUFFIX,ghps.cc
+  - DOMAIN-SUFFIX,gh-proxy.com
+  - DOMAIN-SUFFIX,ghgo.xyz
+  - DOMAIN-SUFFIX,ghfast.top
+  - DOMAIN-KEYWORD,jsdelivr
   # 加密交易所
   - DOMAIN-KEYWORD,bybit
   - DOMAIN-KEYWORD,byapps
