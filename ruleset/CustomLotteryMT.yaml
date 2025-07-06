@@ -26,6 +26,7 @@ payload:
   - DOMAIN-SUFFIX,titan007.com
   - DOMAIN-SUFFIX,static007.com
   # 足球大师
+  - DOMAIN-SUFFIX,scoreapis.com
   - DOMAIN-SUFFIX,xingxingtiyu.com
   - DOMAIN-SUFFIX,dszuqiu.com
   # 雷速体育
