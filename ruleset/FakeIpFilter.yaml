@@ -132,6 +132,7 @@ payload:
 # Mijia
   - "Mijia Cloud"
 # 银行
+  - "+.95516.com"
   - "+.cmbchina.com"
   - "+.cmbimg.com"
   - "+.95599.cn"
@@ -200,12 +201,27 @@ payload:
   - "+.ghps.cc"
   - "+.gh-proxy.com"
   - "+.jsdelivr.net"
+  - "+.dpik.top"
+  - "+.llkk.cc"
+  - "+.ghps.cc"
+  - "+.ghgo.xyz"
+  - "+.ghfast.top"
 # 国外VPS管理
   - "+.serv00.com"
-# 其他
-  - "+.martianwallet.xyz"
+# IP 查询
+  - "+.ipip.net"
+  - "+.ipcelou.com"
+  - "+.ipify.org"
+# 挖矿网站
+  - "+.public-pool.io"
+# 国内门户网站
+  - "+.meituan.net"
+# 国外门户网站
   - "+.mail.me.com"
   - "+.bing.com"
   - "+.office365.com"
-  - "+.ipify.org"
+# 其他
+  - "+.martianwallet.xyz"
   - "+.speedtest.cn"
+  
+  - "+.coloros.com"
