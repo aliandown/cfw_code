@@ -209,9 +209,11 @@ payload:
 # 国外VPS管理
   - "+.serv00.com"
 # IP 查询
+  - "+.upyun.com"
   - "+.ipip.net"
   - "+.ipcelou.com"
   - "+.ipify.org"
+  - "+.ip.sb"
 # 挖矿网站
   - "+.public-pool.io"
 # 国内门户网站
