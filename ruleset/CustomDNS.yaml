@@ -8,6 +8,10 @@ payload:
   - DOMAIN,dns.alidns.com
   - DOMAIN,doh.pub
   - DOMAIN,dot.pub
+  - IP-CIDR,223.5.5.5/32
+  - IP-CIDR,223.6.6.6/32
+  - IP-CIDR,119.29.29.29/32
+  - IP-CIDR,119.28.28.28/32
   # 国外DNS解析
   - DOMAIN,1dot1dot1dot1.cloudflare-dns.com
   #- DOMAIN,8888.google
