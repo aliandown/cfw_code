@@ -13,18 +13,18 @@ payload:
   - IP-CIDR,119.29.29.29/32
   - IP-CIDR,119.28.28.28/32
   # 国外DNS解析
-  - DOMAIN,1dot1dot1dot1.cloudflare-dns.com
+  #- DOMAIN,1dot1dot1dot1.cloudflare-dns.com
   #- DOMAIN,8888.google
   #- DOMAIN,adblock.mydns.network
   #- DOMAIN,applied-privacy.net
-  - DOMAIN,chrome.cloudflare-dns.com
-  - DOMAIN,cloudflare-dns.com
+  #- DOMAIN,chrome.cloudflare-dns.com
+  #- DOMAIN,cloudflare-dns.com
   #- DOMAIN,dns-nyc.aaflalo.me
   #- DOMAIN,dns-tls.qis.io
   #- DOMAIN,dns.aa.net.uk
   #- DOMAIN,dns.aaflalo.me
   #- DOMAIN,dns.cfiec.net
-  - DOMAIN,dns.cloudflare.com
+  #- DOMAIN,dns.cloudflare.com
   #- DOMAIN,dns.containerpi.com
   #- DOMAIN,dns.dns-over-https.com
   #- DOMAIN,dns.dnsoverhttps.net
@@ -64,7 +64,7 @@ payload:
   #- DOMAIN,doh.qis.io
   #- DOMAIN,dot.sb
   #- DOMAIN,doh.sb
-  - DOMAIN,jp-nrt.doh.sb
+  #- DOMAIN,jp-nrt.doh.sb
   #- DOMAIN,doh.seby.io
   #- DOMAIN,doh.securedns.eu
   #- DOMAIN,doh.tiar.app
@@ -74,13 +74,13 @@ payload:
   #- DOMAIN,dohdot.coxlab.net
   #- DOMAIN,example.doh.blockerdns.com
   #- DOMAIN,family.canadianshield.cira.ca
-  - DOMAIN,family.cloudflare-dns.com
+  #- DOMAIN,family.cloudflare-dns.com
   #- DOMAIN,ibksturm.synology.me
   #- DOMAIN,ibuki.cgnat.net
   #- DOMAIN,jcdns.fun
   #- DOMAIN,jp.tiar.app
   #- DOMAIN,jp.tiarap.org
-  - DOMAIN,mozilla.cloudflare-dns.com
+  #- DOMAIN,mozilla.cloudflare-dns.com
   #- DOMAIN,odvr.nic.cz
   #- DOMAIN,one.one.one.one
   #- DOMAIN,ordns.he.net
@@ -89,18 +89,18 @@ payload:
   #- DOMAIN,rdns.faelix.net
   #- DOMAIN,sdns.233py.com
   #- DOMAIN,security-filter-dns.cleanbrowsing.org
-  - DOMAIN,security.cloudflare-dns.com
+  #- DOMAIN,security.cloudflare-dns.com
   #- DOMAIN,unfiltered.adguard-dns.com
-  - DOMAIN,public.dns.iij.jp
-  - IP-CIDR,103.2.57.5/32
-  - IP-CIDR,103.2.57.6/32
+  #- DOMAIN,public.dns.iij.jp
+  #- IP-CIDR,103.2.57.5/32
+  #- IP-CIDR,103.2.57.6/32
   #- IP-CIDR,9.9.9.9/32
   #- IP-CIDR,208.67.220.220/32
   #- IP-CIDR,208.67.222.222/32
   #- IP-CIDR,45.11.45.11/32
   #- IP-CIDR,149.112.112.112/32
-  - IP-CIDR,1.1.1.1/32
-  - IP-CIDR,1.0.0.1/32
+  #- IP-CIDR,1.1.1.1/32
+  #- IP-CIDR,1.0.0.1/32
   #- IP-CIDR,101.101.101.101/32
   #- IP-CIDR,101.102.103.104/32
   #- IP-CIDR,12.159.2.159/32
