@@ -4,7 +4,6 @@
 # IP-CIDR: 22
 # TOTAL: 110
 payload:
-  payload:
   # 国内DNS解析
   - DOMAIN,dns.alidns.com
   - DOMAIN,doh.pub
