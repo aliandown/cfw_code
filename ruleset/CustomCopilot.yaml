@@ -10,6 +10,7 @@
 # TOTAL: 51
 payload:
   # 自定义添加
+  - DOMAIN-SUFFIX,trafficmanager.net
   - DOMAIN-SUFFIX,a-msedge.net
   - DOMAIN-SUFFIX,e-msedge.net
   - DOMAIN-SUFFIX,azure.com
