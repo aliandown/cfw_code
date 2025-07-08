@@ -11,6 +11,7 @@
 payload:
   # 自定义添加
   - DOMAIN-SUFFIX,a-msedge.net
+  - DOMAIN-SUFFIX,e-msedge.net
   - DOMAIN-SUFFIX,azure.com
   - DOMAIN,mobile.events.data.microsoft.com
   - DOMAIN,copilot-copilot-msft-com.trafficmanager.net
