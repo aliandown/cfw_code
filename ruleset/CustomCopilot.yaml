@@ -9,6 +9,9 @@
 # IP-CIDR: 2
 # TOTAL: 51
 payload:
+  # 自定义添加
+  - DOMAIN-SUFFIX,westeurope.cloudapp.azure.com
+  # 系统默认规则
   - DOMAIN,api.msn.com
   - DOMAIN,api.statsig.com
   - DOMAIN,assets.msn.com
