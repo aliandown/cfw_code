@@ -10,6 +10,7 @@
 # TOTAL: 51
 payload:
   # 自定义添加
+  - DOMAIN-SUFFIX,a-msedge.net
   - DOMAIN-SUFFIX,azure.com
   - DOMAIN,mobile.events.data.microsoft.com
   # 系统默认规则
