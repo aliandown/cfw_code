@@ -12,6 +12,7 @@ payload:
   # 自定义添加
   - DOMAIN-SUFFIX,westeurope.cloudapp.azure.com
   - DOMAIN-SUFFIX,westus.cloudapp.azure.com
+  - DOMAIN,mobile.events.data.microsoft.com
   # 系统默认规则
   - DOMAIN,api.msn.com
   - DOMAIN,api.statsig.com
