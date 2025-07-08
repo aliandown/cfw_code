@@ -10,6 +10,7 @@
 # TOTAL: 51
 payload:
   # 自定义添加
+  - DOMAIN-SUFFIX,centralus.cloudapp.azure.com
   - DOMAIN-SUFFIX,westeurope.cloudapp.azure.com
   - DOMAIN-SUFFIX,westus.cloudapp.azure.com
   - DOMAIN,mobile.events.data.microsoft.com
