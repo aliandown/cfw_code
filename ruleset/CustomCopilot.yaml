@@ -14,6 +14,7 @@ payload:
   - DOMAIN-SUFFIX,e-msedge.net
   - DOMAIN-SUFFIX,azure.com
   - DOMAIN,mobile.events.data.microsoft.com
+  - DOMAIN,prod.rewardsplatform.microsoft.com
   - DOMAIN,copilot-copilot-msft-com.trafficmanager.net
   # 系统默认规则
   - DOMAIN,api.msn.com
