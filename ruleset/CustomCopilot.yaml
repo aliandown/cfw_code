@@ -10,7 +10,7 @@
 # TOTAL: 51
 payload:
   # 自定义添加
-  - DOMAIN-SUFFIX,cloudapp.azure.com
+  - DOMAIN-SUFFIX,azure.com
   - DOMAIN,mobile.events.data.microsoft.com
   # 系统默认规则
   - DOMAIN,api.msn.com
