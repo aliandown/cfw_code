@@ -77,3 +77,34 @@ payload:
   - "+.n.n.srv.nintendo.net"
 # Sony PlayStation
   - "+.stun.playstation.net"
+# Microsoft Xbox
+  - "xbox.*.+.microsoft.com"
+  - "+.*.xboxlive.com"
+  - "xbox.*.microsoft.com"
+  - xnotify.xboxlive.com
+#Wotgame
+  - "+.battlenet.com.cn"
+  - "+.wotgame.cn"
+  - "+.wggames.cn"
+  - "+.wowsgame.cn"
+  - "+.wargaming.net"
+# Golang
+  - proxy.golang.org
+# Linksys Router
+  - heartbeat.belkin.com
+  - "+.linksys.com"
+  - "+.linksyssmartwifi.com"
+# ASUS Router
+  - "+.router.asus.com"
+# Apple Software Update Service
+  - mesu.apple.com
+  - swscan.apple.com
+  - swquery.apple.com
+  - swdownload.apple.com
+  - swcdn.apple.com
+  - swdist.apple.com
+  - captive.apple.com
+# Google
+  - lens.l.google.com
+  - stun.l.google.com
+  - na.b.g-tun.com
