@@ -77,50 +77,6 @@ payload:
   #- DOMAIN-KEYWORD,elevenfamilies
   #- DOMAIN-KEYWORD,elevengroup
   #- DOMAIN-KEYWORD,eleventrade
-  # 全球-泛播域名地址
-  - DOMAIN-SUFFIX,ns.cloudflare.com
-  - DOMAIN-SUFFIX,visa.cn
-  - DOMAIN-SUFFIX,visa.com
-  - DOMAIN-SUFFIX,visaeurope.ch
-  - DOMAIN-SUFFIX,visasoutheasteurope.com
-  - DOMAIN-SUFFIX,visakorea.com
-  - DOMAIN-KEYWORD,visa
-  - DOMAIN-SUFFIX,fbi.gov
-  - DOMAIN-SUFFIX,zsu.gov.ua
-  - DOMAIN-SUFFIX,4chan.org
-  - DOMAIN-SUFFIX,digitalocean.com
-  - DOMAIN-SUFFIX,wto.org
-  - DOMAIN-SUFFIX,glassdoor.com
-  - DOMAIN-SUFFIX,d-555.com
-  - DOMAIN-SUFFIX,baipiao.eu.org
-  - DOMAIN-SUFFIX,boba88slot.com
-  - DOMAIN-SUFFIX,iakeys.com
-  - DOMAIN-SUFFIX,whatismyip.com
-  - DOMAIN-SUFFIX,hugedomains.com
-  - DOMAIN-SUFFIX,russia.com
-  - DOMAIN-SUFFIX,japan.com
-  - DOMAIN-SUFFIX,gov.se
-  - DOMAIN-SUFFIX,dynadot.com
-  - DOMAIN-SUFFIX,thaigov.go.th
-  - DOMAIN-SUFFIX,whoer.net
-  - DOMAIN-SUFFIX,discovery.cathaypacific.com
-  - DOMAIN-SUFFIX,intertek.com
-  - DOMAIN-SUFFIX,p.wpml.org
-  - DOMAIN-SUFFIX,research.polyu.edu.hk
-  - DOMAIN-SUFFIX,fliphtml5.com eneba.com
-  - DOMAIN-SUFFIX,teddy.automizely.com
-  - DOMAIN-SUFFIX,money18.on.cc
-  - DOMAIN-SUFFIX,zennolab.com
-  - DOMAIN-SUFFIX,mm-cg.com
-  - DOMAIN-SUFFIX,support.shopcider.com
-  - DOMAIN-SUFFIX,help.bricklink.com
-  - DOMAIN-SUFFIX,support.travelpayouts.com
-  - DOMAIN-SUFFIX,oklink.com
-  - DOMAIN-SUFFIX,ca.store.bambulab.com
-  - DOMAIN-SUFFIX,store.blackview.hk
-  - DOMAIN-SUFFIX,intertek.com
-  - DOMAIN-SUFFIX,lalamove.com
-  - DOMAIN-SUFFIX,discovery.cathaypacific.com
   # 联通性测速地址
   - DOMAIN-SUFFIX,gstatic.com
   # 1XBET网址
