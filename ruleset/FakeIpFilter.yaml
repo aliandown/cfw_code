@@ -112,9 +112,9 @@ payload:
   - swdist.apple.com
   - captive.apple.com
 # Google
-  - lens.l.google.com
-  - stun.l.google.com
-  - na.b.g-tun.com
+  #- lens.l.google.com
+  #- stun.l.google.com
+  #- na.b.g-tun.com
 # Netflix
   - "+.nflxvideo.net"
 # FinalFantasy XIV Worldwide Server & CN Server
