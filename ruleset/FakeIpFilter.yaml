@@ -77,9 +77,3 @@ payload:
   - "+.n.n.srv.nintendo.net"
 # Sony PlayStation
   - "+.stun.playstation.net"
-#Wotgame
-  - "+.battlenet.com.cn"
-  - "+.wotgame.cn"
-  - "+.wggames.cn"
-  - "+.wowsgame.cn"
-  - "+.wargaming.net"
