@@ -77,3 +77,8 @@ payload:
   - "+.n.n.srv.nintendo.net"
 # Sony PlayStation
   - "+.stun.playstation.net"
+# Microsoft Xbox
+  - "xbox.*.+.microsoft.com"
+  - "+.*.xboxlive.com"
+  - "xbox.*.microsoft.com"
+  - xnotify.xboxlive.com
