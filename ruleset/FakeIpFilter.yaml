@@ -97,13 +97,6 @@ payload:
   - "+.wargaming.net"
 # Golang
   - proxy.golang.org
-# STUN
-  #- "stun.*.+"
-  #- "stun.*.+.+"
-  #- "+.stun.*.+"
-  #- "+.stun.*.+.+"
-  #- "+.stun.*.+.*.+"
-  #- "+.stun.*.+.*.+.+"
 # Linksys Router
   - heartbeat.belkin.com
   - "+.linksys.com"
@@ -222,7 +215,7 @@ payload:
   #- "+.ipify.org"
   #- "+.ip.sb"
 # 挖矿网站
-  #- "+.public-pool.io"
+  - "+.public-pool.io"
 # 国内门户网站
   - "+.meituan.net"
 # 国外门户网站
