@@ -13,6 +13,9 @@ proxyip.jp.fxxk.dedyn.io
 ProxyIP.KR.CMLiussss.net
 proxyip.kr.hw.090227.xyz
 proxyip.kr.fxxk.dedyn.io
+ProxyIP.TW.CMLiussss.net
+proxyip.tw.hw.090227.xyz
+proxyip.tw.fxxk.dedyn.io
 ProxyIP.GB.CMLiussss.net
 proxyip.gb.hw.090227.xyz
 proxyip.gb.fxxk.dedyn.io
