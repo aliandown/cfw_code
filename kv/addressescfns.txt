@@ -1,5 +1,5 @@
 chloe.ns.cloudflare.com:443
-lara.ns.cloudflare.com
+lara.ns.cloudflare.com:443
 crystal.ns.cloudflare.com:443
 lucy.ns.cloudflare.com:443
 abby.ns.cloudflare.com:443
