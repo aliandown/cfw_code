@@ -78,7 +78,7 @@ payload:
   #- DOMAIN-KEYWORD,elevengroup
   #- DOMAIN-KEYWORD,eleventrade
   # 联通性测速地址
-  - DOMAIN-SUFFIX,gstatic.com
+  #- DOMAIN-SUFFIX,gstatic.com
   # 1XBET网址
   #- DOMAIN-SUFFIX,1xlite-152661.top
   #- DOMAIN-SUFFIX,1xbet.com
