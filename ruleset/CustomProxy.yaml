@@ -24,6 +24,8 @@ payload:
   #- DOMAIN-SUFFIX,proton.me
   #- DOMAIN-SUFFIX,protonvpn.com
   #- DOMAIN-SUFFIX,vbar.fun
+  # 挖矿网络
+  - DOMAIN-SUFFIX,public-pool.io
   # 查询所有使用Cloudflare的网站
   - DOMAIN-SUFFIX,builtwith.com
   # 微软解析
