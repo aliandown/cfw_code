@@ -11,7 +11,7 @@ payload:
   #- DOMAIN,sdk-api.beizi.biz
   #- DOMAIN,sdk.zhangyuyidong.cn
   #- DOMAIN,sdklog.zhangyuyidong.cn
-  - DOMAIN,api.ssp.xcultur.com
+  #- DOMAIN,api.ssp.xcultur.com
   #- DOMAIN,api.fu.xcultur.com
   #- DOMAIN,v.adintl.cn
   - DOMAIN,open.e.kuaishou.cn
