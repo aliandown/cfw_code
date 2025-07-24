@@ -26,6 +26,7 @@ payload:
   #- DOMAIN-SUFFIX,vbar.fun
   # 挖矿网络
   - DOMAIN-SUFFIX,public-pool.io
+  - DOMAIN-SUFFIX,gateio.ws
   # 查询所有使用Cloudflare的网站
   - DOMAIN-SUFFIX,builtwith.com
   # 微软解析
