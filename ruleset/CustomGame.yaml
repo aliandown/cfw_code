@@ -1,3 +1,4 @@
 payload:
   - DOMAIN-SUFFIX,easebar.com
   - IP-CIDR,20.6.91.193/32,no-resolve
+  - IP-CIDR,172.188.25.63/32,no-resolve
