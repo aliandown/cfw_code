@@ -17,3 +17,5 @@ payload:
   - DOMAIN-SUFFIX,app.adjust.com
   # 雷速体育
   - DOMAIN-SUFFIX,httpdns.yunxindns.com
+  # 抖音
+  - DOMAIN-SUFFIX,minigame5-normal-hl.zijieapi.com
