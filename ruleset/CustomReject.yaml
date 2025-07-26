@@ -53,7 +53,7 @@ payload:
   #- DOMAIN-SUFFIX,cloudauth-device-dualstack.cn-shanghai.aliyuncs.com
   #其他
   - DOMAIN,config.ptmi.gitv.tv
-  - DOMAIN-SUFFIX,lf-cdn-tos.bytescm.com
+  #- DOMAIN-SUFFIX,lf-cdn-tos.bytescm.com
   - DOMAIN-SUFFIX,open.cctvcloud.cn
   - DOMAIN-SUFFIX,doubleclick.net
   - DOMAIN,ads.youtube.com
