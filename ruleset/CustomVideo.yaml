@@ -20,8 +20,11 @@ payload:
 # 个人专用
   - DOMAIN-SUFFIX,alist.elevenfamilies.link
 # 网盘云盘
+  - DOMAIN-SUFFIX,keepshare.org
   - DOMAIN-SUFFIX,pikpak.me
   - DOMAIN-SUFFIX,mypikpak.com
+  - DOMAIN-SUFFIX,mypikpak.net
+  - DOMAIN-SUFFIX,pikpakdrive.com
 # 成人视频网站
   - DOMAIN-SUFFIX,njav.tv
   - DOMAIN-SUFFIX,javplayer.me
