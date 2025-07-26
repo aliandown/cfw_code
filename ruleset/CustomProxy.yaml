@@ -28,7 +28,6 @@ payload:
   - DOMAIN-SUFFIX,public-pool.io
   - DOMAIN-SUFFIX,gateio.ws
   - DOMAIN-SUFFIX,tazmining.ch
-  - DOMAIN-SUFFIX,tailscale.io
   # 查询所有使用Cloudflare的网站
   - DOMAIN-SUFFIX,builtwith.com
   # 微软解析
