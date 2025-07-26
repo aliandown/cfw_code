@@ -223,6 +223,31 @@ payload:
   - "+.mail.me.com"
   - "+.bing.com"
   - "+.office365.com"
+# DNS
+  - doh.opendns.com
+  - dns.opendns.com
+  - doh.umbrella.com
+  - dns.umbrella.com
+  - dns.sse.cisco.com
+  - d.adguard-dns.com
+  - dns.adguard-dns.com
+  - dns-unfiltered.adguard.com
+  - dns.twnic.tw
+  - public.dns.iij.jp
+  - dns.google
+  - cloudflare-dns.com
+  - doh.dns.sb
+  - doh.sb
+  - dns.sb
+  - jp-nrt.doh.sb
+  - in-blr.doh.sb
+  - au-syd.doh.sb
+  - ca-yyz.doh.sb
+  - dns.quad9.net
+  - dns9.quad9.net
+  - common.dot.dns.yandex.net
+  - doh.pub
+  - dns.alidns.com
 # 其他
   - "+.martianwallet.xyz"
   - "+.speedtest.cn"
