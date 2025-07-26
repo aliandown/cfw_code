@@ -73,12 +73,16 @@ payload:
   #- DOMAIN,doh-jp.blahdns.com
   #- IP-CIDR,208.67.220.220/32
   #- IP-CIDR,208.67.222.222/32
+  - DOMAIN,d.adguard-dns.com
   - DOMAIN,dns.adguard-dns.com
   - DOMAIN,unfiltered.adguard-dns.com
   - IP-CIDR,94.140.14.14/32
   - IP-CIDR,94.140.14.15/32
   - IP-CIDR,94.140.15.15/32
   - IP-CIDR,94.140.15.16/32
+  - DOMAIN,common.dot.dns.yandex.net
+  - IP-CIDR,77.88.8.8/32
+  - IP-CIDR,77.88.8.1/32
   #- DOMAIN,adblock.mydns.network
   #- DOMAIN,applied-privacy.net
   #- DOMAIN,dns-nyc.aaflalo.me
