@@ -18,7 +18,5 @@ payload:
   # 雷速体育
   - DOMAIN-SUFFIX,httpdns.yunxindns.com
   # 抖音
-  - DOMAIN-SUFFIX,i-lq.snssdk.com
-  - DOMAIN-SUFFIX,dig.bdurl.net
-  - DOMAIN-SUFFIX,adashbc.ut.taobao.com
+  - DOMAIN-SUFFIX,timon.zijieapi.com
   - DOMAIN-SUFFIX,minigame5-normal-hl.zijieapi.com
