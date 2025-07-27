@@ -3,6 +3,7 @@ payload:
 # 国外软件下载网站
   - DOMAIN-SUFFIX,apkpure.com
   - DOMAIN-SUFFIX,apkcombo.com
+  - DOMAIN-SUFFIX,pureapk.com
 # 博主博客 不良林博客
   - DOMAIN-SUFFIX,bulianglin.com
   - DOMAIN-KEYWORD,bulianglin
