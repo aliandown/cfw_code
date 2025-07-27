@@ -20,4 +20,5 @@ payload:
   # 抖音
   - DOMAIN-SUFFIX,i-lq.snssdk.com
   - DOMAIN-SUFFIX,dig.bdurl.net
+  - DOMAIN-SUFFIX,adashbc.ut.taobao.com
   - DOMAIN-SUFFIX,minigame5-normal-hl.zijieapi.com
