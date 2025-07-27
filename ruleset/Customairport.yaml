@@ -4,6 +4,7 @@ payload:
   - DOMAIN-SUFFIX,apkpure.com
   - DOMAIN-SUFFIX,apkcombo.com
   - DOMAIN-SUFFIX,pureapk.com
+  - DOMAIN-SUFFIX,buffbuff.com
 # 博主博客 不良林博客
   - DOMAIN-SUFFIX,bulianglin.com
   - DOMAIN-KEYWORD,bulianglin
