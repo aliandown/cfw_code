@@ -18,5 +18,4 @@ payload:
   # 雷速体育
   - DOMAIN-SUFFIX,httpdns.yunxindns.com
   # 抖音
-  - DOMAIN-SUFFIX,timon.zijieapi.com
   - DOMAIN-SUFFIX,minigame5-normal-hl.zijieapi.com
