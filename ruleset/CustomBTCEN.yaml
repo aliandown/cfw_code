@@ -8,8 +8,8 @@ payload:
   - DOMAIN-SUFFIX,binance-cn.com
   - DOMAIN-SUFFIX,bnbstatic.com
   - DOMAIN-SUFFIX,binance.cloud
-  - DOMAIN-KEYWORD,,binance
-  # 币安加密交易所
+  - DOMAIN-KEYWORD,binance
+  # 欧易加密交易所
   - DOMAIN-SUFFIX,okx.com
   - DOMAIN-SUFFIX,onesignal.com
   
