@@ -29,8 +29,7 @@ payload:
   - DOMAIN-SUFFIX,performfeeds.com
   - DOMAIN-SUFFIX,cloudfront.net
   #- DOMAIN-SUFFIX,akamaized.net
-  - DOMAIN-SUFFIX,1320210.akamaized.net
-  #- DOMAIN-KEYWORD,imgarena- #imgarena-prod-eu.akamaized.net
+  #- DOMAIN-KEYWORD,imgarena-
   - DOMAIN,imgarena-prod-v4-ap.akamaized.net
   - DOMAIN,imgarena-prod-v3-ap.akamaized.net
   - DOMAIN,imgarena-prod-v2-ap.akamaized.net
@@ -43,7 +42,8 @@ payload:
   - DOMAIN,lc-live-http-ipv4.akamaized.net
   - DOMAIN,744133.akamaized.net
   - DOMAIN,1309591.akamaized.net
-  - DOMAIN-SUFFIX,1320225.akamaized.net
+  - DOMAIN,1320210.akamaized.net
+  - DOMAIN,1320225.akamaized.net
   - DOMAIN,ws-fn-cdn001.akamaized.net
   - DOMAIN,ws-cdn001.akamaized.net
   - DOMAIN,lcsn-cdn001.akamaized.net
