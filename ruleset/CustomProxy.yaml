@@ -82,14 +82,6 @@ payload:
   - DOMAIN-KEYWORD,三分机场
   - DOMAIN-KEYWORD,sanfen
   - DOMAIN-KEYWORD,jindouyun88
-  # 区块链 Proxy
-  - DOMAIN-SUFFIX,binance.com
-  - DOMAIN-SUFFIX,binance.me
-  - DOMAIN-SUFFIX,binance.top
-  - DOMAIN-SUFFIX,binance-cn.com
-  - DOMAIN-SUFFIX,bnbstatic.com
-  - DOMAIN-SUFFIX,binance.cloud
-  - DOMAIN-KEYWORD,binance
   # 机场 Proxy
   - DOMAIN-KEYWORD,xn--4gq62f52gdss
   - DOMAIN-SUFFIX,swty.top
