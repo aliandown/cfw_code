@@ -14,14 +14,6 @@ payload:
   - DOMAIN-SUFFIX,ghgo.xyz
   - DOMAIN-SUFFIX,ghfast.top
   - DOMAIN-KEYWORD,jsdelivr
-  # 加密交易所
-  - DOMAIN-KEYWORD,bybit
-  - DOMAIN-KEYWORD,byapps
-  - DOMAIN-KEYWORD,bycsi
-  - DOMAIN-KEYWORD,byd3c3.com
-  - DOMAIN-KEYWORD,bybdc6.com
-  - DOMAIN-KEYWORD,byabcde.com
-  - DOMAIN-SUFFIX,wsot2022.com
   # 新球体育
   - DOMAIN-SUFFIX,beizi.biz
   - DOMAIN-SUFFIX,letarrow.com
