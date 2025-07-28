@@ -1,12 +1,12 @@
 # NAME: Developer
 # REPO: https://github.com/blackmatrix7/ios_rule_script
 payload:
-  # 区块链 Proxy
-  - DOMAIN-SUFFIX,binance.com
-  - DOMAIN-SUFFIX,binance.me
-  - DOMAIN-SUFFIX,binance.top
-  - DOMAIN-SUFFIX,binance-cn.com
-  - DOMAIN-SUFFIX,bnbstatic.com
-  - DOMAIN-SUFFIX,binance.cloud
-  - DOMAIN-KEYWORD,binance
+  # 加密交易所
+  - DOMAIN-KEYWORD,bybit
+  - DOMAIN-KEYWORD,byapps
+  - DOMAIN-KEYWORD,bycsi
+  - DOMAIN-KEYWORD,byd3c3.com
+  - DOMAIN-KEYWORD,bybdc6.com
+  - DOMAIN-KEYWORD,byabcde.com
+  - DOMAIN-SUFFIX,wsot2022.com
   
