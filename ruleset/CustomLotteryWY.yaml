@@ -29,8 +29,8 @@ payload:
   - DOMAIN-SUFFIX,performfeeds.com
   - DOMAIN-SUFFIX,cloudfront.net
   #- DOMAIN-SUFFIX,akamaized.net
-  - DOMAIN-SUFFIX,1320210.akamaized.net #亚洲视频源解析
-  #- DOMAIN-KEYWORD,imgarena- #imgarena-prod-eu.akamaized.net 包含的关键字
+  - DOMAIN-SUFFIX,1320210.akamaized.net
+  #- DOMAIN-KEYWORD,imgarena- #imgarena-prod-eu.akamaized.net
   - DOMAIN,imgarena-prod-v4-ap.akamaized.net
   - DOMAIN,imgarena-prod-v3-ap.akamaized.net
   - DOMAIN,imgarena-prod-v2-ap.akamaized.net
@@ -40,10 +40,10 @@ payload:
   - DOMAIN,imgarena-prod-v2-eu.akamaized.net
   - DOMAIN,imgarena-prod-v1-eu.akamaized.net
   - DOMAIN,imgarena-prod-eu.akamaized.net
-  - DOMAIN,lc-live-http-ipv4.akamaized.net #亚洲视频源解析
-  - DOMAIN,744133.akamaized.net #亚洲视频源解析
-  - DOMAIN,1309591.akamaized.net #亚洲视频源解析
-  - DOMAIN-SUFFIX,1320225.akamaized.net #欧洲视频源解析
+  - DOMAIN,lc-live-http-ipv4.akamaized.net
+  - DOMAIN,744133.akamaized.net
+  - DOMAIN,1309591.akamaized.net
+  - DOMAIN-SUFFIX,1320225.akamaized.net
   - DOMAIN,ws-fn-cdn001.akamaized.net
   - DOMAIN,ws-cdn001.akamaized.net
   - DOMAIN,lcsn-cdn001.akamaized.net
