@@ -27,7 +27,6 @@ payload:
   - DOMAIN-SUFFIX,geniussports.com
   - DOMAIN-SUFFIX,imgarena.com
   - DOMAIN-SUFFIX,performfeeds.com
-  - DOMAIN-SUFFIX,cloudfront.net
   #- DOMAIN-SUFFIX,akamaized.net
   #- DOMAIN-KEYWORD,imgarena-
   - DOMAIN,imgarena-prod-v4-ap.akamaized.net
