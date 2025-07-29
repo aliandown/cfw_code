@@ -248,6 +248,15 @@ payload:
   - common.dot.dns.yandex.net
   - doh.pub
   - dns.alidns.com
+  # 邮件客户端
+  - imap.139.com
+  - smtp.139.com
+  - imap.wo.cn
+  - smtp.wo.cn
+  - imap.189.cn
+  - smtp.189.cn
+  - imap-189.21cn.com
+  - smtp-189.21cn.com
 # 其他
   - "+.martianwallet.xyz"
   - "+.speedtest.cn"
