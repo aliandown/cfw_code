@@ -257,6 +257,8 @@ payload:
   - smtp.189.cn
   - imap-189.21cn.com
   - smtp-189.21cn.com
+  - imap.mail.10086.cn
+  - smtp.mail.10086.cn
 # 其他
   - "+.martianwallet.xyz"
   - "+.speedtest.cn"
