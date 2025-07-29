@@ -11,25 +11,25 @@ payload:
   - IP-CIDR,119.29.29.29/32
   - IP-CIDR,119.28.28.28/32
   # 国外DNS解析
-  - DOMAIN,1dot1dot1dot1.cloudflare-dns.com
-  - DOMAIN,one.one.one.one
-  - DOMAIN,chrome.cloudflare-dns.com
-  - DOMAIN,cloudflare-dns.com
-  - DOMAIN,dns.cloudflare.com
-  - DOMAIN,family.cloudflare-dns.com
-  - DOMAIN,mozilla.cloudflare-dns.com
-  - DOMAIN,security.cloudflare-dns.com
-  - IP-CIDR,1.1.1.1/32
-  - IP-CIDR,1.0.0.1/32
-  - DOMAIN,public.dns.iij.jp
-  - IP-CIDR,103.2.57.5/32
-  - IP-CIDR,103.2.57.6/32
-  - DOMAIN,dot.sb
-  - DOMAIN,doh.sb
-  - DOMAIN,dns.sb
-  - DOMAIN,doh.dns.sb
-  - DOMAIN,sg-sin.doh.sb
-  - DOMAIN,jp-nrt.doh.sb
+  #- DOMAIN,1dot1dot1dot1.cloudflare-dns.com
+  #- DOMAIN,one.one.one.one
+  #- DOMAIN,chrome.cloudflare-dns.com
+  #- DOMAIN,cloudflare-dns.com
+  #- DOMAIN,dns.cloudflare.com
+  #- DOMAIN,family.cloudflare-dns.com
+  #- DOMAIN,mozilla.cloudflare-dns.com
+  #- DOMAIN,security.cloudflare-dns.com
+  #- IP-CIDR,1.1.1.1/32
+  #- IP-CIDR,1.0.0.1/32
+  #- DOMAIN,public.dns.iij.jp
+  #- IP-CIDR,103.2.57.5/32
+  #- IP-CIDR,103.2.57.6/32
+  #- DOMAIN,dot.sb
+  #- DOMAIN,doh.sb
+  #- DOMAIN,dns.sb
+  #- DOMAIN,doh.dns.sb
+  #- DOMAIN,sg-sin.doh.sb
+  #- DOMAIN,jp-nrt.doh.sb
   #- DOMAIN,jp-kix.doh.sb
   #- DOMAIN,de-dus.doh.sb
   #- DOMAIN,de-fra.doh.sb
@@ -46,14 +46,14 @@ payload:
   #- DOMAIN,ru-mow.doh.sb
   #- DOMAIN,ca-yyz.doh.sb
   #- DOMAIN,de-ber.doh.sb
-  - IP-CIDR,185.184.222.222/32
-  - IP-CIDR,185.222.222.222/32
-  - IP-CIDR,45.11.45.11/32
-  - DOMAIN,dns.google
-  - DOMAIN,dns.google.com
-  - DOMAIN,8888.google
-  - IP-CIDR,8.8.4.4/32
-  - IP-CIDR,8.8.8.8/32
+  #- IP-CIDR,185.184.222.222/32
+  #- IP-CIDR,185.222.222.222/32
+  #- IP-CIDR,45.11.45.11/32
+  #- DOMAIN,dns.google
+  #- DOMAIN,dns.google.com
+  #- DOMAIN,8888.google
+  #- IP-CIDR,8.8.4.4/32
+  #- IP-CIDR,8.8.8.8/32
   #- DOMAIN,dns.twnic.tw
   #- IP-CIDR,101.101.101.101/32
   #- IP-CIDR,101.102.103.104/32
@@ -65,24 +65,24 @@ payload:
   #- IP-CIDR,149.112.112.112/32
   #- IP-CIDR,149.112.112.11/32
   #- IP-CIDR,149.112.112.10/32
-  - DOMAIN,doh.opendns.com
+  #- DOMAIN,doh.opendns.com
   #- DOMAIN,dns.umbrella.com
   #- DOMAIN,dns.sse.cisco.com
   #- DOMAIN,doh-de.blahdns.com
   #- DOMAIN,doh-fi.blahdns.com
   #- DOMAIN,doh-jp.blahdns.com
-  - IP-CIDR,208.67.220.220/32
-  - IP-CIDR,208.67.222.222/32
-  - DOMAIN,d.adguard-dns.com
-  - DOMAIN,dns.adguard-dns.com
-  - DOMAIN,unfiltered.adguard-dns.com
-  - IP-CIDR,94.140.14.14/32
-  - IP-CIDR,94.140.14.15/32
-  - IP-CIDR,94.140.15.15/32
-  - IP-CIDR,94.140.15.16/32
-  - DOMAIN,common.dot.dns.yandex.net
-  - IP-CIDR,77.88.8.8/32
-  - IP-CIDR,77.88.8.1/32
+  #- IP-CIDR,208.67.220.220/32
+  #- IP-CIDR,208.67.222.222/32
+  #- DOMAIN,d.adguard-dns.com
+  #- DOMAIN,dns.adguard-dns.com
+  #- DOMAIN,unfiltered.adguard-dns.com
+  #- IP-CIDR,94.140.14.14/32
+  #- IP-CIDR,94.140.14.15/32
+  #- IP-CIDR,94.140.15.15/32
+  #- IP-CIDR,94.140.15.16/32
+  #- DOMAIN,common.dot.dns.yandex.net
+  #- IP-CIDR,77.88.8.8/32
+  #- IP-CIDR,77.88.8.1/32
   #- DOMAIN,adblock.mydns.network
   #- DOMAIN,applied-privacy.net
   #- DOMAIN,dns-nyc.aaflalo.me
