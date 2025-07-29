@@ -259,6 +259,8 @@ payload:
   - smtp-189.21cn.com
   - imap.mail.10086.cn
   - smtp.mail.10086.cn
+  # 客户端 IP 是回环地址
+  - "+.upaiyun.com"
 # 其他
   - "+.martianwallet.xyz"
   - "+.speedtest.cn"
