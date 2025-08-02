@@ -19,7 +19,5 @@ payload:
   - DOMAIN-SUFFIX,httpdns.yunxindns.com
   # 抖音
   - DOMAIN-SUFFIX,minigame5-normal-hl.zijieapi.com
-  - DOMAIN-SUFFIX,adukwai.com
-  - DOMAIN-SUFFIX,gifshow.com
   # 快手
    - DOMAIN-SUFFIX,api.kwaizt.com
