@@ -21,6 +21,7 @@ payload:
   - DOMAIN-SUFFIX,pglstatp-toutiao.com
   - DOMAIN-SUFFIX,minigame5-normal-hl.zijieapi.com
   - DOMAIN,dig.bdurl.net
+  - DOMAIN,ad.zijieapi.com
   # 快手
    - DOMAIN-SUFFIX,api.kwaizt.com
    - DOMAIN-SUFFIX,adukwai.com
