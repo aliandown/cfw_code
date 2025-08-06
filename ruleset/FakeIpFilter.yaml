@@ -32,6 +32,7 @@ payload:
   - "+.time.edu.cn"
   - "+.ntp.org.cn"
   - "+.pool.ntp.org"
+  - "ntp.*.gov"
   - time1.cloud.tencent.com
 # STUN
   #- "stun.*.*"
