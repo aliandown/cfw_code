@@ -23,6 +23,7 @@ payload:
   - DOMAIN,dig.bdurl.net
   - DOMAIN,ad.zijieapi.com
   # 快手
+   - DOMAIN,log-sdk.ksapisrv.com
    - DOMAIN-SUFFIX,api.kwaizt.com
    - DOMAIN-SUFFIX,adukwai.com
    - DOMAIN-SUFFIX,adkwai.com
