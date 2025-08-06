@@ -35,12 +35,12 @@ payload:
   - "ntp.*.gov"
   - time1.cloud.tencent.com
 # STUN
-  #- "stun.*.*"
-  #- "stun.*.*.*"
-  #- "+.stun.*.*"
-  #- "+.stun.*.*.*"
-  #- "+.stun.*.*.*.*"
-  #- "+.stun.*.*.*.*.*"
+  - "stun.*.*"
+  - "stun.*.*.*"
+  - "+.stun.*.*"
+  - "+.stun.*.*.*"
+  - "+.stun.*.*.*.*"
+  - "+.stun.*.*.*.*.*"
 # 放行网易云音乐
   - music.163.com
   - "+.music.163.com"
