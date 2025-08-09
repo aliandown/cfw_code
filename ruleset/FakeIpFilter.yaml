@@ -263,6 +263,7 @@ payload:
   # 客户端 IP 是回环地址
   - "+.upaiyun.com"
 # 其他
+  - "+.16583.xyz"
   - "+.martianwallet.xyz"
   - "+.speedtest.cn"
   - "+.coloros.com"
