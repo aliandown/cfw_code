@@ -24,6 +24,12 @@ payload:
   #- DOMAIN-SUFFIX,proton.me
   #- DOMAIN-SUFFIX,protonvpn.com
   #- DOMAIN-SUFFIX,vbar.fun
+  # 国外软件下载网站
+  - DOMAIN-SUFFIX,apkpure.com
+  - DOMAIN-SUFFIX,apkcombo.com
+  - DOMAIN-SUFFIX,pureapk.com
+  - DOMAIN-SUFFIX,buffbuff.com
+  - DOMAIN-SUFFIX,buffbuff.top
   # 查询所有使用Cloudflare的网站
   - DOMAIN-SUFFIX,builtwith.com
   # 微软解析
