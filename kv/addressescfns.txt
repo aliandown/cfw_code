@@ -4,15 +4,3 @@ nina.ns.cloudflare.com:443
 chloe.ns.cloudflare.com:443
 courtney.ns.cloudflare.com:443
 crystal.ns.cloudflare.com:443
-#abby.ns.cloudflare.com:443
-#perla.ns.cloudflare.com:443
-#hera.ns.cloudflare.com:443
-#iris.ns.cloudflare.com:443
-#lucy.ns.cloudflare.com:443
-#lara.ns.cloudflare.com:443
-#uma.ns.cloudflare.com:443
-#blog.cloudflare.com:443
-#developers.cloudflare.com:443
-#radar.cloudflare.com:443
-#one.dash.cloudflare.com:443
-#pages.cloudflare.com:443
