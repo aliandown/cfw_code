@@ -141,9 +141,9 @@ payload:
   #- IP-CIDR,176.9.62.58/32
   #- IP-CIDR,213.239.207.143/32
   # 洛雪音乐
-  - DOMAIN-SUFFIX,onrender.com
-  - DOMAIN-SUFFIX,awaw.cc
-  - DOMAIN-SUFFIX,akams.cn
+  #- DOMAIN-SUFFIX,onrender.com
+  #- DOMAIN-SUFFIX,awaw.cc
+  #- DOMAIN-SUFFIX,akams.cn
   # paypal
   - DOMAIN-SUFFIX,paypal-mktg.com
   - DOMAIN,browser-intake-us5-datadoghq.com
