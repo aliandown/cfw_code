@@ -143,6 +143,7 @@ payload:
   # 洛雪音乐
   - DOMAIN-SUFFIX,onrender.com
   - DOMAIN-SUFFIX,awaw.cc
+  - DOMAIN-SUFFIX,akams.cn
   # paypal
   - DOMAIN-SUFFIX,paypal-mktg.com
   - DOMAIN,browser-intake-us5-datadoghq.com
