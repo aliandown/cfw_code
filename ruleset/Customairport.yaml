@@ -1,5 +1,9 @@
 # NAME: Customairport
 payload:
+# Whatsapp
+  - DOMAIN-SUFFIX,whatsapp.com
+  - DOMAIN-SUFFIX,whatsapp.net
+  - DOMAIN-SUFFIX,wa.me
 # 博主博客 不良林博客
   - DOMAIN-SUFFIX,bulianglin.com
   - DOMAIN-KEYWORD,bulianglin
