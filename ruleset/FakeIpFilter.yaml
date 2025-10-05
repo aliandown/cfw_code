@@ -224,6 +224,7 @@ payload:
   - "+.mail.me.com"
   - "+.bing.com"
   - "+.office365.com"
+  - "+.cloudflare.com"
 # DNS
   #- doh.opendns.com
   #- dns.opendns.com
