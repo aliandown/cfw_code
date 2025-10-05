@@ -264,6 +264,7 @@ payload:
   - "+.upaiyun.com"
   # 全球-泛播域名地址
   - "+.cloudflare.com"
+  - "+.i-gcloud.com"
   - "+.visa.com"
   - "+.visa.com.sg"
   - "+.visa.com.hk"
