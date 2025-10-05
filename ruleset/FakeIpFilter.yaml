@@ -276,6 +276,7 @@ payload:
   - "+.visaeurope.ch"
   - "+.visasoutheasteurope.com"
   - "+.visakorea.com"
+  - "+.ip.sb"
   - "+.time.is"
   - "+.icook.hk"
   - "+.icook.tw"
@@ -315,7 +316,7 @@ payload:
   - "+.store.blackview.hk"
   - "+.intertek.com"
   - "+.lalamove.com"
-  - "+.discovery.cathaypacific.com"
+  - "+.dlink.com"
 # 其他
   - "+.16583.xyz"
   - "+.martianwallet.xyz"
