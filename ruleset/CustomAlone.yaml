@@ -4,3 +4,4 @@ payload:
   - DOMAIN-SUFFIX,public-pool.io
   - DOMAIN-SUFFIX,gateio.ws
   - DOMAIN-SUFFIX,tazmining.ch
+  - IP-CIDR,38.51.144.240/32,no-resolve
