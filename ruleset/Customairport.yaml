@@ -4,8 +4,8 @@ payload:
   - DOMAIN-SUFFIX,whatsapp.com
   - DOMAIN-SUFFIX,whatsapp.net
   - DOMAIN-SUFFIX,wa.me
-  - IP-CIDR,57.144.217.32/32
-  - IP-CIDR,157.240.9.53/32
+  - IP-CIDR,57.144.217.32/32,no-resolve
+  - IP-CIDR,157.240.9.53/32,no-resolve
 # 博主博客 不良林博客
   - DOMAIN-SUFFIX,bulianglin.com
   - DOMAIN-KEYWORD,bulianglin
