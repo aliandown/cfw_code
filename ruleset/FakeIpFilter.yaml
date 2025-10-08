@@ -8,3 +8,322 @@ payload:
   - "+.localhost"
   - "+.test"
   - "+.home.arpa"
+# 放行NTP服务
+  - "time.*.com"
+  - "time.*.gov"
+  - "time.*.edu.cn"
+  - "time.*.apple.com"
+  - time-ios.apple.com
+  - "time1.*.com"
+  - "time2.*.com"
+  - "time3.*.com"
+  - "time4.*.com"
+  - "time5.*.com"
+  - "time6.*.com"
+  - "time7.*.com"
+  - "ntp.*.com"
+  - "ntp1.*.com"
+  - "ntp2.*.com"
+  - "ntp3.*.com"
+  - "ntp4.*.com"
+  - "ntp5.*.com"
+  - "ntp6.*.com"
+  - "ntp7.*.com"
+  - "+.time.edu.cn"
+  - "+.ntp.org.cn"
+  - "+.pool.ntp.org"
+  - "ntp.*.gov"
+  - time1.cloud.tencent.com
+# STUN
+  - "stun.*.*"
+  - "stun.*.*.*"
+  - "+.stun.*.*"
+  - "+.stun.*.*.*"
+  - "+.stun.*.*.*.*"
+  - "+.stun.*.*.*.*.*"
+# 放行网易云音乐
+  - music.163.com
+  - "+.music.163.com"
+  - "+.126.net"
+# 百度音乐
+  - musicapi.taihe.com
+  - music.taihe.com
+# 酷狗音乐
+  - songsearch.kugou.com
+  - trackercdn.kugou.com
+# 酷我音乐
+  - "+.kuwo.cn"
+# JOOX音乐
+  - api-jooxtt.sanook.com
+  - api.joox.com
+  - joox.com
+# QQ音乐
+  - "y.qq.com"
+  - "+.y.qq.com"
+  - streamoc.music.tc.qq.com
+  - mobileoc.music.tc.qq.com
+  - isure.stream.qqmusic.qq.com
+  - dl.stream.qqmusic.qq.com
+  - aqqmusic.tc.qq.com
+  - amobile.music.tc.qq.com
+# 虾米音乐
+  - "+.xiami.com"
+# 咪咕音乐
+  - "+.music.migu.cn"
+  - music.migu.cn
+# win10本地连接检测
+  - "+.msftconnecttest.com"
+  - "+.msftncsi.com"
+# QQ登录
+  - localhost.ptlogin2.qq.com
+  - localhost.sec.qq.com
+  - "+.qq.com"
+  - "+.tencent.com"
+# Game
+# Nintendo Switch
+  - "+.srv.nintendo.net"
+  - "+.n.n.srv.nintendo.net"
+# Sony PlayStation
+  - "+.stun.playstation.net"
+# Microsoft Xbox
+  - "xbox.*.+.microsoft.com"
+  - "+.*.xboxlive.com"
+  - "xbox.*.microsoft.com"
+  - xnotify.xboxlive.com
+#Wotgame
+  - "+.battlenet.com.cn"
+  - "+.wotgame.cn"
+  - "+.wggames.cn"
+  - "+.wowsgame.cn"
+  - "+.wargaming.net"
+# Golang
+  - proxy.golang.org
+# Linksys Router
+  - heartbeat.belkin.com
+  - "+.linksys.com"
+  - "+.linksyssmartwifi.com"
+# ASUS Router
+  - "+.router.asus.com"
+# Apple Software Update Service
+  - mesu.apple.com
+  - swscan.apple.com
+  - swquery.apple.com
+  - swdownload.apple.com
+  - swcdn.apple.com
+  - swdist.apple.com
+  - captive.apple.com
+# Google
+  - lens.l.google.com
+  - stun.l.google.com
+  - na.b.g-tun.com
+# Netflix
+  - "+.nflxvideo.net"
+# FinalFantasy XIV Worldwide Server & CN Server
+  - "+.square-enix.com"
+  - "+.finalfantasyxiv.com"
+  - "+.ffxiv.com"
+  - "+.ff14.sdo.com"
+  - "ff.dorado.sdo.com"
+# Bilibili
+  - "+.mcdn.bilivideo.cn"
+# Disney Plus
+  - "+.media.dssott.com"
+# shark007 Codecs 
+  - shark007.net
+# Mijia
+  - Mijia Cloud
+# 银行
+  - "+.95516.com"
+  - "+.cmbchina.com"
+  - "+.cmbimg.com"
+  - "+.95599.cn"
+  - "+.abchina.com"
+  - "+.ccb.com"
+  - "+.boc.com"
+  - "+.psbc.com"
+  - "+.bankcomm.com"
+  - "+.citicbank"
+  - "+.cebbank.com"
+  - "+.pingan.com"
+  - "+.spdb.com"
+  - "+.cmbc.com"
+  - "+.cgbchina.com"
+  - "+.hxb.com"
+  - "+.cib.com"
+  - "+.bscabank.com"
+  - "+.openaboc.cn"
+  - "+.openaboc.com"
+  - "+.openaboc.com.cn"
+# AdGuard
+  - local.adguard.org
+#intel
+  - "+.intel.com"
+# 迅雷
+  - "+.sandai.net"
+  - "+.n0808.com"
+# 游戏
+  - "+.netease.com"
+# 滴滴，花小猪，阳光
+  - "+.diditaxi.com.cn"
+  - "+.xiaojukeji.com"
+  - "+.autonavi.com"
+  - "+.didistatic.com"
+  - "+.udache.com"
+  - "+.jryghq.com"
+  - "+.didapinche.com"
+  - "+.digicert.com"
+  - "+.ctyunapi.cn"
+  - "+.hellobike.com"
+  - "+.umeng.com"
+  - "+.amap.com"
+  - "+.tencent-cloud.net"
+  - "+.didapinche.com"
+# 花小猪
+  - "+.hongyibo.com.cn"
+  - "+.hongyibo.com"
+  - "+.branch.io"
+# DDNS动态域名
+  - "+.dynv6.com"
+  - "+.dynv6.net"
+  - "+.dynu.com"
+  - "+.dyndns.com"
+  - "+.ddnsfree.com"
+  - "+.ddns.net"
+  - "+.x3322.net"
+  - "+.gnway.cc"
+  - "+.gnway.com"
+  - "+.eicp.net"
+  - "+.oray.com"
+# 阿里
+  - "+.aliyundrive.com"
+  - "+.aliyundrive.net"
+# github 第三方镜像
+  - "+.ghproxy.com"
+  - "+.ghps.cc"
+  - "+.gh-proxy.com"
+  - "+.jsdelivr.net"
+  - "+.dpik.top"
+  - "+.llkk.cc"
+  - "+.ghps.cc"
+  - "+.ghgo.xyz"
+  - "+.ghfast.top"
+# 国外VPS管理
+  - "+.serv00.com"
+# IP 查询
+  #- "+.upyun.com"
+  #- "+.ipip.net"
+  #- "+.ipcelou.com"
+  #- "+.ipify.org"
+  #- "+.ip.sb"
+# 挖矿网站
+  - "+.public-pool.io"
+  - "+.tazmining.ch"
+# 国内门户网站
+  - "+.meituan.net"
+# 国外门户网站
+  - "+.mail.me.com"
+  - "+.bing.com"
+  - "+.office365.com"
+# DNS
+  #- doh.opendns.com
+  #- dns.opendns.com
+  #- doh.umbrella.com
+  #- dns.umbrella.com
+  #- dns.sse.cisco.com
+  #- d.adguard-dns.com
+  #- dns.adguard-dns.com
+  #- dns-unfiltered.adguard.com
+  #- dns.twnic.tw
+  #- public.dns.iij.jp
+  #- dns.google
+  #- cloudflare-dns.com
+  #- doh.dns.sb
+  #- doh.sb
+  #- dns.sb
+  #- jp-nrt.doh.sb
+  #- in-blr.doh.sb
+  #- au-syd.doh.sb
+  #- ca-yyz.doh.sb
+  #- dns.quad9.net
+  #- dns9.quad9.net
+  #- common.dot.dns.yandex.net
+  #- doh.pub
+  #- dns.alidns.com
+  # 邮件客户端
+  - imap.139.com
+  - smtp.139.com
+  - imap.wo.cn
+  - smtp.wo.cn
+  - imap.189.cn
+  - smtp.189.cn
+  - imap-189.21cn.com
+  - smtp-189.21cn.com
+  - imap.mail.10086.cn
+  - smtp.mail.10086.cn
+  # 客户端 IP 是回环地址
+  - "+.upaiyun.com"
+  # 全球-泛播域名地址
+  - "+.cloudflare.com"
+  - "+.i-gcloud.com"
+  - "+.visa.com"
+  - "+.visa.com.sg"
+  - "+.visa.com.hk"
+  - "+.visa.com.tw"
+  - "+.visa.co.jp"
+  - "+.visakorea.com"
+  - "+.goc.gov.qa"
+  - "+.gov.se"
+  - "+.gov.ua"
+  - "+.visaeurope.ch"
+  - "+.visasoutheasteurope.com"
+  - "+.visakorea.com"
+  - "+.ip.sb"
+  - "+.time.is"
+  - "+.icook.hk"
+  - "+.icook.tw"
+  - "+.singapore.com"
+  - "+.skk.moe"
+  - "+.fbi.gov"
+  - "+.zsu.gov.ua"
+  - "+.4chan.org"
+  - "+.digitalocean.com"
+  - "+.wto.org"
+  - "+.glassdoor.com"
+  - "+.d-555.com"
+  - "+.baipiao.eu.org"
+  - "+.boba88slot.com"
+  - "+.iakeys.com"
+  - "+.whatismyip.com"
+  - "+.hugedomains.com"
+  - "+.russia.com"
+  - "+.japan.com"
+  - "+.dynadot.com"
+  - "+.thaigov.go.th"
+  - "+.whoer.net"
+  - "+.discovery.cathaypacific.com"
+  - "+.intertek.com"
+  - "+.p.wpml.org"
+  - "+.research.polyu.edu.hk"
+  - "+.fliphtml5.com eneba.com"
+  - "+.teddy.automizely.com"
+  - "+.money18.on.cc"
+  - "+.zennolab.com"
+  - "+.mm-cg.com"
+  - "+.support.shopcider.com"
+  - "+.help.bricklink.com"
+  - "+.support.travelpayouts.com"
+  - "+.oklink.com"
+  - "+.ca.store.bambulab.com"
+  - "+.store.blackview.hk"
+  - "+.intertek.com"
+  - "+.lalamove.com"
+  - "+.dlink.com"
+# 其他
+  - "+.16583.xyz"
+  - "+.CMLiussss.net"
+  - "+.hw.090227.xyz"
+  - "+.fxxk.dedyn.io"
+  - "+.martianwallet.xyz"
+  - "+.speedtest.cn"
+  - "+.coloros.com"
+  - WORKGROUP
