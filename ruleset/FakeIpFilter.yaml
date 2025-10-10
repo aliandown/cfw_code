@@ -222,7 +222,7 @@ payload:
   - "+.meituan.net"
 # 国外门户网站
   - "+.mail.me.com"
-  - "+.bing.com"
+  #- "+.bing.com"
   - "+.office365.com"
 # DNS
   #- doh.opendns.com
@@ -320,9 +320,9 @@ payload:
   #- "+.dlink.com"
 # 其他
   #- "+.16583.xyz"
-  - "+.CMLiussss.net"
-  - "+.hw.090227.xyz"
-  - "+.fxxk.dedyn.io"
+  #- "+.CMLiussss.net"
+  #- "+.hw.090227.xyz"
+  #- "+.fxxk.dedyn.io"
   - "+.martianwallet.xyz"
   - "+.speedtest.cn"
   - "+.coloros.com"
