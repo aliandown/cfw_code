@@ -173,8 +173,6 @@ payload:
   - DOMAIN-SUFFIX,hcfy.ai
   - DOMAIN-SUFFIX,sanity.io
   - DOMAIN-KEYWORD,sanity
-  - DOMAIN-SUFFIX,tailscale.com
-  - DOMAIN-KEYWORD,tailscale
   - DOMAIN-SUFFIX,gitlink.net
   - DOMAIN-KEYWORD,gitlink
   - DOMAIN-SUFFIX,pingtools.org
