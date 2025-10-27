@@ -159,10 +159,10 @@ payload:
   # 恶意软件
   #- DOMAIN-SUFFIX,nelreports.net
   # 内网穿透
-  - DOMAIN-SUFFIX,tailscale.com
-  - DOMAIN-KEYWORD,tailscale
-  - IP-CIDR,18.197.242.41/32,no-resolve
-  - IP-CIDR,103.84.155.178/32,no-resolve
+  #- DOMAIN-SUFFIX,tailscale.com
+  #- DOMAIN-KEYWORD,tailscale
+  #- IP-CIDR,18.197.242.41/32,no-resolve
+  #- IP-CIDR,103.84.155.178/32,no-resolve
   # 软件
   - DOMAIN-SUFFIX,gitee.com
   - DOMAIN-SUFFIX,nmminer.com
