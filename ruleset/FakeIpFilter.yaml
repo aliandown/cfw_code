@@ -319,7 +319,9 @@ payload:
   #- "+.lalamove.com"
   #- "+.dlink.com"
 # 其他
-  #- "+.16583.xyz"
+  - "+.16583.xyz"
+  - "+.87638756.xyz"
+  - "+.87568763.xyz"
   #- "+.CMLiussss.net"
   #- "+.hw.090227.xyz"
   #- "+.fxxk.dedyn.io"
