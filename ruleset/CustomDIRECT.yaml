@@ -216,6 +216,9 @@ payload:
   - DOMAIN-SUFFIX,linode.com
   # 域名管理
   - DOMAIN-KEYWORD,dynv6
+  - DOMAIN-SUFFIX,dyndns.com
+  - DOMAIN-SUFFIX,dynv6.com
+  - DOMAIN-SUFFIX,dyn.com
   # 个人域名管理
   #- DOMAIN-KEYWORD,elevenfamilies
   #- DOMAIN-KEYWORD,elevengroup
