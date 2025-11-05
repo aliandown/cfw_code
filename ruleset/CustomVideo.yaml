@@ -25,7 +25,6 @@ payload:
   - DOMAIN-SUFFIX,mypikpak.com
   - DOMAIN-SUFFIX,mypikpak.net
   - DOMAIN-SUFFIX,pikpakdrive.com
-  - DOMAIN,ins-dg6wmvgo.ias.tencent-cloud.net
 # 成人视频网站
   - DOMAIN-SUFFIX,njav.tv
   - DOMAIN-SUFFIX,javplayer.me
