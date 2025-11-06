@@ -1,8 +1,0 @@
-www.blog.cloudflare.com:443
-domains.cloudflare.com:443
-workers.cloudflare.com:443
-www.cloudflare.net:443
-developers.cloudflare.com:443
-community.cloudflare.com:443
-cloudflare.tv:443
-radar.cloudflare.com:443
