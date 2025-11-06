@@ -185,7 +185,7 @@ payload:
   - DOMAIN-SUFFIX,x8box.com
   - DOMAIN-SUFFIX,x8zs.com
   - DOMAIN-KEYWORD,immersivetranslate
-  - DOMAIN-KEYWORD,mozilla
+  #- DOMAIN-KEYWORD,mozilla
   - DOMAIN-KEYWORD,unlocktool
   - DOMAIN-SUFFIX,emojiall.com
   - DOMAIN-SUFFIX,teamviewer.com
