@@ -1,17 +1,5 @@
 # NAME: Developer
 # REPO: https://github.com/blackmatrix7/ios_rule_script
 payload:
-  # 加密交易所
-  - DOMAIN-SUFFIX,bybit.com
-  - DOMAIN-SUFFIX,bybit.biz
-  - DOMAIN-SUFFIX,bybit.cloud
-  - DOMAIN-SUFFIX,bybitglobal.com
-  - DOMAIN-SUFFIX,byapps.net
-  - DOMAIN-SUFFIX,bybits.org
-  - DOMAIN-SUFFIX,bycsi.com
-  - DOMAIN-SUFFIX,byd3c3.com
-  - DOMAIN-SUFFIX,bybdc6.com
-  - DOMAIN-SUFFIX,byabcde.com
-  - DOMAIN-SUFFIX,wsot2022.com
-  - DOMAIN-KEYWORD,bybit
+  
   
