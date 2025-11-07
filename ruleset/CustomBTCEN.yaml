@@ -25,9 +25,9 @@ payload:
   - DOMAIN-SUFFIX,byabcde.com
   - DOMAIN-SUFFIX,wsot2022.com
   - DOMAIN-KEYWORD,bybit
-  - IP-CIDR,18.138.38.72/32
-  - IP-CIDR,150.109.18.233/32
-  - IP-CIDR,43.128.119.110/32
-  - IP-CIDR,43.134.118.170/32
+  - IP-CIDR,18.138.38.72/32,no-resolve
+  - IP-CIDR,150.109.18.233/32,no-resolve
+  - IP-CIDR,43.128.119.110/32,no-resolve
+  - IP-CIDR,43.134.118.170/32,no-resolve
   - DOMAIN,static.geetest.com
   - DOMAIN,gcaptcha4.geetest.com
