@@ -25,3 +25,5 @@ payload:
   - DOMAIN-SUFFIX,byabcde.com
   - DOMAIN-SUFFIX,wsot2022.com
   - DOMAIN-KEYWORD,bybit
+  - DOMAIN,static.geetest.com
+  - DOMAIN,gcaptcha4.geetest.com
