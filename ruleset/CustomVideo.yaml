@@ -57,3 +57,5 @@ payload:
   - DOMAIN-SUFFIX,xcity.jp
   - DOMAIN-SUFFIX,turboviplay.com
   - DOMAIN-SUFFIX,wowstream.cloud
+  - DOMAIN-SUFFIX,mc.yandex.com
+  - DOMAIN-SUFFIX,ssl.p.jwpcdn.com
