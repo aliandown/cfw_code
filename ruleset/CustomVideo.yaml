@@ -66,3 +66,4 @@ payload:
   - DOMAIN-SUFFIX,mc.yandex.com
   - DOMAIN-SUFFIX,ssl.p.jwpcdn.com
   - DOMAIN-SUFFIX,echopeak28.space
+  - DOMAIN-SUFFIX,cloudflare-terms-of-service-abuse.com
