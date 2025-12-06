@@ -8,3 +8,4 @@ payload:
 # javmost.com
   - DOMAIN-SUFFIX,mc.yandex.com
   - DOMAIN-SUFFIX,ssl.p.jwpcdn.com
+  - DOMAIN-SUFFIX,googletagmanager.com
