@@ -3,14 +3,14 @@ payload:
   #- DOMAIN,1dot1dot1dot1.cloudflare-dns.com
   #- DOMAIN,one.one.one.one
   #- DOMAIN,chrome.cloudflare-dns.com
-  #- DOMAIN,cloudflare-dns.com
-  #- DOMAIN,dns.cloudflare.com
+  - DOMAIN,cloudflare-dns.com
+  - DOMAIN,dns.cloudflare.com
   #- DOMAIN,family.cloudflare-dns.com
   #- DOMAIN,mozilla.cloudflare-dns.com
   #- DOMAIN,security.cloudflare-dns.com
   #- IP-CIDR,1.1.1.1/32
   #- IP-CIDR,1.0.0.1/32
-  #- DOMAIN,public.dns.iij.jp
+  - DOMAIN,public.dns.iij.jp
   #- IP-CIDR,103.2.57.5/32
   #- IP-CIDR,103.2.57.6/32
   #- DOMAIN,dot.sb
@@ -54,7 +54,7 @@ payload:
   #- IP-CIDR,149.112.112.112/32
   #- IP-CIDR,149.112.112.11/32
   #- IP-CIDR,149.112.112.10/32
-  #- DOMAIN,doh.opendns.com
+  - DOMAIN,doh.opendns.com
   #- DOMAIN,dns.umbrella.com
   #- DOMAIN,dns.sse.cisco.com
   #- DOMAIN,doh-de.blahdns.com
