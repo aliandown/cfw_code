@@ -18,7 +18,7 @@ payload:
   - IP-CIDR,69.171.224.0/19,no-resolve
   - IP-CIDR,173.252.64.0/19,no-resolve
   - IP-CIDR,173.252.96.0/19,no-resolve
-  - IP-ASN,AS32934,no-resolve
+  - IP-ASN,32934,no-resolve
 # 博主博客 不良林博客
   - DOMAIN-SUFFIX,bulianglin.com
   - DOMAIN-KEYWORD,bulianglin
