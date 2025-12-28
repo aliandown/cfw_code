@@ -61,6 +61,8 @@ payload:
   - DOMAIN-SUFFIX,sptvp.com
   - DOMAIN-SUFFIX,turbosplayer.com
   - DOMAIN-SUFFIX,javcdn.info
+  - DOMAIN-SUFFIX,dooplayer.com
+  - DOMAIN-SUFFIX,visariomedia.com
   #- DOMAIN-SUFFIX,sparkvibe33.store
   #- DOMAIN-SUFFIX,shoppulse88.store
   - DOMAIN-SUFFIX,mc.yandex.com
