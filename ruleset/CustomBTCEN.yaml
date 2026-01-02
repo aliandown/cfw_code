@@ -8,7 +8,11 @@ payload:
   - DOMAIN-SUFFIX,binance-cn.com
   - DOMAIN-SUFFIX,bnbstatic.com
   - DOMAIN-SUFFIX,binance.cloud
+  - DOMAIN-SUFFIX,bscdnweb.com
+  - DOMAIN-SUFFIX,forter.com
+  - DOMAIN-SUFFIX,online-metrix.net
   - DOMAIN-KEYWORD,binance
+  - IP-CIDR,35.77.148.188/32,no-resolve
   # 欧易加密交易所
   - DOMAIN-SUFFIX,okx.com
   - DOMAIN-SUFFIX,onesignal.com
