@@ -29,6 +29,10 @@ payload:
   - DOMAIN,gcaptcha4.geetest.com
   - DOMAIN-SUFFIX,appsflyersdk.com
   - DOMAIN-SUFFIX,ng-dex.com
+  - DOMAIN-SUFFIX,creativecdn.com
+  - DOMAIN-SUFFIX,mgid.com
+  - DOMAIN-SUFFIX,ffbbbdc6d3c353211fe2ba39c9f744cd.com
+  - DOMAIN-SUFFIX,ffe390afd658c19dcbf707e0597b846d.de
   - IP-CIDR,18.138.38.72/32,no-resolve
   - IP-CIDR,150.109.18.233/32,no-resolve
   - IP-CIDR,43.128.119.110/32,no-resolve
