@@ -24,6 +24,7 @@ payload:
   - DOMAIN-SUFFIX,onesignal.com
   - DOMAIN-SUFFIX,rtcplus.com
   - DOMAIN-SUFFIX,byteplusapi.com
+  - DOMAIN-SUFFIX,bytepluscdn.com
   # BYBIT加密交易所
   - DOMAIN-SUFFIX,bybit.com
   - DOMAIN-SUFFIX,bybit.biz
