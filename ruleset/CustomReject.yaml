@@ -1,5 +1,6 @@
 # NAME: 自定义全球拉截
 payload:
+  - DOMAIN,bfw-pic-new01.obs.cn-south-1.myhuaweicloud.com
   # 东北大学测速网站 不可用
   - DOMAIN,speed4.neu6.edu.cn
   - DOMAIN,speed.neu6.edu.cn
