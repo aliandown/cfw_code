@@ -12,7 +12,6 @@ payload:
   - DOMAIN-SUFFIX,forter.com
   - DOMAIN-SUFFIX,online-metrix.net
   - DOMAIN-SUFFIX,saasexch.com
-  - DOMAIN-SUFFIX,cloudfront.net
   - DOMAIN-SUFFIX,bntrace.com
   - DOMAIN-SUFFIX,walletconnect.org
   - DOMAIN-KEYWORD,binance
