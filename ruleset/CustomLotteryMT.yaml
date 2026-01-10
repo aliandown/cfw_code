@@ -1,45 +1,4 @@
 # NAME: Developer
 # REPO: https://github.com/blackmatrix7/ios_rule_script
 payload:
-  # 皇冠网址 视频直播
-  - DOMAIN-SUFFIX,botaoo.com
-  - DOMAIN-SUFFIX,hzwxbz3.cn
-  - DOMAIN-SUFFIX,zlm4.com
-  - DOMAIN-SUFFIX,hzwxbz2.cn
-  - DOMAIN-SUFFIX,51cywx.com
-  - DOMAIN-SUFFIX,shuerwenhua.com
-  # 皇冠网址 视频直播CND解析
-  - DOMAIN-SUFFIX,192939.top
-  - DOMAIN-SUFFIX,insportdata.com
-  - DOMAIN-SUFFIX,cloudfront.net
-  #- DOMAIN-SUFFIX,geniussports.com
-  - DOMAIN-SUFFIX,imgarena.com
-  - DOMAIN-SUFFIX,performfeeds.com
-  #- DOMAIN-SUFFIX,akamaized.net
-  #- DOMAIN-KEYWORD,imgarena-
-  #- DOMAIN,imgarena-prod-v4-ap.akamaized.net
-  #- DOMAIN,imgarena-prod-v3-ap.akamaized.net
-  #- DOMAIN,imgarena-prod-v2-ap.akamaized.net
-  #- DOMAIN,imgarena-prod-v1-ap.akamaized.net
-  #- DOMAIN,imgarena-prod-v4-eu.akamaized.net
-  #- DOMAIN,imgarena-prod-v3-eu.akamaized.net
-  #- DOMAIN,imgarena-prod-v2-eu.akamaized.net
-  #- DOMAIN,imgarena-prod-v1-eu.akamaized.net
-  #- DOMAIN,imgarena-prod-eu.akamaized.net
-  #- DOMAIN,lc-live-http-ipv4.akamaized.net
-  #- DOMAIN,744133.akamaized.net
-  #- DOMAIN,1309591.akamaized.net
-  #- DOMAIN,1320210.akamaized.net
-  #- DOMAIN,1320225.akamaized.net
-  #- DOMAIN,ws-fn-cdn001.akamaized.net
-  #- DOMAIN,ws-cdn001.akamaized.net
-  #- DOMAIN,lcsn-cdn001.akamaized.net
-  #- DOMAIN,lt-fn-cdn001.akamaized.net
-  #- DOMAIN,ws-cdn002.akamaized.net
-  #- DOMAIN,lcsn-cdn002.akamaized.net
-  #- DOMAIN,lt-fn-cdn002.akamaized.net
-  #- DOMAIN,ws-fn-cdn003.akamaized.net
-  #- DOMAIN,ws-cdn003.akamaized.net
-  #- DOMAIN,lcsn-cdn003.akamaized.net
-  #- DOMAIN,lt-fn-cdn003.akamaized.net
-  #- DOMAIN,imgarena-streams-prod-ll-eu-central-1.akamaized.net
+  
