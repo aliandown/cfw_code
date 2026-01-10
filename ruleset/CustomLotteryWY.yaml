@@ -81,6 +81,7 @@ payload:
   - DOMAIN,lcsn-cdn003.akamaized.net
   - DOMAIN,lt-fn-cdn003.akamaized.net
   - DOMAIN,imgarena-streams-prod-ll-eu-central-1.akamaized.net
+  - DOMAIN,imgarena-streams-prod-ll-eu-west-1.akamaized.net
   # 皇冠网址 下载程序
   - DOMAIN-SUFFIX,sportradar.com
   - DOMAIN-SUFFIX,niab12345.com
