@@ -111,6 +111,7 @@ payload:
   - DOMAIN-SUFFIX,hga039.com
   - DOMAIN-SUFFIX,hga050.com
   - DOMAIN-SUFFIX,llnwd.net
+  - IP-CIDR,123.108.119.168,no-resolve
   - IP-CIDR,112.78.27.0/24,no-resolve
   - IP-CIDR,125.252.69.0/24,no-resolve
   - IP-CIDR,123.108.119.0/24,no-resolve
