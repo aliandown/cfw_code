@@ -47,7 +47,7 @@ payload:
   - DOMAIN-SUFFIX,51cywx.com
   - DOMAIN-SUFFIX,shuerwenhua.com
   # 皇冠网址 视频直播CND解析
-  - DOMAIN-SUFFIX,192939.top
+  #- DOMAIN-SUFFIX,192939.top
   - DOMAIN-SUFFIX,insportdata.com
   - DOMAIN-SUFFIX,cloudfront.net
   - DOMAIN-SUFFIX,geniussports.com
