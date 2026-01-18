@@ -82,6 +82,7 @@ payload:
   - DOMAIN,1320225.akamaized.net
   - DOMAIN,1320193.akamaized.net
   - DOMAIN,1410651.akamaized.net
+  - DOMAIN,1410660.akamaized.net
   - DOMAIN,ws-fn-cdn001.akamaized.net
   - DOMAIN,ws-cdn001.akamaized.net
   - DOMAIN,lcsn-cdn001.akamaized.net
