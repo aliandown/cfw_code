@@ -14,10 +14,13 @@ payload:
   - DOMAIN-SUFFIX,imagecache365.com
   - DOMAIN-SUFFIX,365365340.com
   - DOMAIN-SUFFIX,bet365.com
+  # 188bet
+  - DOMAIN-SUFFIX,188asia.com
+  - DOMAIN,matomo-188.prdbia1.com
+  - DOMAIN,doc-cdn.doconeeigx.com
   # 博彩网站解锁
   - DOMAIN-SUFFIX,kaiyun.com
   - DOMAIN-SUFFIX,esball.com
-  - DOMAIN-SUFFIX,188asia.com
   - DOMAIN-SUFFIX,betway.com
   - DOMAIN-SUFFIX,betway88.com
   - DOMAIN-SUFFIX,manbetx.com
