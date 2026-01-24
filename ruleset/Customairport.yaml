@@ -1,6 +1,8 @@
 # NAME: Customairport
 payload:
-# Whatsapp
+  # 博彩网站
+  - DOMAIN-SUFFIX,kaiyun.com
+  # Whatsapp
   - DOMAIN,graph.facebook.com
   - DOMAIN-SUFFIX,bintray.com
   - DOMAIN-SUFFIX,whatsapp.biz
@@ -19,22 +21,22 @@ payload:
   - IP-CIDR,173.252.64.0/19,no-resolve
   - IP-CIDR,173.252.96.0/19,no-resolve
   - IP-ASN,32934,no-resolve
-# 博主博客 不良林博客
+  # 博主博客 不良林博客
   - DOMAIN-SUFFIX,bulianglin.com
   - DOMAIN-KEYWORD,bulianglin
-# 小云盒子下载中心
+  # 小云盒子下载中心
   - DOMAIN-SUFFIX,6868c.cc
   - DOMAIN-KEYWORD,6868c
-# 博主博客 DEV分享
+  # 博主博客 DEV分享
   - DOMAIN-SUFFIX,idev.dev
-# 国外广告赚钱
+  # 国外广告赚钱
   - DOMAIN-SUFFIX,surfe.be
   - DOMAIN-SUFFIX,surfe.pro
   - DOMAIN-SUFFIX,coinpayu.com
   - DOMAIN-SUFFIX,coin-birds.com
-# Servervy 永久免费虚拟主机
+  # Servervy 永久免费虚拟主机
   - DOMAIN-SUFFIX,servervy.com  
-# 其他网站
+  # 其他网站
   - DOMAIN-SUFFIX,onlyfans.com
   - DOMAIN-SUFFIX,v2rayssr.com
   - DOMAIN-SUFFIX,frepai.com
