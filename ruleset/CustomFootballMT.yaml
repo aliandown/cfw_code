@@ -1,6 +1,14 @@
 # NAME: Developer
 # REPO: https://github.com/blackmatrix7/ios_rule_script
 payload:
+  # 博彩网站解锁
+  - DOMAIN-SUFFIX,bet365.com
+  - DOMAIN-SUFFIX,kaiyun.com
+  - DOMAIN-SUFFIX,esball.com
+  - DOMAIN-SUFFIX,188bet.com
+  - DOMAIN-SUFFIX,betway.com
+  - DOMAIN-SUFFIX,manbetx.com
+  - DOMAIN-SUFFIX,1xbet.com
   # socolive.io 越南直播
   - DOMAIN-SUFFIX,niur.live
   - DOMAIN-SUFFIX,niues.live
