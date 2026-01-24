@@ -14,6 +14,8 @@ payload:
   - DOMAIN-SUFFIX,ghgo.xyz
   - DOMAIN-SUFFIX,ghfast.top
   - DOMAIN-KEYWORD,jsdelivr
+  # 开云体育
+  - DOMAIN-SUFFIX,xc5p0z.com
   # 澳门新葡京
   - DOMAIN-SUFFIX,zolqb.com
   - DOMAIN-SUFFIX,nowallet.app
