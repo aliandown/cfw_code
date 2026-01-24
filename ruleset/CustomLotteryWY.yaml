@@ -14,8 +14,13 @@ payload:
   - DOMAIN-SUFFIX,ghgo.xyz
   - DOMAIN-SUFFIX,ghfast.top
   - DOMAIN-KEYWORD,jsdelivr
+  # 乐天体育
+  - DOMAIN-SUFFIX,ltyl555.com
+  - DOMAIN-SUFFIX,ob.games
+  - DOMAIN-SUFFIX,golbal-kyg-20250801.com
   # 万博体育
   - DOMAIN-SUFFIX,plhhovyj.com
+  - DOMAIN-SUFFIX,plazamx.vip
   # 新球体育
   - DOMAIN-SUFFIX,beizi.biz
   - DOMAIN-SUFFIX,letarrow.com
