@@ -14,6 +14,12 @@ payload:
   - DOMAIN-SUFFIX,ghgo.xyz
   - DOMAIN-SUFFIX,ghfast.top
   - DOMAIN-KEYWORD,jsdelivr
+  # 澳门新葡京
+  - DOMAIN-SUFFIX,bugsnag.com
+  - DOMAIN-SUFFIX,bps9b2p4.com
+  - DOMAIN-SUFFIX,csjhjas.top
+  - DOMAIN-SUFFIX,mpulsefusion.com
+  - DOMAIN-SUFFIX,ns1p.net
   # 乐天体育
   - DOMAIN-SUFFIX,ltyl555.com
   - DOMAIN-SUFFIX,ob.games
