@@ -2,6 +2,7 @@
 payload:
   # 博彩网站
   - DOMAIN-SUFFIX,kaiyun.com
+  - DOMAIN-SUFFIX,esball.com
   # Whatsapp
   - DOMAIN,graph.facebook.com
   - DOMAIN-SUFFIX,bintray.com
