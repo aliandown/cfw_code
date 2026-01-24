@@ -15,7 +15,13 @@ payload:
   - DOMAIN-SUFFIX,ghfast.top
   - DOMAIN-KEYWORD,jsdelivr
   # 开云体育
+  - DOMAIN-SUFFIX,kaiyun.com
   - DOMAIN-SUFFIX,xc5p0z.com
+  - DOMAIN-SUFFIX,5pbo1uvn.com
+  - DOMAIN-SUFFIX,botion.com
+  - DOMAIN-SUFFIX,trip027.com
+  - DOMAIN-SUFFIX,botion.com
+  - DOMAIN-SUFFIX,customer.io
   # 澳门新葡京
   - DOMAIN-SUFFIX,zolqb.com
   - DOMAIN-SUFFIX,nowallet.app
