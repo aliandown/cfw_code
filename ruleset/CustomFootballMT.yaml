@@ -19,6 +19,7 @@ payload:
   - DOMAIN,matomo-188.prdbia1.com
   - DOMAIN,doc-cdn.doconeeigx.com
   # 博彩网站解锁
+  - DOMAIN-SUFFIX,e8.vip
   - DOMAIN-SUFFIX,kaiyun.com
   - DOMAIN-SUFFIX,esball.com
   - DOMAIN-SUFFIX,betway.com
