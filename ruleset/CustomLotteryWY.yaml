@@ -181,16 +181,6 @@ payload:
   # 足球直播
   #- DOMAIN-SUFFIX,xinzuqiu.com
   #- DOMAIN-KEYWORD,xinzuqiu
-  # 1XBET
-  - DOMAIN-SUFFIX,cdnafric.com
-  - DOMAIN-SUFFIX,traincdn.com
-  - DOMAIN-SUFFIX,1xbet.com
-  - DOMAIN-SUFFIX,nvsrpq.stripocdn.email
-  # 365网站
-  - DOMAIN-SUFFIX,365pushodds.com
-  - DOMAIN-SUFFIX,sgla365.com
-  - DOMAIN-SUFFIX,imagecache365.com
-  - DOMAIN-SUFFIX,365365340.com
   # 皇冠网址 动画图型CND解析
   - DOMAIN-SUFFIX,hgapp0001.com
   - DOMAIN-SUFFIX,hgapp0002.com
