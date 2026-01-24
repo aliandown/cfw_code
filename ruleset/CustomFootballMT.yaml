@@ -16,9 +16,11 @@ payload:
   # 博彩网站解锁
   - DOMAIN-SUFFIX,kaiyun.com
   - DOMAIN-SUFFIX,esball.com
-  - DOMAIN-SUFFIX,188bet.com
+  - DOMAIN-SUFFIX,188asia.com
   - DOMAIN-SUFFIX,betway.com
+  - DOMAIN-SUFFIX,betway88.com
   - DOMAIN-SUFFIX,manbetx.com
+  - DOMAIN-SUFFIX,21cnchina.com
   # socolive.io 越南直播
   - DOMAIN-SUFFIX,niur.live
   - DOMAIN-SUFFIX,niues.live
