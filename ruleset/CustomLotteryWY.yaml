@@ -206,30 +206,19 @@ payload:
   - DOMAIN-SUFFIX,geniussports.com
   - DOMAIN-SUFFIX,imgarena.com
   - DOMAIN-SUFFIX,performfeeds.com
-  - DOMAIN-KEYWORD,imgarena*.akamaized.net
-  - DOMAIN-KEYWORD,lc-*.akamaized.net
-  - DOMAIN-KEYWORD,ws-*.akamaized.net
-  - DOMAIN-KEYWORD,lcsn-*.akamaized.net
-  - DOMAIN-KEYWORD,1*.akamaized.net
-  - DOMAIN-KEYWORD,2*.akamaized.net
-  - DOMAIN-KEYWORD,3*.akamaized.net
-  - DOMAIN-KEYWORD,4*.akamaized.net
-  - DOMAIN-KEYWORD,5*.akamaized.net
-  - DOMAIN-KEYWORD,6*.akamaized.net
-  - DOMAIN-KEYWORD,7*.akamaized.net
-  - DOMAIN-KEYWORD,8*.akamaized.net
-  - DOMAIN-KEYWORD,9*.akamaized.net
-  - DOMAIN-KEYWORD,10*.akamaized.net
-  - DOMAIN-KEYWORD,11*.akamaized.net
-  - DOMAIN-KEYWORD,12*.akamaized.net
-  - DOMAIN-KEYWORD,13*.akamaized.net
-  - DOMAIN-KEYWORD,14*.akamaized.net
-  - DOMAIN-KEYWORD,15*.akamaized.net
-  - DOMAIN-KEYWORD,16*.akamaized.net
-  - DOMAIN-KEYWORD,17*.akamaized.net
-  - DOMAIN-KEYWORD,18*.akamaized.net
-  - DOMAIN-KEYWORD,19*.akamaized.net
-  - DOMAIN-KEYWORD,20*.akamaized.net
+  - DOMAIN-KEYWORD,imgarena*akamaized.net
+  - DOMAIN-KEYWORD,lc-*akamaized.net
+  - DOMAIN-KEYWORD,ws-*akamaized.net
+  - DOMAIN-KEYWORD,lcsn-*akamaized.net
+  - DOMAIN-KEYWORD,1*akamaized.net
+  - DOMAIN-KEYWORD,2*akamaized.net
+  - DOMAIN-KEYWORD,3*akamaized.net
+  - DOMAIN-KEYWORD,4*akamaized.net
+  - DOMAIN-KEYWORD,5*akamaized.net
+  - DOMAIN-KEYWORD,6*akamaized.net
+  - DOMAIN-KEYWORD,7*akamaized.net
+  - DOMAIN-KEYWORD,8*akamaized.net
+  - DOMAIN-KEYWORD,9*akamaized.net
   # 皇冠网址 下载程序
   - DOMAIN-SUFFIX,sportradar.com
   - DOMAIN-SUFFIX,niab12345.com
