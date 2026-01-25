@@ -215,8 +215,8 @@ local.adguard.org
 #+.ipify.org
 #+.ip.sb
 # 挖矿网站
-+.public-pool.io
-+.tazmining.ch
+#+.public-pool.io
+#+.tazmining.ch
 # 国内门户网站
 +.meituan.net
 # 国外门户网站
