@@ -230,3 +230,4 @@ payload:
   - IP-CIDR,134.159.80.66/32,no-resolve
   - IP-CIDR,134.159.80.63/32,no-resolve
   - IP-CIDR,199.26.100.228/32,no-resolve
+  - IP-CIDR,123.108.119.96/32,no-resolve
