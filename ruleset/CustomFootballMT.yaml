@@ -2,28 +2,37 @@
 # REPO: https://github.com/blackmatrix7/ios_rule_script
 payload:
 # 1XBET
+  - DOMAIN-SUFFIX,1xbet.com
   - DOMAIN-SUFFIX,cdnafric.com
   - DOMAIN-SUFFIX,traincdn.com
-  - DOMAIN-SUFFIX,1xbet.com
   - DOMAIN-SUFFIX,nvsrpq.stripocdn.email
-  - DOMAIN-SUFFIX,1xlite-23120.bar
   - DOMAIN,1xbet.onelink.me
+  - DOMAIN-KEYWORD,1xbet
+  - DOMAIN-KEYWORD,1xlite-
   # 365网站
   - DOMAIN-SUFFIX,365pushodds.com
   - DOMAIN-SUFFIX,sgla365.com
   - DOMAIN-SUFFIX,imagecache365.com
   - DOMAIN-SUFFIX,365365340.com
   - DOMAIN-SUFFIX,bet365.com
+  - DOMAIN-KEYWORD,bet365
   # 188bet
   - DOMAIN-SUFFIX,188asia.com
   - DOMAIN,matomo-188.prdbia1.com
   - DOMAIN,doc-cdn.doconeeigx.com
-  # 博彩网站解锁
-  - DOMAIN-SUFFIX,e8.vip
-  - DOMAIN-SUFFIX,kaiyun.com
+  - DOMAIN-KEYWORD,188asia
+  # esball
   - DOMAIN-SUFFIX,esball.com
+  - DOMAIN-KEYWORD,esball
+  # kaiyun
+  - DOMAIN-SUFFIX,kaiyun.com
+  - DOMAIN-KEYWORD,kaiyun
+  # betway
   - DOMAIN-SUFFIX,betway.com
   - DOMAIN-SUFFIX,betway88.com
+  - DOMAIN-KEYWORD,betway
+  # 博彩网站解锁
+  - DOMAIN-SUFFIX,e8.vip
   - DOMAIN-SUFFIX,manbetx.com
   - DOMAIN-SUFFIX,21cnchina.com
   # socolive.io 越南直播
