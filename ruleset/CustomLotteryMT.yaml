@@ -1,16 +1,6 @@
 # NAME: Developer
 # REPO: https://github.com/blackmatrix7/ios_rule_script
 payload:
-  # 1XBET
-  - DOMAIN-SUFFIX,igamemedia.com
-  - DOMAIN-SUFFIX,i7siswqosof.com
-  - DOMAIN-SUFFIX,xmediaget.com
-  - DOMAIN-SUFFIX,mobio-sworld.com
-  - DOMAIN-SUFFIX,mobio-salive.com
-  - DOMAIN-SUFFIX,1xlite-064988.top
-  - DOMAIN-SUFFIX,1xlite-035204.top:443
-  - DOMAIN-SUFFIX,pongbet-27342.top
-  - DOMAIN-SUFFIX,mp728348.win
   # 黄瓜直播
   - PROCESS-NAME,dsfm.ytif.qeya.mpya
   - DOMAIN-SUFFIX,ksmttr.com
