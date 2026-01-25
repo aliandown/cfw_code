@@ -219,6 +219,12 @@ payload:
   - DOMAIN-KEYWORD,7*akamaized.net
   - DOMAIN-KEYWORD,8*akamaized.net
   - DOMAIN-KEYWORD,9*akamaized.net
+  - DOMAIN-KEYWORD,10*akamaized.net
+  - DOMAIN-KEYWORD,11*akamaized.net
+  - DOMAIN-KEYWORD,12*akamaized.net
+  - DOMAIN-KEYWORD,13*akamaized.net
+  - DOMAIN-KEYWORD,14*akamaized.net
+  - DOMAIN-KEYWORD,15*akamaized.net
   # 皇冠网址 下载程序
   - DOMAIN-SUFFIX,sportradar.com
   - DOMAIN-SUFFIX,niab12345.com
