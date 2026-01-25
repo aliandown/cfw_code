@@ -1,5 +1,9 @@
 # NAME: 以下域名强制通过国内DNS解析
 payload:
+  # 优选线路
+  - DOMAIN-SUFFIX,16583.xyz
+  - DOMAIN-SUFFIX,87568763.xyz
+  - DOMAIN-SUFFIX,87638756.xyz
   # 斗球直播
   - DOMAIN-SUFFIX,bengvet.com
   - DOMAIN-SUFFIX,wdieijv
