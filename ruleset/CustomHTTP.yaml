@@ -1,4 +1,3 @@
 # NAME: Developer
 payload:
-  - DOMAIN-SUFFIX,netease.com
-  - IP-CIDR,115.238.9.55/32,no-resolve
+  - '+.netease.com'
