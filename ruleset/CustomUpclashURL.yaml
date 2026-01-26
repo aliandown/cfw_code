@@ -1,15 +1,5 @@
 # NAME: 以下域名强制通过国内DNS解析
 payload:
-  # 斗球直播
-  - '+.bengvet.com'
-  - '+.wdieijv'
-  - '+.dq87774.com'
-  - '+.yrcmza.com'
-  - '+.vdsbqjz.com'
-  - '+.0xlo0p.com'
-  - '+.qaffvz.com'
-  - '+.zczlxxkj.com'
-  - '+.kanyunshi.com'
   # 乐球直播
   - '+.openinstall.io'
   - '+.stxfund.com'
