@@ -1,5 +1,7 @@
 payload:
   # 国外DNS解析
+  - DOMAIN,dns.nextdns.io
+  - DOMAIN,doh-sg.blahdns.com
   - DOMAIN,1dot1dot1dot1.cloudflare-dns.com
   - DOMAIN,one.one.one.one
   - DOMAIN,chrome.cloudflare-dns.com
