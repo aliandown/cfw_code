@@ -32,12 +32,12 @@ payload:
   - '+.bybdc6.com'
   - '+.byabcde.com'
   - '+.wsot2022.com'
-  - static.geetest.com'
-  - gcaptcha4.geetest.com'
+  - static.geetest.com
+  - gcaptcha4.geetest.com
   - '+.appsflyersdk.com'
   - '+.ng-dex.com'
   - '+.creativecdn.com'
   - '+.mgid.com'
   - '+.ffbbbdc6d3c353211fe2ba39c9f744cd.com'
   - '+.ffe390afd658c19dcbf707e0597b846d.de'
-  - ca.turing.captcha.qcloud.com'
+  - ca.turing.captcha.qcloud.com
