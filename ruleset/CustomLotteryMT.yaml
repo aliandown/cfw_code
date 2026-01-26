@@ -2,10 +2,10 @@
 # REPO: https://github.com/blackmatrix7/ios_rule_script
 payload:
   # 黄瓜直播
-  - PROCESS-NAME,dsfm.ytif.qeya.mpya
-  - DOMAIN-SUFFIX,ksmttr.com
-  - DOMAIN-SUFFIX,sypfumws.com
-  - DOMAIN-SUFFIX,hbswfw.com
-  - DOMAIN-SUFFIX,ipdrgm.com
-  - DOMAIN-SUFFIX,ksdjjasjf.xyz
-  - DOMAIN-SUFFIX,scxfcy.com 
+  - '+.dsfm.ytif.qeya.mpya'
+  - '+.ksmttr.com'
+  - '+.sypfumws.com'
+  - '+.,hbswfw.com'
+  - '+.ipdrgm.com'
+  - '+.ksdjjasjf.xyz'
+  - '+.scxfcy.com'
