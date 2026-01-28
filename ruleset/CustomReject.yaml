@@ -6,7 +6,9 @@ payload:
   # 皇冠体育
   - DOMAIN-SUFFIX,ry00000.com
   - DOMAIN-SUFFIX,niab12345.com
-  #新球体育
+  # 乐球体育
+  - DOMAIN-WILDCARD,*.jpush.cn
+  # 新球体育
   #- DOMAIN,sdk-event.beizi.biz
   #- DOMAIN,sdk-api.beizi.biz
   #- DOMAIN,sdk.zhangyuyidong.cn
