@@ -1,8 +1,0 @@
-||youtube.com/pagead/
-||google.com/pagead/
-||doubleclick.net^
-youtube.com##.ytp-chrome-top-buttons > .ytp-cards-teaser
-youtube.com###ytd-player button.ytp-suggested-action-badge
-youtube.com###panels > [target-id="engagement-panel-ads"]
-youtube.com###related > div#player-ads
-youtube.com##.ytp-chrome-top-buttons > .ytp-cards-teaser
