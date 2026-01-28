@@ -21,12 +21,18 @@ payload:
   - DOMAIN,api.wxcjgg.cn
   #- DOMAIN,apmplus.volces.com
   # 雷速体育
+  - DOMAIN,st.appsad.cn
+  - DOMAIN,tracelog-debug.aiclk.com
+  - DOMAIN,logrcv.aiclk.com
+  - DOMAIN,cpc-service-square.aiclk.com
+  - DOMAIN,lx-upload-log.go2yd.com
   - DOMAIN,adx-bj.anythinktech.com
   - DOMAIN,adx-cfg-u1.ubixioe.com
   - DOMAIN,ad.shunchangzhixing.com
   - DOMAIN,admin.hzjizhun.cn
   - DOMAIN,adx.halomobi.com
   - DOMAIN,p1-lm.adukwai.com
+  - DOMAIN,p2-lm.adukwai.com
   - DOMAIN,st.appsad.cn
   - DOMAIN,tracking.adx.xlqeai.com
   #- DOMAIN-SUFFIX,dypnsapi.aliyuncs.com
