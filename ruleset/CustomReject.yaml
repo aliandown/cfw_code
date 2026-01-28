@@ -8,6 +8,7 @@ payload:
   - DOMAIN-SUFFIX,niab12345.com
   # 乐球体育
   - DOMAIN-WILDCARD,*.jpush.cn
+  - DOMAIN-WILDCARD,*.jpush.io
   # 新球体育
   #- DOMAIN,sdk-event.beizi.biz
   #- DOMAIN,sdk-api.beizi.biz
