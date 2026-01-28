@@ -20,6 +20,9 @@ payload:
   - DOMAIN,open.e.kuaishou.cn
   - DOMAIN,api.wxcjgg.cn
   #- DOMAIN,apmplus.volces.com
+  adx-ad-prod.wkanx.com
+  sdk.adx.adwangmai.com
+  sdk-cfg.adx.adwangmai.com
   # 雷速体育
   - DOMAIN,sdk.1rtb.net
   - DOMAIN,inner.shunchangzhixing.com
