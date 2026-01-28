@@ -23,8 +23,12 @@ payload:
   - DOMAIN,adx-ad-prod.wkanx.com
   - DOMAIN,sdk.adx.adwangmai.com
   - DOMAIN,sdk-cfg.adx.adwangmai.com
-  g.fancyapi.com
-  t2.fancyapi.com
+  - DOMAIN,g.fancyapi.com
+  - DOMAIN,t2.fancyapi.com
+  - DOMAIN-SUFFIX,xiawan8.com
+  - DOMAIN-SUFFIX,fancydsp.com
+  - DOMAIN-SUFFIX,fancyapi.com
+  - DOMAIN-SUFFIX,doubleclick-cn.net
   # 雷速体育
   - DOMAIN,sdk.1rtb.net
   - DOMAIN,inner.shunchangzhixing.com
