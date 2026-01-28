@@ -49,6 +49,11 @@ payload:
   - DOMAIN,tracking.adx.xlqeai.com
   - DOMAIN,sf3-fe-tos.pglstatp-toutiao.com
   - DOMAIN,t-dsp.pinduoduo.com
+  # 星星体育
+  - DOMAIN-SUFFIX,besget.com
+  - DOMAIN,mssdk.volces.com
+  - DOMAIN-SUFFIX,puata.info
+  - DOMAIN,mssdk-bu.bytedance.com
   #其他
   - DOMAIN,config.ptmi.gitv.tv
   - DOMAIN-SUFFIX,open.cctvcloud.cn
