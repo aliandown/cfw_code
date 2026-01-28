@@ -54,6 +54,7 @@ payload:
   - DOMAIN,mssdk.volces.com
   - DOMAIN-SUFFIX,puata.info
   - DOMAIN,mssdk-bu.bytedance.com
+  - DOMAIN-SUFFIX,puata.info
   #其他
   - DOMAIN,config.ptmi.gitv.tv
   - DOMAIN-SUFFIX,open.cctvcloud.cn
