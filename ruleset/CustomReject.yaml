@@ -21,6 +21,14 @@ payload:
   - DOMAIN,api.wxcjgg.cn
   #- DOMAIN,apmplus.volces.com
   # 雷速体育
+  - DOMAIN,adx-bj.anythinktech.com
+  - DOMAIN,adx-cfg-u1.ubixioe.com
+  - DOMAIN,ad.shunchangzhixing.com
+  - DOMAIN,admin.hzjizhun.cn
+  - DOMAIN,adx.halomobi.com
+  - DOMAIN,p1-lm.adukwai.com
+  - DOMAIN,st.appsad.cn
+  - DOMAIN,tracking.adx.xlqeai.com
   #- DOMAIN-SUFFIX,dypnsapi.aliyuncs.com
   #- DOMAIN-SUFFIX,cloud-config-service.rtc.aliyuncs.com
   #- DOMAIN-SUFFIX,vpp-license-proxy.aliyuncs.com
