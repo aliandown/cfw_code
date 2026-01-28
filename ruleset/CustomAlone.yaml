@@ -1,8 +1,0 @@
-payload:
-  # 挖矿网络
-  - DOMAIN-SUFFIX,gateio.ws
-  - DOMAIN-SUFFIX,public-pool.io
-  - DOMAIN-SUFFIX,gateio.ws
-  - DOMAIN-SUFFIX,tazmining.ch
-  - DOMAIN-SUFFIX,pool.ntp.org
-  - IP-CIDR,38.51.144.240/32,no-resolve
