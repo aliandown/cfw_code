@@ -1,6 +1,6 @@
-# NAME: Developer
-# REPO: https://github.com/blackmatrix7/ios_rule_script
 payload:
+  # 乐球体育直播图片显示
+  - DOMAIN,bflives.qdmeron.com
   # 其他视频
   - DOMAIN-SUFFIX,pornhub.com
   - DOMAIN-SUFFIX,xhamster.com
@@ -17,39 +17,37 @@ payload:
   - DOMAIN-KEYWORD,xvideos
   - DOMAIN-KEYWORD,xvcams
   - DOMAIN-KEYWORD,javdb
-# 个人专用
-  - DOMAIN-SUFFIX,alist.elevenfamilies.link
-# 网盘云盘
+  # 网盘云盘
   - DOMAIN-SUFFIX,keepshare.org
   - DOMAIN-SUFFIX,pikpak.me
   - DOMAIN-SUFFIX,mypikpak.com
   - DOMAIN-SUFFIX,mypikpak.net
   - DOMAIN-SUFFIX,pikpakdrive.com
-# 成人视频网站
+  # 成人视频网站
   - DOMAIN-SUFFIX,njav.tv
   - DOMAIN-SUFFIX,javplayer.me
   - DOMAIN-SUFFIX,jable.tv
   - DOMAIN-SUFFIX,mushroomtrack.com
   - DOMAIN-SUFFIX,missav.com
-# xvideo 服务器IP范围
+  # xvideo 服务器IP范围
   - DOMAIN-SUFFIX,xvxn.cc
   - DOMAIN-SUFFIX,xnxx.com
   - DOMAIN-SUFFIX,xvideos.com
   - DOMAIN-KEYWORD,xvideos
-# linktr.ee
+  # linktr.ee
   - DOMAIN-SUFFIX,linktr.ee
-# njav.tv
+  # njav.tv
   - DOMAIN-SUFFIX,njav.tv
   - DOMAIN-SUFFIX,njav.xyz
   - DOMAIN-SUFFIX,missav.li
   - DOMAIN-SUFFIX,jable.tv
   - DOMAIN-SUFFIX,thedayweplay.lol
   - DOMAIN-SUFFIX,javplayer.me
-# ssjx666.top
+  # ssjx666.top
   - DOMAIN-KEYWORD,ssjx666
   - DOMAIN-SUFFIX,ssjx666.top
   - DOMAIN-SUFFIX,ssjx666.net
-# javmost.com
+  # javmost.com
   - DOMAIN-SUFFIX,javmost.com
   - DOMAIN-SUFFIX,findjav.com
   - DOMAIN-SUFFIX,mostplayer.com
