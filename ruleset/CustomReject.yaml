@@ -29,6 +29,13 @@ payload:
   - DOMAIN-SUFFIX,fancydsp.com
   - DOMAIN-SUFFIX,fancyapi.com
   - DOMAIN-SUFFIX,doubleclick-cn.net
+  - DOMAIN-SUFFIX,beizi.biz
+  - DOMAIN-SUFFIX,hubcloud.com.cn
+  - DOMAIN-SUFFIX,gameley.com
+  - DOMAIN-SUFFIX,pglstatp-toutiao.com
+  - DOMAIN,fapi.hongxiu158.com
+  - DOMAIN,api.shanghailingye.cn
+  - DOMAIN-KEYWORD,letarrow
   # 雷速体育
   - DOMAIN,sdk.1rtb.net
   - DOMAIN,inner.shunchangzhixing.com
