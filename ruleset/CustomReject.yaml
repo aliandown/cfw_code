@@ -21,6 +21,17 @@ payload:
   - DOMAIN,api.wxcjgg.cn
   #- DOMAIN,apmplus.volces.com
   # 雷速体育
+  - DOMAIN,sdk.1rtb.net
+  - DOMAIN,inner.shunchangzhixing.com
+  - DOMAIN,tk.anythinktech.com
+  - DOMAIN,sf1-fe-tos.pglstatp-toutiao.com
+  - DOMAIN,sf2-fe-tos.pglstatp-toutiao.com
+  - DOMAIN,sf3-fe-tos.pglstatp-toutiao.com
+  - DOMAIN,sf4-fe-tos.pglstatp-toutiao.com
+  - DOMAIN,sf5-fe-tos.pglstatp-toutiao.com
+  - DOMAIN,sf6-fe-tos.pglstatp-toutiao.com
+  - DOMAIN,entry-su1.ubixioe.com
+  - DOMAIN,ujoy.anythinktech.com
   - DOMAIN,st.appsad.cn
   - DOMAIN,tracelog-debug.aiclk.com
   - DOMAIN,logrcv.aiclk.com
