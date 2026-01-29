@@ -1,0 +1,7 @@
+payload:
+  - DOMAIN-KEYWORD,plex
+  - DOMAIN-SUFFIX,plex.tv
+  - DOMAIN-SUFFIX,plexvideos.com
+  #- DOMAIN-SUFFIX,fullstory.com
+  #- DOMAIN-SUFFIX,redfast.com
+  #- DOMAIN-SUFFIX,redfastlabs.com
