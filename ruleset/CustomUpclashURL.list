@@ -1,4 +1,5 @@
-# 自定域名
-+.16583.xyz
-+.87638756.xyz
-+.87568763.xyz
+payload:
+  # 自定域名
+  - DOMAIN-SUFFIX,16583.xyz
+  - DOMAIN-SUFFIX,87638756.xyz
+  - DOMAIN-SUFFIX,87568763.xyz
