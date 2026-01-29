@@ -1,10 +1,10 @@
 payload:
-  - IP-CIDR,172.17.0.0/24
-  - IP-CIDR,172.26.0.0/24
-  - IP-CIDR,192.0.0.0/24
-  - IP-CIDR,192.0.2.0/24
-  - IP-CIDR,192.88.99.0/24
-  - IP-CIDR,198.51.100.0/24
-  - IP-CIDR,203.0.113.0/24
-  - IP-CIDR,255.255.255.255/32
-  - IP-CIDR,239.255.255.250/32
+  - IP-CIDR,172.17.0.0/24,no-resolve
+  - IP-CIDR,172.26.0.0/24,no-resolve
+  - IP-CIDR,192.0.0.0/24,no-resolve
+  - IP-CIDR,192.0.2.0/24,no-resolve
+  - IP-CIDR,192.88.99.0/24,no-resolve
+  - IP-CIDR,198.51.100.0/24,no-resolve
+  - IP-CIDR,203.0.113.0/24,no-resolve
+  - IP-CIDR,255.255.255.255/32,no-resolve
+  - IP-CIDR,239.255.255.250/32,no-resolve
