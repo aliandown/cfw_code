@@ -1,0 +1,3 @@
+payload:
+  # EBpay
+  - IP-CIDR,218.77.199.130/32,no-resolve
