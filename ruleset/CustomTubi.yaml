@@ -2,6 +2,7 @@ payload:
   - DOMAIN-KEYWORD,tubi
   - DOMAIN-SUFFIX,tubitv.com
   - DOMAIN-SUFFIX,tubi.io
+  - DOMAIN,cdn.branch.io
   - DOMAIN,sdk.iad-01.braze.com
   - DOMAIN,prod.player.fox.digitalvideoplatform.com
   - DOMAIN,fairplay.keyos.com
