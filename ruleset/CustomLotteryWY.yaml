@@ -195,7 +195,6 @@ payload:
   # 皇冠网址下载程序
   - DOMAIN-SUFFIX,sportradar.com
   - DOMAIN-SUFFIX,niab12345.com
-  - DOMAIN-SUFFIX,ghostery.com
   # 皇冠网址
   - DOMAIN-SUFFIX,f288880.com
   - DOMAIN-SUFFIX,mos011.com
