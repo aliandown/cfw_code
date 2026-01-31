@@ -1,0 +1,15 @@
+payload:
+  # 自定域名
+  - DOMAIN-SUFFIX,16583.xyz
+  - DOMAIN-SUFFIX,87638756.xyz
+  - DOMAIN-SUFFIX,87568763.xyz
+  # ebpay
+  - DOMAIN-KEYWORD,ebpay
+  - DOMAIN-SUFFIX,hllzy.com
+  - DOMAIN-SUFFIX,h5ebpay.vip
+  - DOMAIN-SUFFIX,qianxuanmc.com
+  - DOMAIN-SUFFIX,c2nq9fhvnvub.com
+  - DOMAIN-SUFFIX,hsyyangzhi.com
+  - DOMAIN-SUFFIX,sdxinliang.com
+  - DOMAIN-SUFFIX,aqikeji055.com
+  - DOMAIN-SUFFIX,180xxww.com
