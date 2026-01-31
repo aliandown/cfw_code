@@ -1,6 +1,6 @@
 payload:
   # ebpay
-  - DOMAIN-SUFFIX,ebpay.org
+  - DOMAIN-KEYWORD,ebpay
   - DOMAIN-SUFFIX,hllzy.com
   - DOMAIN-SUFFIX,h5ebpay.vip
   - DOMAIN-SUFFIX,qianxuanmc.com
