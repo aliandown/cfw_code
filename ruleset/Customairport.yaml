@@ -2,6 +2,7 @@
 payload:
   # 域名管理
   - DOMAIN-SUFFIX,namesilo.com
+  - DOMAIN-SUFFIX,spaceship.com
   # Whatsapp
   - DOMAIN,graph.facebook.com
   - DOMAIN-SUFFIX,bintray.com
