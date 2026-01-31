@@ -1,4 +1,8 @@
 payload:
+  # 体育直播分发网络(CDN)平台
+  - DOMAIN-SUFFIX,unpkg.com
+  - DOMAIN-SUFFIX,cloudfront.net
+  - DOMAIN-SUFFIX,akamaized.net
   # 纳米体育数据平台
   - DOMAIN-SUFFIX,nami.com
   - DOMAIN-SUFFIX,sportnanoapi.com
@@ -185,11 +189,9 @@ payload:
   - DOMAIN-SUFFIX,192939.top
   - DOMAIN-SUFFIX,glivesport.com
   - DOMAIN-SUFFIX,insportdata.com
-  - DOMAIN-SUFFIX,cloudfront.net
   - DOMAIN-SUFFIX,geniussports.com
   - DOMAIN-SUFFIX,imgarena.com
   - DOMAIN-SUFFIX,performfeeds.com
-  - DOMAIN-SUFFIX,akamaized.net
   # 皇冠网址下载程序
   - DOMAIN-SUFFIX,sportradar.com
   - DOMAIN-SUFFIX,niab12345.com
