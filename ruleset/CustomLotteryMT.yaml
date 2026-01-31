@@ -1,6 +1,4 @@
 payload:
-  # 体育直播分发网络(CDN)平台
-  - DOMAIN-SUFFIX,unpkg.com
   # 乐球体育
   - DOMAIN-SUFFIX,openinstall.com
   - DOMAIN-SUFFIX,openinstall.io
