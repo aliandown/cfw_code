@@ -1,5 +1,7 @@
 # NAME: Customairport
 payload:
+  # 域名管理
+  - DOMAIN-SUFFIX,namesilo.com
   # Whatsapp
   - DOMAIN,graph.facebook.com
   - DOMAIN-SUFFIX,bintray.com
