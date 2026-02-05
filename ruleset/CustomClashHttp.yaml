@@ -1,5 +1,3 @@
 payload:
-  # 自定域名
-  - DOMAIN-SUFFIX,16583.xyz
-  - DOMAIN-SUFFIX,87638756.xyz
-  - DOMAIN-SUFFIX,87568763.xyz
+  # 加快解析
+  - DOMAIN-SUFFIX,gitee.com
