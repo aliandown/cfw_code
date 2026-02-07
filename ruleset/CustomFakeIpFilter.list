@@ -196,59 +196,15 @@ local.adguard.org
 # 阿里
 +.aliyundrive.com
 +.aliyundrive.net
-# github 第三方镜像
-+.ghproxy.com
-+.ghps.cc
-+.gh-proxy.com
-+.jsdelivr.net
-+.dpik.top
-+.llkk.cc
-+.ghps.cc
-+.ghgo.xyz
-+.ghfast.top
 # 国外VPS管理
 +.serv00.com
-# IP 查询
-#+.upyun.com
-#+.ipip.net
-#+.ipcelou.com
-#+.ipify.org
-#+.ip.sb
-# 挖矿网站
-#+.public-pool.io
-#+.tazmining.ch
 # 国内门户网站
 +.meituan.net
 # 国外门户网站
 +.mail.me.com
 #+.bing.com
 +.office365.com
-# DNS
-#doh.opendns.com
-#dns.opendns.com
-#doh.umbrella.com
-#dns.umbrella.com
-#dns.sse.cisco.com
-#d.adguard-dns.com
-#dns.adguard-dns.com
-#dns-unfiltered.adguard.com
-#dns.twnic.tw
-#public.dns.iij.jp
-#dns.google
-#cloudflare-dns.com
-#doh.dns.sb
-#doh.sb
-#dns.sb
-#jp-nrt.doh.sb
-#in-blr.doh.sb
-#au-syd.doh.sb
-#ca-yyz.doh.sb
-#dns.quad9.net
-#dns9.quad9.net
-#common.dot.dns.yandex.net
-#doh.pub
-#dns.alidns.com
-  # 邮件客户端
+# 邮件客户端
 imap.139.com
 smtp.139.com
 imap.wo.cn
@@ -259,71 +215,8 @@ imap-189.21cn.com
 smtp-189.21cn.com
 imap.mail.10086.cn
 smtp.mail.10086.cn
-  # 客户端 IP 是回环地址
+# 客户端 IP 是回环地址
 +.upaiyun.com
-  # 全球-泛播域名地址
-#+.cloudflare.com
-#+.i-gcloud.com
-#+.visa.com
-#+.visa.com.sg
-#+.visa.com.hk
-#+.visa.com.tw
-#+.visa.co.jp
-#+.visakorea.com
-#+.goc.gov.qa
-#+.gov.se
-#+.gov.ua
-#+.visaeurope.ch
-#+.visasoutheasteurope.com
-#+.visakorea.com
-#+.ip.sb
-#+.time.is
-#+.icook.hk
-#+.icook.tw
-#+.singapore.com
-#+.skk.moe
-#+.fbi.gov
-#+.zsu.gov.ua
-#+.4chan.org
-#+.digitalocean.com
-#+.wto.org
-#+.glassdoor.com
-#+.d-555.com
-#+.baipiao.eu.org
-#+.boba88slot.com
-#+.iakeys.com
-#+.whatismyip.com
-#+.hugedomains.com
-#+.russia.com
-#+.japan.com
-#+.dynadot.com
-#+.thaigov.go.th
-#+.whoer.net
-#+.discovery.cathaypacific.com
-#+.intertek.com
-#+.p.wpml.org
-#+.research.polyu.edu.hk
-#+.fliphtml5.com eneba.com
-#+.teddy.automizely.com
-#+.money18.on.cc
-#+.zennolab.com
-#+.mm-cg.com
-#+.support.shopcider.com
-#+.help.bricklink.com
-#+.support.travelpayouts.com
-#+.oklink.com
-#+.ca.store.bambulab.com
-#+.store.blackview.hk
-#+.intertek.com
-#+.lalamove.com
-#+.dlink.com
-# 其他
-+.16583.xyz
-+.87638756.xyz
-+.87568763.xyz
-#+.CMLiussss.net
-#+.hw.090227.xyz
-#+.fxxk.dedyn.io
 +.martianwallet.xyz
 +.speedtest.cn
 +.coloros.com
