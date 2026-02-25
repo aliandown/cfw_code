@@ -1,7 +1,12 @@
 payload:
   # 国外DNS解析
   - DOMAIN,dns.nextdns.io
-  - DOMAIN,doh-sg.blahdns.com
+  - DOMAIN-SUFFIX,dns.nextdns.io
+  - IP-CIDR,45.90.28.0/32,no-resolve
+  - IP-CIDR,45.90.30.0/32,no-resolve
+  - IP-CIDR,45.90.28.142/32,no-resolve
+  - IP-CIDR,45.90.30.142/32,no-resolve
+  # Cloudflare DNS
   - DOMAIN,1dot1dot1dot1.cloudflare-dns.com
   - DOMAIN,one.one.one.one
   - DOMAIN,chrome.cloudflare-dns.com
@@ -12,9 +17,11 @@ payload:
   - DOMAIN,security.cloudflare-dns.com
   - IP-CIDR,1.1.1.1/32,no-resolve
   - IP-CIDR,1.0.0.1/32,no-resolve
+  # iij.jp DNS
   - DOMAIN,public.dns.iij.jp
   - IP-CIDR,103.2.57.5/32,no-resolve
   - IP-CIDR,103.2.57.6/32,no-resolve
+  # DNS.SB DNS
   - DOMAIN,dot.sb
   - DOMAIN,doh.sb
   - DOMAIN,dns.sb
@@ -37,39 +44,80 @@ payload:
   - DOMAIN,ru-mow.doh.sb
   - DOMAIN,ca-yyz.doh.sb
   - DOMAIN,de-ber.doh.sb
+  - DOMAIN-SUFFIX,doh.sb
+  - DOMAIN-SUFFIX,dns.sb
   - IP-CIDR,185.184.222.222/32,no-resolve
   - IP-CIDR,185.222.222.222/32,no-resolve
   - IP-CIDR,45.11.45.11/32,no-resolve
+  # Google Public DNS
   - DOMAIN,dns.google
   - DOMAIN,dns.google.com
   - DOMAIN,8888.google
   - IP-CIDR,8.8.4.4/32,no-resolve
   - IP-CIDR,8.8.8.8/32,no-resolve
+  # Twnic TW DNS
   - DOMAIN,dns.twnic.tw
   - IP-CIDR,101.101.101.101/32,no-resolve
   - IP-CIDR,101.102.103.104/32,no-resolve
+  # Quad9 DNS
   - DOMAIN,dns.quad9.net
   - DOMAIN,dns10.quad9.net
   - DOMAIN,dns11.quad9.net
   - DOMAIN,dns9.quad9.net
+  - DOMAIN-SUFFIX,quad9.net
   - IP-CIDR,9.9.9.9/32,no-resolve
   - IP-CIDR,149.112.112.112/32,no-resolve
   - IP-CIDR,149.112.112.11/32,no-resolve
   - IP-CIDR,149.112.112.10/32,no-resolve
+  # Cisco OpenDNS DNS
   - DOMAIN,doh.opendns.com
   - DOMAIN,dns.umbrella.com
   - DOMAIN,dns.sse.cisco.com
+  - DOMAIN,doh-sg.blahdns.com
   - DOMAIN,doh-de.blahdns.com
   - DOMAIN,doh-fi.blahdns.com
   - DOMAIN,doh-jp.blahdns.com
+  - DOMAIN-SUFFIX,blahdns.com
   - IP-CIDR,208.67.220.220/32,no-resolve
   - IP-CIDR,208.67.222.222/32,no-resolve
+  # AdGuard DNS
   - DOMAIN,dns.adguard-dns.com
   - DOMAIN,unfiltered.adguard-dns.com
   - IP-CIDR,94.140.14.14/32,no-resolve
   - IP-CIDR,94.140.14.15/32,no-resolve
   - IP-CIDR,94.140.15.15/32,no-resolve
   - IP-CIDR,94.140.15.16/32,no-resolve
+  # Yandex DNS
+  - DOMAIN,doh.yandex.net
+  - DOMAIN,dns.yandex.net
+  - IP-CIDR,77.88.8.1/32,no-resolve
+  - IP-CIDR,77.88.8.8/32,no-resolve
+  # CleanBrowsing DNS
+  - DOMAIN,doh.cleanbrowsing.org
+  - DOMAIN,security-filter-dns.cleanbrowsing.org
+  - IP-CIDR,185.228.168.9/32,no-resolve
+  - IP-CIDR,185.228.169.9/32,no-resolve
+  # jp.tiar.app DNS
+  - DOMAIN,jp.tiar.app
+  - DOMAIN,jp.tiarap.org
+  - IP-CIDR,172.104.93.80/32,no-resolve
+  #  Comodo Secure DNS 
+  - DOMAIN,dns.comodo.com
+  - DOMAIN,doh.comodo.com
+  - IP-CIDR,8.26.56.26/32,no-resolve
+  # DNS.WATCH DNS
+  - DOMAIN,dns.watch
+  - IP-CIDR,84.200.69.80/32,no-resolve
+  # Block malware DNS
+  - DOMAIN,freedns.controld.com
+  - DOMAIN,p1.freedns.controld.com
+  - IP-CIDR,76.76.2.1/32,no-resolve
+  # DeCloudUs DNS
+  - DOMAIN,dns.decloudus.com
+  - IP-CIDR,78.47.212.211/32,no-resolve
+  # Mullvad DNS
+  - DOMAIN,dns.mullvad.net
+  # 其他 DNS
   - DOMAIN,adblock.mydns.network
   - DOMAIN,applied-privacy.net
   - DOMAIN,dns-nyc.aaflalo.me
@@ -83,7 +131,6 @@ payload:
   - DOMAIN,dns.flatuslifir.is
   - DOMAIN,dns.hostux.net
   - DOMAIN,dns.keweon.center
-  - DOMAIN,dns.nextdns.io
   - DOMAIN,dns.surfshark.com
   - DOMAIN,doh.42l.fr
   - DOMAIN,doh.armadillodns.net
@@ -103,8 +150,6 @@ payload:
   - DOMAIN,doh.qis.io
   - DOMAIN,doh.seby.io
   - DOMAIN,doh.securedns.eu
-  - DOMAIN,doh.tiar.app
-  - DOMAIN,doh.tiarap.org
   - DOMAIN,doh.westus.pi-dns.com
   - DOMAIN,doh.xfinity.com
   - DOMAIN,dohdot.coxlab.net
@@ -113,15 +158,12 @@ payload:
   - DOMAIN,ibksturm.synology.me
   - DOMAIN,ibuki.cgnat.net
   - DOMAIN,jcdns.fun
-  - DOMAIN,jp.tiar.app
-  - DOMAIN,jp.tiarap.org
   - DOMAIN,odvr.nic.cz
   - DOMAIN,ordns.he.net
   - DOMAIN,private.canadianshield.cira.ca
   - DOMAIN,protected.canadianshield.cira.ca
   - DOMAIN,rdns.faelix.net
   - DOMAIN,sdns.233py.com
-  - DOMAIN,security-filter-dns.cleanbrowsing.org
   - IP-CIDR,12.159.2.159/32,no-resolve
   - IP-CIDR,136.243.69.38/32,no-resolve
   - IP-CIDR,176.103.130.130/32,no-resolve
