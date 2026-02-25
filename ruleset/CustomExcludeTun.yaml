@@ -106,7 +106,7 @@ payload:
   - DOMAIN-KEYWORD,jdpay
   - DOMAIN-KEYWORD,baitiao
   - DOMAIN-KEYWORD,jingdong
-  - IP-ASN,133481
+  - IP-ASN,133481,no-resolve
 
   # ==== 📊 同花顺 (10jqka / iFinD) ====
   # 进程分流 (Android)
@@ -134,7 +134,7 @@ payload:
   - DOMAIN-SUFFIX,998000.com
   - DOMAIN-SUFFIX,itdh.com.cn
   # 自治系统兜底 (ASN)
-  - IP-ASN,58519
+  - IP-ASN,58519,no-resolve
   # 🔑 关键词 (兜底防漏网)
   - DOMAIN-KEYWORD,10jqka
   - DOMAIN-KEYWORD,ifind
@@ -299,7 +299,7 @@ payload:
   - DOMAIN-REGEX,(?i)(^|\\.)doc\\.quark\\.cn$
   - DOMAIN-REGEX,(?i)(^|\\.)image\\.quark\\.cn$
   # ===== ASN（后端基本都在阿里系 ASN 上）=====
-  - IP-ASN,37963
+  - IP-ASN,37963,no-resolve
 
   # 星辉
   - DOMAIN-REGEX,^svs0a13sd\.
