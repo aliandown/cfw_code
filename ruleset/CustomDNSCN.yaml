@@ -1,16 +1,19 @@
 payload:
   # 阿里DNS
-  - DOMAIN-SUFFIX,dns.alidns.com
+  - DOMAIN,dns.alidns.com
+  - DOMAIN,doh.alidns.com
   - IP-CIDR,223.5.5.5/32,no-resolve
   - IP-CIDR,223.6.6.6/32,no-resolve
-  - IP-CIDR,1.12.12.12/32,no-resolve
-  - IP-CIDR,1.12.12.21/32,no-resolve
-  - IP-CIDR,120.53.53.53/32,no-resolve
   - IP-CIDR6,2400:3200::1/128,no-resolve
   - IP-CIDR6,2400:3200:baba::1/128,no-resolve
   # 腾讯DNS
-  - DOMAIN-SUFFIX,doh.pub
-  - DOMAIN-SUFFIX,dot.pub
+  - DOMAIN,dns.pub
+  - DOMAIN,doh.pub
+  - DOMAIN,dot.pub
+  - DOMAIN,sm2.doh.pub
+  - IP-CIDR,1.12.12.12/32,no-resolve
+  - IP-CIDR,1.12.12.21/32,no-resolve
+  - IP-CIDR,120.53.53.53/32,no-resolve
   - IP-CIDR,119.29.29.29/32,no-resolve
   - IP-CIDR,119.28.28.28/32,no-resolve
   - IP-CIDR6,2402:4e00::/128,no-resolve
@@ -22,12 +25,34 @@ payload:
   - IP-CIDR,114.114.114.110/32,no-resolve
   - IP-CIDR,114.114.115.110/32,no-resolve
   # 百度DNS
+  - DOMAIN,dns.baidu.com
   - IP-CIDR,180.76.76.76/32,no-resolve
   # 360 DNS
-  - DOMAIN-SUFFIX,doh.360.cn
+  - DOMAIN,doh.360.cn
+  - DOMAIN,dot.360.cn
   - IP-CIDR,101.226.4.6/32,no-resolve
+  - IP-CIDR,218.30.118.6/32,no-resolve
   - IP-CIDR,123.125.81.6/32,no-resolve
-  - IP-CIDR,101.226.4.6/32,no-resolve
-  - IP-CIDR,101.226.4.6/32,no-resolve
+  - IP-CIDR,140.207.198.6/32,no-resolve
   - IP-CIDR6,2400:8800:1::6/128,no-resolve
   - IP-CIDR6,2400:8800:2::6/128,no-resolve
+  # 字节跳动 DNS
+  - IP-CIDR,180.184.1.1/32,no-resolve
+  - IP-CIDR,180.184.2.2/32,no-resolve
+  # 运营商 DNS
+  - DOMAIN,dns.10086.cn
+  - DOMAIN,dns.10010.com
+  - DOMAIN,dns.189.cn
+  # 其他 DNS
+  - DOMAIN,dns.cernet.cn
+  - DOMAIN,dns.ctc.edu.cn
+  - DOMAIN,doh.alidns.com
+  - DOMAIN,doh.pubdns.cn
+  - DOMAIN,dns.knet.cn
+  - DOMAIN,dns.114dns.com
+  - DOMAIN,dns.114dns.cn
+  - DOMAIN,dns.tuna.tsinghua.edu.cn
+  - DOMAIN,dns.tencent.com
+  - DOMAIN,dns.wechat.com
+  - DOMAIN,dns.huaweicloud.com
+  - DOMAIN,dns.aliyun.com
