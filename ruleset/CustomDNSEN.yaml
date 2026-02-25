@@ -1,5 +1,6 @@
 payload:
   # 国外DNS解析
+  # Nextdns DNS
   - DOMAIN,dns.nextdns.io
   - DOMAIN-SUFFIX,dns.nextdns.io
   - IP-CIDR,45.90.28.0/32,no-resolve
