@@ -55,3 +55,5 @@ payload:
   - DOMAIN-SUFFIX,ffe390afd658c19dcbf707e0597b846d.de
   - DOMAIN,ca.turing.captcha.qcloud.com
   - DOMAIN,server.blockchain-ads.com
+  - DOMAIN,ssl.pstatic.net
+  - DOMAIN,wcs.naver.net
