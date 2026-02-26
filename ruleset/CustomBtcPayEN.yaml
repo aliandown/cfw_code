@@ -31,6 +31,7 @@ payload:
   - DOMAIN-SUFFIX,rtcplus.com
   - DOMAIN-SUFFIX,byteplusapi.com
   - DOMAIN-SUFFIX,bytepluscdn.com
+  - DOMAIN-SUFFIX,zylj1cf.com
   - DOMAIN,api.lab.amplitude.com
   # BYBIT加密交易所
   - DOMAIN-KEYWORD,bybit
