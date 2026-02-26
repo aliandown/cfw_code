@@ -23,9 +23,6 @@ payload:
   - DOMAIN-SUFFIX,mypikpak.net
   - DOMAIN-SUFFIX,pikpakdrive.com
   # 成人视频网站
-  - DOMAIN-SUFFIX,njav.tv
-  - DOMAIN-SUFFIX,javplayer.me
-  - DOMAIN-SUFFIX,jable.tv
   - DOMAIN-SUFFIX,mushroomtrack.com
   - DOMAIN-SUFFIX,missav.com
   # xvideo 服务器IP范围
@@ -41,12 +38,21 @@ payload:
   - DOMAIN-SUFFIX,jable.tv
   - DOMAIN-SUFFIX,thedayweplay.lol
   - DOMAIN-SUFFIX,javplayer.me
+  - DOMAIN-KEYWORD,njav
+  - DOMAIN-KEYWORD,jable
+  - DOMAIN-KEYWORD,javplayer
+  # javday
+  - DOMAIN-SUFFIX,javday.app
+  - DOMAIN-SUFFIX,javday.homes
+  - DOMAIN-SUFFIX,javday.tv
+  - DOMAIN-KEYWORD,javday
   # ssjx666.top
-  - DOMAIN-KEYWORD,ssjx666
   - DOMAIN-SUFFIX,ssjx666.top
   - DOMAIN-SUFFIX,ssjx666.net
+  - DOMAIN-KEYWORD,ssjx666
   # javmost.com
   - DOMAIN-SUFFIX,javmost.com
+  - DOMAIN-KEYWORD,javmost
   - DOMAIN-SUFFIX,findjav.com
   - DOMAIN-SUFFIX,mostplayer.com
   - DOMAIN-SUFFIX,neospark47.site
@@ -73,5 +79,3 @@ payload:
   - DOMAIN-SUFFIX,ssl.p.jwpcdn.com
   #- DOMAIN-SUFFIX,echopeak28.space
   - DOMAIN-SUFFIX,cloudflare-terms-of-service-abuse.com
-  - DOMAIN-SUFFIX,.space
-  - DOMAIN-SUFFIX,.store
