@@ -57,3 +57,7 @@ payload:
   - DOMAIN,server.blockchain-ads.com
   - DOMAIN,ssl.pstatic.net
   - DOMAIN,wcs.naver.net
+  - DOMAIN,pixel.coolretargeting.com
+  - DOMAIN,scripts.coolretargeting.com
+  - DOMAIN,mc.yandex.com
+  - DOMAIN,mc.yandex.ru
