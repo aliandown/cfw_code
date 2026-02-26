@@ -25,7 +25,7 @@ payload:
   - DOMAIN-SUFFIX,walletconnect.org
   - DOMAIN-SUFFIX,binance.vision
   # 欧易加密交易所
-  #- DOMAIN-KEYWORD,okx
+  - DOMAIN-KEYWORD,okx
   - DOMAIN-SUFFIX,okx.com
   - DOMAIN-SUFFIX,onesignal.com
   - DOMAIN-SUFFIX,rtcplus.com
