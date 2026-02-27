@@ -1,3 +1,7 @@
 payload:
   # 网易游戏
   - DOMAIN-SUFFIX,netease.com
+  # Raid
+  - DOMAIN-SUFFIX,x-plarium.com
+  - DOMAIN-SUFFIX,plrm.zone
+  - DOMAIN-KEYWORD,plarium
