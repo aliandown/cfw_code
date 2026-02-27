@@ -1,3 +1,6 @@
 payload:
+  # 数据分析平台 以下解决部分域名规则分类
+  - DOMAIN-SUFFIX,appsflyer.com
+  - DOMAIN-SUFFIX,appsflyersdk.com
   # 加快解析
   - DOMAIN-SUFFIX,elevenfamilies.com
