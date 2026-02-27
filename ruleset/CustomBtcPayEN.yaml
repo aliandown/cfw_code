@@ -46,9 +46,9 @@ payload:
   - DOMAIN-SUFFIX,bybdc6.com
   - DOMAIN-SUFFIX,byabcde.com
   - DOMAIN-SUFFIX,wsot2022.com
-  - DOMAIN,static.geetest.com
-  - DOMAIN,gcaptcha4.geetest.com
-  - DOMAIN-SUFFIX,appsflyersdk.com
+  #- DOMAIN,static.geetest.com
+  #- DOMAIN,gcaptcha4.geetest.com
+  #- DOMAIN-SUFFIX,appsflyersdk.com
   - DOMAIN-SUFFIX,ng-dex.com
   - DOMAIN-SUFFIX,creativecdn.com
   - DOMAIN-SUFFIX,mgid.com
