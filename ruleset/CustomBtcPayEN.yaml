@@ -1,4 +1,12 @@
 payload:
+  # mitrade.com
+  - DOMAIN-SUFFIX,mytd.cc
+  - DOMAIN-SUFFIX,openfpcdn.io
+  - DOMAIN-SUFFIX,migrowthlab.com
+  - DOMAIN-SUFFIX,mistorebox.com
+  - DOMAIN-SUFFIX,mizoneservice.com
+  - DOMAIN-SUFFIX,mitrade.com
+  - DOMAIN-KEYWORD,mitrade
   # ebpay
   - DOMAIN-KEYWORD,ebpay
   - DOMAIN-SUFFIX,hllzy.com
