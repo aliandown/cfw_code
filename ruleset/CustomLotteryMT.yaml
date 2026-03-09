@@ -72,7 +72,7 @@ payload:
   # 龙行体育
   - DOMAIN,cloudcontrol.rong-edge.com
   - DOMAIN,collection.rong-edge.com
-  - DOMAIN-SUFFIX,dutils.com
+  #- DOMAIN-SUFFIX,dutils.com
   - DOMAIN-SUFFIX,jiaoict.com
   - DOMAIN-SUFFIX,bengvet.com
   - DOMAIN-SUFFIX,wdieijv.com
