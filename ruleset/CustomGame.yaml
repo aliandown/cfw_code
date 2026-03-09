@@ -4,7 +4,7 @@ payload:
   - IP-CIDR,172.188.25.0/24,no-resolve
   - IP-CIDR,4.145.98.0/24,no-resolve
   # Raid
-  - DOMAIN,cloud.unity3d.com
+  - DOMAIN-SUFFIX,cloud.unity3d.com
   - DOMAIN-SUFFIX,x-plarium.com
   - DOMAIN-SUFFIX,plrm.zone
   - DOMAIN-KEYWORD,plarium
