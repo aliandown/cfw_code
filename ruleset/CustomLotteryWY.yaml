@@ -184,12 +184,12 @@ payload:
   - DOMAIN-SUFFIX,51cywx.com
   - DOMAIN-SUFFIX,shuerwenhua.com
   # 皇冠网址视频直播CND解析
-  #- DOMAIN-SUFFIX,192939.top
-  #- DOMAIN-SUFFIX,glivesport.com
-  #- DOMAIN-SUFFIX,insportdata.com
-  #- DOMAIN-SUFFIX,geniussports.com
-  #- DOMAIN-SUFFIX,imgarena.com
-  #- DOMAIN-SUFFIX,performfeeds.com
+  - DOMAIN-SUFFIX,192939.top
+  - DOMAIN-SUFFIX,glivesport.com
+  - DOMAIN-SUFFIX,insportdata.com
+  - DOMAIN-SUFFIX,geniussports.com
+  - DOMAIN-SUFFIX,imgarena.com
+  - DOMAIN-SUFFIX,performfeeds.com
   # 皇冠网址下载程序
   - DOMAIN-SUFFIX,sportradar.com
   - DOMAIN-SUFFIX,niab12345.com
