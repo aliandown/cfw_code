@@ -190,6 +190,7 @@ payload:
   - DOMAIN-SUFFIX,geniussports.com
   - DOMAIN-SUFFIX,imgarena.com
   - DOMAIN-SUFFIX,performfeeds.com
+  - DOMAIN,gls.liveplugins.com
   # 皇冠网址下载程序
   - DOMAIN-SUFFIX,sportradar.com
   - DOMAIN-SUFFIX,niab12345.com
