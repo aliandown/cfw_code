@@ -2,7 +2,7 @@ payload:
   # 体育直播分发网络(CDN)平台
   #- DOMAIN-SUFFIX,unpkg.com
   #- DOMAIN-SUFFIX,cloudfront.net
-  - DOMAIN-KEYWORD,cdn001.akamaized
+  - DOMAIN-KEYWORD,cdn001
   # 纳米体育数据平台
   - DOMAIN-SUFFIX,nami.com
   - DOMAIN-SUFFIX,sportnanoapi.com
