@@ -3,6 +3,7 @@ payload:
   #- DOMAIN-SUFFIX,unpkg.com
   #- DOMAIN-SUFFIX,cloudfront.net
   #- DOMAIN-SUFFIX,akamaized.net
+  - DOMAIN-KEYWORD,cdn001
   # 纳米体育数据平台
   - DOMAIN-SUFFIX,nami.com
   - DOMAIN-SUFFIX,sportnanoapi.com
