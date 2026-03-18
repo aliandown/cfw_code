@@ -1,5 +1,16 @@
 # NAME: 自定义全球拉截
 payload:
+  # APKPure 广告域名拦截
+  - DOMAIN-SUFFIX,ads.apkpure.com,REJECT
+  - DOMAIN-SUFFIX,media.apkpure.com,REJECT
+  - DOMAIN-KEYWORD,apkpure-ads,REJECT
+  # 关联的 Google 广告系统 (APKPure 主要来源)
+  - DOMAIN-SUFFIX,googleads.g.doubleclick.net,REJECT
+  - DOMAIN-SUFFIX,pagead2.googlesyndication.com,REJECT
+  - DOMAIN-SUFFIX,adservice.google.com,REJECT
+  # 追踪与统计 (有助于减少开屏广告等待时间)
+  - DOMAIN-SUFFIX,app-measurement.com,REJECT
+  - DOMAIN-SUFFIX,crashlytics.com,REJECT
   # 东北大学测速网站 不可用
   - DOMAIN,speed4.neu6.edu.cn
   - DOMAIN,speed.neu6.edu.cn
