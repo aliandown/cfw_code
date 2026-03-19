@@ -5,3 +5,10 @@ payload:
   - DOMAIN-SUFFIX,dyneti.com
   - DOMAIN-SUFFIX,paypalobjects.com
   - DOMAIN-SUFFIX,paypal.com
+  # CoinGlass
+  - DOMAIN-SUFFIX,cg-capi.com
+  - DOMAIN-SUFFIX,cg-mapi.com
+  - DOMAIN-SUFFIX,coinglasscdn.com
+  - DOMAIN-SUFFIX,coinglass.com
+  - DOMAIN-SUFFIX,coinglass.io
+  - DOMAIN-KEYWORD,coinglass
