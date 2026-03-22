@@ -1,4 +1,7 @@
 payload:
+  # TradingView
+  - DOMAIN-SUFFIX,tradingview.com
+  - DOMAIN-KEYWORD,tradingview
   # mitrade.com
   - DOMAIN-SUFFIX,mytd.cc
   - DOMAIN-SUFFIX,openfpcdn.io
