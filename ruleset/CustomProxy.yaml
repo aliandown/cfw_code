@@ -24,6 +24,10 @@ payload:
   #- DOMAIN-SUFFIX,proton.me
   #- DOMAIN-SUFFIX,protonvpn.com
   #- DOMAIN-SUFFIX,vbar.fun
+  # 数据分析平台 以下解决部分域名规则分类
+  - DOMAIN-SUFFIX,appsflyer.com
+  - DOMAIN-SUFFIX,appsflyersdk.com
+  - DOMAIN-SUFFIX,zendesk.com
   # 国外软件下载网站
   - DOMAIN-SUFFIX,apkpure.com
   - DOMAIN-SUFFIX,apkcombo.com
