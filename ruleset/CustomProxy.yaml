@@ -25,6 +25,7 @@ payload:
   #- DOMAIN-SUFFIX,protonvpn.com
   #- DOMAIN-SUFFIX,vbar.fun
   # 数据分析平台 以下解决部分域名规则分类
+  - DOMAIN-SUFFIX,sentry.io
   - DOMAIN-SUFFIX,appsflyer.com
   - DOMAIN-SUFFIX,appsflyersdk.com
   - DOMAIN-SUFFIX,zendesk.com
