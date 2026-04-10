@@ -8,3 +8,4 @@ payload:
   - DOMAIN-SUFFIX,x-plarium.com
   - DOMAIN-SUFFIX,plrm.zone
   - DOMAIN-KEYWORD,plarium
+  - DOMAIN,o525885.ingest.sentry.io
