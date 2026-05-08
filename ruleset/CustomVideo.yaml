@@ -17,6 +17,7 @@ payload:
   - DOMAIN-KEYWORD,xvcams
   - DOMAIN-KEYWORD,javdb
   # 网盘云盘
+  - DOMAIN-SUFFIX,avgood.com
   - DOMAIN-SUFFIX,keepshare.org
   - DOMAIN-KEYWORD,pikpak
   - DOMAIN-SUFFIX,pikpak.me
