@@ -1,5 +1,6 @@
 payload:
   # 乐球体育
+  - IP-CIDR,52.223.63.121/32,no-resolve
   - IP-CIDR,119.3.253.130/32,no-resolve
   - IP-CIDR,159.75.187.127/32,no-resolve
   - IP-CIDR,110.41.63.167/32,no-resolve
