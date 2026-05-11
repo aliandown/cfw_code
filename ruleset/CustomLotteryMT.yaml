@@ -1,6 +1,11 @@
 payload:
   # 乐球体育
   - DOMAIN-KEYWORD,leqiu
+  - DOMAIN-KEYWORD,lq0
+  - DOMAIN-KEYWORD,lq1
+  - DOMAIN-KEYWORD,lq2
+  - DOMAIN-KEYWORD,lq3
+  - DOMAIN-KEYWORD,lq4
   - DOMAIN-KEYWORD,jk.
   - DOMAIN-KEYWORD,bf.
   - DOMAIN-KEYWORD,tj.
