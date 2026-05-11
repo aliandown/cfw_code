@@ -1,6 +1,4 @@
 payload:
-  # 乐球体育直播图片显示
-  - DOMAIN,bflives.qdmeron.com
   # 其他视频
   - DOMAIN-SUFFIX,pornhub.com
   - DOMAIN-SUFFIX,xhamster.com
