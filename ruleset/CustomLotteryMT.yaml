@@ -3,10 +3,13 @@ payload:
   - DOMAIN-KEYWORD,leqiu
   - DOMAIN-KEYWORD,jk.
   - DOMAIN-KEYWORD,bf.
+  - DOMAIN-KEYWORD,tj.
+  - DOMAIN-KEYWORD,mt.
+  - DOMAIN-KEYWORD,bflives.
+  - DOMAIN-KEYWORD,lqcos.
   - DOMAIN-SUFFIX,tq77.tv
   - DOMAIN-SUFFIX,tq66.cc
   - DOMAIN-SUFFIX,xdbx.top
-  
   # 龙行体育
   - DOMAIN,cloudcontrol.rong-edge.com
   - DOMAIN,collection.rong-edge.com
