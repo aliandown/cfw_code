@@ -22,6 +22,7 @@ payload:
   - DOMAIN-WILDCARD,*.jpush.io
   # 新球体育
   - DOMAIN,open.e.kuaishou.cn
+  - DOMAIN,open.e.kuaishou.com
   - DOMAIN,api.wxcjgg.cn
   - DOMAIN,adx-ad-prod.wkanx.com
   - DOMAIN,sdk.adx.adwangmai.com
