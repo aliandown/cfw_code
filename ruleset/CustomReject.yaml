@@ -4,8 +4,7 @@ payload:
   - DOMAIN-KEYWORD,-toutiao
   - DOMAIN-KEYWORD,open.e.kuaishou
   - DOMAIN-KEYWORD,pangolin-sdk.
-  - DOMAIN-KEYWORD,
-  - DOMAIN,sdk-track.
+  - DOMAIN-KEYWORD,sdk-track.
   - DOMAIN,toblog.ctobsnssdk.com
   # APKPure 广告域名拦截
   - DOMAIN-SUFFIX,ads.apkpure.com
