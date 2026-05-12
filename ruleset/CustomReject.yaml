@@ -6,6 +6,7 @@ payload:
   - DOMAIN-KEYWORD,pangolin-sdk.
   - DOMAIN-KEYWORD,sdk-track.
   - DOMAIN,toblog.ctobsnssdk.com
+  - DOMAIN,api.fu.xcultur.com
   # APKPure 广告域名拦截
   - DOMAIN-SUFFIX,ads.apkpure.com
   - DOMAIN-SUFFIX,media.apkpure.com
