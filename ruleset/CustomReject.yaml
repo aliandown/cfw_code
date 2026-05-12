@@ -1,5 +1,8 @@
 # NAME: 自定义全球拉截
 payload:
+  # 主流广告关键字拦截
+  - DOMAIN-KEYWORD,-toutiao
+  - DOMAIN-KEYWORD,open.e.kuaishou
   # APKPure 广告域名拦截
   - DOMAIN-SUFFIX,ads.apkpure.com
   - DOMAIN-SUFFIX,media.apkpure.com
