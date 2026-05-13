@@ -8,6 +8,8 @@ payload:
   - DOMAIN,toblog.ctobsnssdk.com
   - DOMAIN-KEYWORD,app.aishuttler
   - DOMAIN-KEYWORD,api.ssp.xcultur
+  - DOMAIN-KEYWORD,tnc3-alisc
+  - DOMAIN-KEYWORD,e.ruofeisinian
   # APKPure 广告域名拦截
   - DOMAIN-SUFFIX,ads.apkpure.com
   - DOMAIN-SUFFIX,media.apkpure.com
