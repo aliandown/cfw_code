@@ -1,6 +1,6 @@
 # NAME: 自定义全球拉截
 payload:
-  # 主流广告关键字拦截
+  # 球探网
   - DOMAIN-KEYWORD,-toutiao
   - DOMAIN-KEYWORD,open.e.kuaishou
   - DOMAIN-KEYWORD,pangolin-sdk.
@@ -8,7 +8,7 @@ payload:
   - DOMAIN,toblog.ctobsnssdk.com
   - DOMAIN-KEYWORD,app.aishuttler
   - DOMAIN-KEYWORD,api.ssp.xcultur
-  - DOMAIN-KEYWORD,tnc3-alisc
+  #- DOMAIN-KEYWORD,tnc3-alisc
   - DOMAIN-KEYWORD,e.ruofeisinian
   # APKPure 广告域名拦截
   - DOMAIN-SUFFIX,ads.apkpure.com
