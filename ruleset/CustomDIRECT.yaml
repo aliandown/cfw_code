@@ -82,6 +82,7 @@ payload:
   #- DOMAIN-SUFFIX,1xbet.com
   #- DOMAIN-KEYWORD,1xbet
   # 微软网址
+  - DOMAIN-SUFFIX,msedge.net
   #- DOMAIN-KEYWORD,-msedge.net
   #- DOMAIN-SUFFIX,live.com
   # 小米电视APP
