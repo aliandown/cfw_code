@@ -72,8 +72,8 @@ payload:
   - DOMAIN,sf3-fe-tos.pglstatp-toutiao.com
   - DOMAIN,t-dsp.pinduoduo.com
   # 星星体育
-  - DOMAIN-SUFFIX,besget.com
-  - DOMAIN,mssdk.volces.com
+  #- DOMAIN-SUFFIX,besget.com
+  #- DOMAIN,mssdk.volces.com
   - DOMAIN-SUFFIX,puata.info
   - DOMAIN,mssdk-bu.bytedance.com
   - DOMAIN-SUFFIX,puata.info
