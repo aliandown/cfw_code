@@ -63,7 +63,6 @@ payload:
   - DOMAIN-SUFFIX,letvcdn.com
   - DOMAIN-SUFFIX,sina.com
   - DOMAIN-SUFFIX,sohu.com
-
   # 京东中国 / 京东金融 规则集 (ClashMeta)
   # ==== 进程 ====
   - PROCESS-NAME,com.jd.app.mall
@@ -107,7 +106,6 @@ payload:
   - DOMAIN-KEYWORD,baitiao
   - DOMAIN-KEYWORD,jingdong
   - IP-ASN,133481,no-resolve
-
   # ==== 📊 同花顺 (10jqka / iFinD) ====
   # 进程分流 (Android)
   - PROCESS-NAME,com.hexin.plat.android
@@ -141,7 +139,6 @@ payload:
   - DOMAIN-KEYWORD,hexin
   - DOMAIN-KEYWORD,ths
   - DOMAIN-KEYWORD,thskline
-
   # 📈 平安证券 Ping An Securities
   - PROCESS-NAME,com.pingan.securities
   - PROCESS-NAME,com.pingan.mobile.stock
@@ -158,7 +155,6 @@ payload:
   - DOMAIN-KEYWORD,pingansec
   - DOMAIN-KEYWORD,pinganstock
   - DOMAIN-KEYWORD,pingan
-
   # 💹 东方财富 Eastmoney
   - PROCESS-NAME,com.eastmoney.android.berlin
   - PROCESS-NAME,com.eastmoney.android.berlinlite
@@ -182,7 +178,6 @@ payload:
   - DOMAIN-KEYWORD,dfcf
   - DOMAIN-KEYWORD,dfcfw
   - DOMAIN-KEYWORD,emdata
-
   # 中国主要银行规则集 (ClashMeta)
   # 🏦 中国建设银行 (CCB)
   - PROCESS-NAME,com.china.ccb.mbank
@@ -197,7 +192,6 @@ payload:
   - DOMAIN-SUFFIX,creditcard.ccb.com
   - DOMAIN-SUFFIX,ccblogin.ccb.com
   - DOMAIN-KEYWORD,ccb
-
   # 🏦 中国工商银行 (ICBC)
   - PROCESS-NAME,com.icbc
   - PROCESS-NAME,com.icbc.elife
@@ -213,7 +207,6 @@ payload:
   - DOMAIN-SUFFIX,epass.icbc.com.cn
   - DOMAIN-SUFFIX,creditcard.icbc.com.cn
   - DOMAIN-KEYWORD,icbc
-
   # 🏦 平安银行 (PINGAN)
   - PROCESS-NAME,com.pingan.pabank
   - PROCESS-NAME,com.pingan.creditcard
@@ -252,7 +245,6 @@ payload:
   - DOMAIN-KEYWORD,cmbchina
   - DOMAIN-KEYWORD,cmblife
   - DOMAIN-KEYWORD,cmb
-
   # ==== 👮交管12123 ====
   - PROCESS-NAME,com.tmri.app.main
   - PROCESS-NAME,com.tmri.app
@@ -270,7 +262,6 @@ payload:
   - DOMAIN-KEYWORD,jtgj
   - DOMAIN-KEYWORD,gongan
   - DOMAIN-KEYWORD,mps
-
   # 💿 夸克进程名（Android / TV / PC）
   - PROCESS-NAME,com.quark.browser
   - PROCESS-NAME,com.quark.clouddrive
@@ -300,7 +291,6 @@ payload:
   - DOMAIN-REGEX,(?i)(^|\\.)image\\.quark\\.cn$
   # ===== ASN（后端基本都在阿里系 ASN 上）=====
   - IP-ASN,37963,no-resolve
-
   # 星辉
   - DOMAIN-REGEX,^svs0a13sd\.
   - DOMAIN-KEYWORD,svs0a13sd
