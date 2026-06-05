@@ -1,7 +1,13 @@
 # NAME: 自定义全球拉截
 payload:
   # 球探网
+  - DOMAIN-KEYWORD,api.beizi.
+  - DOMAIN-KEYWORD,track.beizi.
+  - DOMAIN-KEYWORD,track-cn.
   - DOMAIN-KEYWORD,-toutiao.
+  - DOMAIN-KEYWORD,-toutiao1.
+  - DOMAIN-KEYWORD,-toutiao2.
+  - DOMAIN-KEYWORD,-toutiao3.
   - DOMAIN-KEYWORD,open.e.kuaishou.
   - DOMAIN-KEYWORD,pangolin-sdk.
   - DOMAIN-KEYWORD,sdk-track.
@@ -10,7 +16,7 @@ payload:
   - DOMAIN-KEYWORD,api.ssp.xcultur
   - DOMAIN-KEYWORD,.pull.etoote.
   - DOMAIN-KEYWORD,.pull.yximgs.
-  - DOMAIN-KEYWORD,g-api.kwai.
+  - DOMAIN-KEYWORD,g-api.
   #- DOMAIN-KEYWORD,tnc3-alisc
   - DOMAIN-KEYWORD,e.ruofeisinian
   # APKPure 广告域名拦截
