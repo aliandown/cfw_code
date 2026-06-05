@@ -1,6 +1,7 @@
 # NAME: 自定义全球拉截
 payload:
   # 球探网
+  - DOMAIN-KEYWORD,httpdns.
   - DOMAIN-KEYWORD,api.beizi.
   - DOMAIN-KEYWORD,track.beizi.
   - DOMAIN-KEYWORD,track-cn.
