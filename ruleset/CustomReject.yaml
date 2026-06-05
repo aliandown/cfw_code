@@ -1,6 +1,13 @@
 # NAME: 自定义全球拉截
 payload:
   # 球探网
+  - DOMAIN-KEYWORD,fu.xcultur.
+  - DOMAIN-KEYWORD,ssp.xcultur.
+  - DOMAIN-KEYWORD,ag.xcultur.
+  - DOMAIN-KEYWORD,track.xcultur.
+  - DOMAIN-KEYWORD,ad.xcultur.
+  - DOMAIN-KEYWORD,-bjlgy.
+  - DOMAIN-KEYWORD,dsp-api-cn.
   - DOMAIN-KEYWORD,httpdns.
   - DOMAIN-KEYWORD,api.beizi.
   - DOMAIN-KEYWORD,track.beizi.
