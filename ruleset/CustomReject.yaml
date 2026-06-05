@@ -4,6 +4,7 @@ payload:
   - DOMAIN-KEYWORD,-gtc.
   - DOMAIN-KEYWORD,-conf.
   - DOMAIN-KEYWORD,-static.oss-
+  - DOMAIN-KEYWORD,toblog.
   - DOMAIN-KEYWORD,track.statisticslinks.
   - DOMAIN-KEYWORD,event.statisticslinks.
   - DOMAIN-KEYWORD,datk.statisticslinks.
