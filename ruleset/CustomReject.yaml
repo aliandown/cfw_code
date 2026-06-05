@@ -35,7 +35,7 @@ payload:
   - DOMAIN-KEYWORD,.pull.etoote.
   - DOMAIN-KEYWORD,.pull.yximgs.
   - DOMAIN-KEYWORD,g-api.
-  #- DOMAIN-KEYWORD,-alisc
+  - DOMAIN-KEYWORD,-alisc
   - DOMAIN-KEYWORD,e.ruofeisinian
   # APKPure 广告域名拦截
   - DOMAIN-SUFFIX,ads.apkpure.com
