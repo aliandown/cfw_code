@@ -9,7 +9,8 @@ payload:
   - DOMAIN-KEYWORD,app.aishuttler
   - DOMAIN-KEYWORD,api.ssp.xcultur
   - DOMAIN-KEYWORD,.pull.etoote.com
-  - DOMAIN-KEYWORD,.yximgs.com
+  - DOMAIN-KEYWORD,.pull.yximgs.com
+  - DOMAIN-KEYWORD,g-api.kwai.com
   #- DOMAIN-KEYWORD,tnc3-alisc
   - DOMAIN-KEYWORD,e.ruofeisinian
   # APKPure 广告域名拦截
