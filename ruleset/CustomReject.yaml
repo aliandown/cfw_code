@@ -1,6 +1,14 @@
 # NAME: 自定义全球拉截
 payload:
   # 球探网
+  - DOMAIN-KEYWORD,track.statisticslinks.
+  - DOMAIN-KEYWORD,event.statisticslinks.
+  - DOMAIN-KEYWORD,datk.statisticslinks.
+  - DOMAIN-KEYWORD,jt-sdk-ios.
+  - DOMAIN-KEYWORD,jt-sdk-android.
+  - DOMAIN-KEYWORD,.tuia.cn
+  - DOMAIN-KEYWORD,event.dashisx.
+  - DOMAIN-KEYWORD,api.dashisx.
   - DOMAIN-KEYWORD,fu.xcultur.
   - DOMAIN-KEYWORD,ssp.xcultur.
   - DOMAIN-KEYWORD,ag.xcultur.
