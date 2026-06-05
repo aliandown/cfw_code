@@ -1,15 +1,15 @@
 # NAME: 自定义全球拉截
 payload:
   # 球探网
-  - DOMAIN-KEYWORD,-toutiao
-  - DOMAIN-KEYWORD,open.e.kuaishou
+  - DOMAIN-KEYWORD,-toutiao.
+  - DOMAIN-KEYWORD,open.e.kuaishou.
   - DOMAIN-KEYWORD,pangolin-sdk.
   - DOMAIN-KEYWORD,sdk-track.
-  - DOMAIN,toblog.ctobsnssdk.com
+  - DOMAIN,toblog.ctobsnssdk.
   - DOMAIN-KEYWORD,app.aishuttler
   - DOMAIN-KEYWORD,api.ssp.xcultur
-  - DOMAIN-KEYWORD,.pull.etoote.com
-  - DOMAIN-KEYWORD,.pull.yximgs.com
+  - DOMAIN-KEYWORD,.pull.etoote.
+  - DOMAIN-KEYWORD,.pull.yximgs.
   - DOMAIN-KEYWORD,g-api.kwai.
   #- DOMAIN-KEYWORD,tnc3-alisc
   - DOMAIN-KEYWORD,e.ruofeisinian
