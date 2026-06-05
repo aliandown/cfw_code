@@ -1,6 +1,8 @@
 # NAME: 自定义全球拉截
 payload:
   # 球探网
+  - DOMAIN-KEYWORD,-gtc.
+  - DOMAIN-KEYWORD,-conf.
   - DOMAIN-KEYWORD,track.statisticslinks.
   - DOMAIN-KEYWORD,event.statisticslinks.
   - DOMAIN-KEYWORD,datk.statisticslinks.
