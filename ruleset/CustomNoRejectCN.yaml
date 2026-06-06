@@ -16,14 +16,14 @@ payload:
   # 微软
   - DOMAIN-SUFFIX,app.adjust.com
   # 雷速体育
-  - DOMAIN-SUFFIX,httpdns.yunxindns.com
+  #- DOMAIN-SUFFIX,httpdns.yunxindns.com
   # 抖音
   #- DOMAIN-SUFFIX,pglstatp-toutiao.com
-  - DOMAIN-SUFFIX,minigame5-normal-hl.zijieapi.com
-  - DOMAIN,dig.bdurl.net
-  - DOMAIN,ad.zijieapi.com
+  #- DOMAIN-SUFFIX,minigame5-normal-hl.zijieapi.com
+  #- DOMAIN,dig.bdurl.net
+  #- DOMAIN,ad.zijieapi.com
   # 快手
-   - DOMAIN-SUFFIX,kskwai.com
-   - DOMAIN-SUFFIX,api.kwaizt.com
-   - DOMAIN-SUFFIX,adukwai.com
-   - DOMAIN-SUFFIX,adkwai.com
+  #- DOMAIN-SUFFIX,kskwai.com
+  #- DOMAIN-SUFFIX,api.kwaizt.com
+  #- DOMAIN-SUFFIX,adukwai.com
+  #- DOMAIN-SUFFIX,adkwai.com
