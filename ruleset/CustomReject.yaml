@@ -2,7 +2,7 @@
 payload:
   # 球探网
   - DOMAIN-KEYWORD,ads.
-  - DOMAIN-KEYWORD,ad.
+  #- DOMAIN-KEYWORD,ad.
   - DOMAIN-KEYWORD,adx.
   - DOMAIN-KEYWORD,-gtc.
   - DOMAIN-KEYWORD,-conf.
