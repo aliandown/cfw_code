@@ -15,7 +15,6 @@ payload:
   - DOMAIN-KEYWORD,xvcams
   - DOMAIN-KEYWORD,javdb
   # 网盘云盘
-  
   - DOMAIN-SUFFIX,keepshare.org
   - DOMAIN-KEYWORD,pikpak
   - DOMAIN-SUFFIX,pikpak.me
@@ -26,7 +25,7 @@ payload:
   - DOMAIN-SUFFIX,mushroomtrack.com
   - DOMAIN-SUFFIX,missav.com
   # avgood.com
-  - DOMAIN-SUFFIX,avgood.com
+  - DOMAIN-SUFFIX,dmm.co.jp
   - DOMAIN-SUFFIX,googlie.vip
   # bestjavporn.com
   - DOMAIN-SUFFIX,expiring-soon.help
