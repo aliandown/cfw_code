@@ -19,7 +19,7 @@ payload:
   - DOMAIN-SUFFIX,tq77.tv
   - DOMAIN-SUFFIX,tq66.cc
   - DOMAIN-SUFFIX,xdbx.top
-  # 龙行体育
+  - DOMAIN-SUFFIX,hylivedo.com
   - DOMAIN,cloudcontrol.rong-edge.com
   - DOMAIN,collection.rong-edge.com
   #- DOMAIN-SUFFIX,dutils.com
