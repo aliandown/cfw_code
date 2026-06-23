@@ -1,4 +1,10 @@
 payload:
+  # APKpure
+  - DOMAIN-SUFFIX,winudf.com
+  - DOMAIN-SUFFIX,pureapk.com
+  - DOMAIN-SUFFIX,cdnpure.com
+  - DOMAIN,api.myadsget.com
+  # 其他下载
   - PROCESS-NAME,v2ray
   - PROCESS-NAME,xray
   - PROCESS-NAME,naive
