@@ -1,4 +1,5 @@
 payload:
+  - DOMAIN,download.cdnpure.com
   - PROCESS-NAME,v2ray
   - PROCESS-NAME,xray
   - PROCESS-NAME,naive
