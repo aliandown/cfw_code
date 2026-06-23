@@ -1,5 +1,6 @@
 payload:
   # APKpure
+  - DOMAIN-SUFFIX,apkpure.com
   - DOMAIN-SUFFIX,winudf.com
   - DOMAIN-SUFFIX,pureapk.com
   - DOMAIN-SUFFIX,cdnpure.com
