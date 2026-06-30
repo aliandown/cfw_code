@@ -66,6 +66,7 @@ payload:
   - DOMAIN-SUFFIX,ipify.org
   - DOMAIN-SUFFIX,icanhazip.com
   - DOMAIN-SUFFIX,ip.me
+  - DOMAIN-SUFFIX,ip6.me
   - DOMAIN-SUFFIX,ping.pe
   #- DOMAIN-SUFFIX,ipcelou.com
   # VPS服务商
