@@ -7,6 +7,7 @@ payload:
   # 银行机构
   - DOMAIN-SUFFIX,cardinalcommerce.com
   # 游戏软件
+  - DOMAIN-SUFFIX,raidga.com
   - DOMAIN-SUFFIX,51cywx.com
   - DOMAIN-SUFFIX,shuerwenhua.com
   - DOMAIN-SUFFIX,gmertc.com
