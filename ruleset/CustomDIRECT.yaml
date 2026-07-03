@@ -1,5 +1,8 @@
 # NAME: Developer
 payload:
+  # 雷速体育
+  - DOMAIN-SUFFIX,namitiyu.com
+  - DOMAIN-SUFFIX,kantai8.com
   # 洛雪音乐
   #- DOMAIN-SUFFIX,onrender.com
   #- DOMAIN-SUFFIX,awaw.cc
