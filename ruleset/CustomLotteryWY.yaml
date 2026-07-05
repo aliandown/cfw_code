@@ -170,14 +170,6 @@ payload:
   - DOMAIN-SUFFIX,letarrow.com
   - DOMAIN-SUFFIX,titan007.com
   - DOMAIN-SUFFIX,static007.com
-  # 星星体育
-  - DOMAIN-SUFFIX,scoreapis.com
-  - DOMAIN-SUFFIX,xingxingtiyu.com
-  # 雷速体育
-  #- DOMAIN-SUFFIX,namitiyu.com
-  #- DOMAIN-SUFFIX,kantai8.com
-  # DS足球
-  - DOMAIN-SUFFIX,dszuqiu.com
   # 皇冠网址动画图型CND解析
   - DOMAIN-SUFFIX,hgapp0001.com
   - DOMAIN-SUFFIX,hgapp0002.com
