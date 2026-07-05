@@ -191,6 +191,7 @@ payload:
   - DOMAIN-SUFFIX,imgarena.com
   - DOMAIN-SUFFIX,performfeeds.com
   - DOMAIN,gls.liveplugins.com
+  - DOMAIN-SUFFIX,cloudfront.net
   # 皇冠网址下载程序
   - DOMAIN-SUFFIX,sportradar.com
   - DOMAIN-SUFFIX,niab12345.com
