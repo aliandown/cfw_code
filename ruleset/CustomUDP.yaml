@@ -1,3 +1,6 @@
 payload:
+  # 雷速体育
+  - DOMAIN-SUFFIX,namitiyu.com
+  - DOMAIN-SUFFIX,kantai8.com
   # 网易游戏
   - DOMAIN-SUFFIX,netease.com
