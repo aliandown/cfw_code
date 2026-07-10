@@ -1,7 +1,4 @@
 payload:
-  # 雷速体育
-  - DOMAIN-SUFFIX,namitiyu.com
-  - DOMAIN-SUFFIX,kantai8.com
   # 其他视频
   - DOMAIN-SUFFIX,pornhub.com
   - DOMAIN-SUFFIX,xhamster.com
