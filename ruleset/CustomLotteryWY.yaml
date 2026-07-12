@@ -6,6 +6,9 @@ payload:
   # 纳米体育数据平台
   - DOMAIN-SUFFIX,nami.com
   - DOMAIN-SUFFIX,sportnanoapi.com
+  # kaiyun
+  - DOMAIN-SUFFIX,kaiyun.com
+  - DOMAIN-KEYWORD,kaiyun
   # 乐思体育
   - DOMAIN-KEYWORD,lesi*.vip
   # 开云体育
