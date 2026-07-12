@@ -25,6 +25,7 @@ payload:
   - DOMAIN-SUFFIX,ffzy-plays.com
   - DOMAIN-SUFFIX,ffeiimg.com
   - DOMAIN-SUFFIX,dyttimage.com
+  - DOMAIN-SUFFIX,ry-pic.com
   # 银行机构
   - DOMAIN-SUFFIX,cardinalcommerce.com
   # 游戏软件
