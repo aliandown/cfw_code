@@ -31,9 +31,6 @@ payload:
   # esball
   - DOMAIN-SUFFIX,esball.com
   - DOMAIN-KEYWORD,esball
-  # kaiyun
-  - DOMAIN-SUFFIX,kaiyun.com
-  - DOMAIN-KEYWORD,kaiyun
   # betway
   - DOMAIN-SUFFIX,betway.com
   - DOMAIN-SUFFIX,betway88.com
