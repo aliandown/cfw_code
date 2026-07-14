@@ -1,4 +1,11 @@
 payload:
+  # 867直播
+  - DOMAIN-SUFFIX,ncctrials.com
+  - DOMAIN-SUFFIX,codepojo.com
+  - DOMAIN-SUFFIX,pnpgb.com
+  - DOMAIN-SUFFIX,yyzb2288.com
+  - DOMAIN-SUFFIX,857zb41.com
+  - DOMAIN-KEYWORD,857zb
   # 乐球体育
   - DOMAIN-KEYWORD,leqiu
   - DOMAIN-KEYWORD,lq0
