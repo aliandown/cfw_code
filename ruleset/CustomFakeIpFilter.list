@@ -201,6 +201,7 @@ local.adguard.org
 # 国内门户网站
 +.meituan.net
 # 国外门户网站
++.itunes.apple.com
 +.mail.me.com
 #+.bing.com
 +.office365.com
