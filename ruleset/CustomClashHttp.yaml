@@ -1,3 +1,13 @@
 payload:
-  # 加快解析
-  - DOMAIN-SUFFIX,elevenfamilies.com
+  # 雷速体育
+  - DOMAIN-SUFFIX,namitiyu.com
+  - DOMAIN-SUFFIX,kantai8.com
+  # 新球体育
+  - DOMAIN-SUFFIX,letarrow.com
+  - DOMAIN-SUFFIX,titan007.com
+  - DOMAIN-SUFFIX,static007.com
+  # 星星体育
+  - DOMAIN-SUFFIX,scoreapis.com
+  - DOMAIN-SUFFIX,xingxingtiyu.com
+  # DS足球
+  - DOMAIN-SUFFIX,dszuqiu.com
