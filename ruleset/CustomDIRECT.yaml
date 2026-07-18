@@ -89,7 +89,7 @@ payload:
   #- DOMAIN-SUFFIX,builtwith.com
   # IP查询网站
   - DOMAIN-SUFFIX,ident.me
-  - DOMAIN-SUFFIX,ipify.org
+  #- DOMAIN-SUFFIX,ipify.org
   - DOMAIN-SUFFIX,icanhazip.com
   - DOMAIN-SUFFIX,ip.me
   - DOMAIN-SUFFIX,ip6.me
