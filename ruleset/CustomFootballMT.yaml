@@ -1,7 +1,11 @@
 # NAME: Developer
 # REPO: https://github.com/blackmatrix7/ios_rule_script
 payload:
-# 1XBET
+  # 1XBET网址
+  #- DOMAIN-SUFFIX,1xlite-152661.top
+  #- DOMAIN-SUFFIX,1xbet.com
+  #- DOMAIN-KEYWORD,1xbet
+  # 1XBET
   - DOMAIN-SUFFIX,1xbet.com
   - DOMAIN-SUFFIX,cdnafric.com
   - DOMAIN-SUFFIX,traincdn.com
