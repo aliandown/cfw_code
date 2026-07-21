@@ -11,3 +11,24 @@ payload:
   - DOMAIN-SUFFIX,xingxingtiyu.com
   # DS足球
   - DOMAIN-SUFFIX,dszuqiu.com
+  # IP查询网站
+  - DOMAIN-SUFFIX,ident.me
+  #- DOMAIN-SUFFIX,ipify.org
+  - DOMAIN-SUFFIX,icanhazip.com
+  - DOMAIN-SUFFIX,ip.me
+  - DOMAIN-SUFFIX,ip6.me
+  - DOMAIN-SUFFIX,ping.pe
+  #- DOMAIN-SUFFIX,ipcelou.com
+  # 域名管理
+  - DOMAIN-KEYWORD,dynv6
+  - DOMAIN-SUFFIX,dyndns.com
+  - DOMAIN-SUFFIX,dynv6.com
+  - DOMAIN-SUFFIX,dyn.com
+  # 个人域名管理
+  #- DOMAIN-KEYWORD,elevenfamilies
+  #- DOMAIN-KEYWORD,elevengroup
+  #- DOMAIN-KEYWORD,eleventrade
+  # 联通性测速地址
+  #- DOMAIN-SUFFIX,gstatic.com
+  # 查询所有使用Cloudflare的网站
+  #- DOMAIN-SUFFIX,builtwith.com
