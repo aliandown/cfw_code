@@ -73,33 +73,8 @@ payload:
   - DOMAIN,proxy2.wynd.network
   # termius SSH
   - DOMAIN-SUFFIX,termius.com
-  # 查询所有使用Cloudflare的网站
-  #- DOMAIN-SUFFIX,builtwith.com
-  # IP查询网站
-  - DOMAIN-SUFFIX,ident.me
-  #- DOMAIN-SUFFIX,ipify.org
-  - DOMAIN-SUFFIX,icanhazip.com
-  - DOMAIN-SUFFIX,ip.me
-  - DOMAIN-SUFFIX,ip6.me
-  - DOMAIN-SUFFIX,ping.pe
-  #- DOMAIN-SUFFIX,ipcelou.com
   # VPS服务商
   - DOMAIN-SUFFIX,linode.com
-  # 域名管理
-  - DOMAIN-KEYWORD,dynv6
-  - DOMAIN-SUFFIX,dyndns.com
-  - DOMAIN-SUFFIX,dynv6.com
-  - DOMAIN-SUFFIX,dyn.com
-  # 个人域名管理
-  #- DOMAIN-KEYWORD,elevenfamilies
-  #- DOMAIN-KEYWORD,elevengroup
-  #- DOMAIN-KEYWORD,eleventrade
-  # 联通性测速地址
-  #- DOMAIN-SUFFIX,gstatic.com
-  # 1XBET网址
-  #- DOMAIN-SUFFIX,1xlite-152661.top
-  #- DOMAIN-SUFFIX,1xbet.com
-  #- DOMAIN-KEYWORD,1xbet
   # 微软网址
   - DOMAIN-KEYWORD,-msedge.net
   #- DOMAIN-SUFFIX,live.com
