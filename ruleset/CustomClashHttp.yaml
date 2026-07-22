@@ -2,6 +2,7 @@ payload:
   # 雷速体育
   - DOMAIN-SUFFIX,namitiyu.com
   - DOMAIN-SUFFIX,kantai8.com
+  - DOMAIN-SUFFIX,alikunlun.net
   # 新球体育
   - DOMAIN-SUFFIX,letarrow.com
   - DOMAIN-SUFFIX,titan007.com
