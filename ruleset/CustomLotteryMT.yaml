@@ -38,6 +38,12 @@ payload:
   - DOMAIN-KEYWORD,.jiaoict
   - DOMAIN-KEYWORD,dqiu.
   - DOMAIN-KEYWORD,.dq
+  - DOMAIN-KEYWORD,.wentian
+  - DOMAIN-KEYWORD,.quming
+  - DOMAIN-KEYWORD,.zuoyou
+  - DOMAIN-KEYWORD,.ilzzg
+  - DOMAIN-KEYWORD,.cymx
+  - DOMAIN-KEYWORD,.kgkg
   - DOMAIN-SUFFIX,bengvet.com
   - DOMAIN-SUFFIX,wdieijv.com
   - DOMAIN-SUFFIX,yrcmza.com
