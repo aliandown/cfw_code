@@ -34,6 +34,7 @@ payload:
   - DOMAIN,collection.rong-edge.com
   #- DOMAIN-SUFFIX,dutils.com
   # 斗球
+  wkan.net
   - DOMAIN-KEYWORD,.yaokun
   - DOMAIN-KEYWORD,.jiaoict
   - DOMAIN-KEYWORD,dqiu.
@@ -44,12 +45,21 @@ payload:
   - DOMAIN-KEYWORD,.ilzzg
   - DOMAIN-KEYWORD,.cymx
   - DOMAIN-KEYWORD,.kgkg
-  - DOMAIN-SUFFIX,bengvet.com
-  - DOMAIN-SUFFIX,wdieijv.com
-  - DOMAIN-SUFFIX,yrcmza.com
-  - DOMAIN-SUFFIX,vdsbqjz.com
-  - DOMAIN-SUFFIX,0xlo0p.com
-  - DOMAIN-SUFFIX,qaffvz.com
-  - DOMAIN-SUFFIX,zczlxxkj.com
-  - DOMAIN-SUFFIX,kanyunshi.com
+  - DOMAIN-KEYWORD,tsjtdfoods
+  - DOMAIN-KEYWORD,cxletkhtl
+  - DOMAIN-KEYWORD,bengvet
+  - DOMAIN-KEYWORD,wdieijv
+  - DOMAIN-KEYWORD,yrcmza
+  - DOMAIN-KEYWORD,vdsbqjz
+  - DOMAIN-KEYWORD,0xlo0p
+  - DOMAIN-KEYWORD,qaffvz
+  - DOMAIN-KEYWORD,zczlxxkj
+  - DOMAIN-KEYWORD,kanyunshi
+  - DOMAIN-SUFFIX,klintbmvj.com
+  - DOMAIN-SUFFIX,aicoin.com
+  - DOMAIN-SUFFIX,kxyz.eu.org
+  - DOMAIN-SUFFIX,clickasnap.com
+  - DOMAIN-SUFFIX,like4like.org
+  - DOMAIN-SUFFIX,mixkit.cc
+  - DOMAIN-SUFFIX,meiguodizhi.com
   - DOMAIN,mlvbdc.live.qcloud.com
