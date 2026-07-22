@@ -33,10 +33,13 @@ payload:
   - DOMAIN,cloudcontrol.rong-edge.com
   - DOMAIN,collection.rong-edge.com
   #- DOMAIN-SUFFIX,dutils.com
-  - DOMAIN-SUFFIX,jiaoict.com
+  # 斗球
+  - DOMAIN-KEYWORD,.yaokun
+  - DOMAIN-KEYWORD,.jiaoict
+  - DOMAIN-KEYWORD,dqiu.
+  - DOMAIN-KEYWORD,.dq
   - DOMAIN-SUFFIX,bengvet.com
   - DOMAIN-SUFFIX,wdieijv.com
-  - DOMAIN-SUFFIX,dq87774.com
   - DOMAIN-SUFFIX,yrcmza.com
   - DOMAIN-SUFFIX,vdsbqjz.com
   - DOMAIN-SUFFIX,0xlo0p.com
