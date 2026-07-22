@@ -1,4 +1,6 @@
 payload:
+  # 7live直播
+  - DOMAIN-KEYWORD,.7zb
   # 867直播
   - DOMAIN-SUFFIX,ncctrials.com
   - DOMAIN-SUFFIX,codepojo.com
