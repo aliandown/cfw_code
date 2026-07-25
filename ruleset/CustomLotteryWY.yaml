@@ -12,6 +12,11 @@ payload:
   # 乐思体育
   - DOMAIN-KEYWORD,lesi*.vip
   # 开云体育
+  - DOMAIN-SUFFIX,mr5mb5.com
+  - DOMAIN-SUFFIX,3sk0k.com
+  - DOMAIN-SUFFIX,owb3g9.com
+  - DOMAIN-SUFFIX,ubelkw.com
+  - DOMAIN-SUFFIX,ijynet.com
   - DOMAIN-SUFFIX,22nksz.com
   - DOMAIN-SUFFIX,09aqdh.vip
   - DOMAIN-SUFFIX,livehwc4.com
