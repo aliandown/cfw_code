@@ -12,6 +12,11 @@ payload:
   # 乐思体育
   - DOMAIN-KEYWORD,lesi*.vip
   # 开云体育
+  - DOMAIN-KEYWORD,obsp1.
+  - DOMAIN-KEYWORD,obsp2.
+  - DOMAIN-KEYWORD,obsp3.
+  - DOMAIN-KEYWORD,obsp4.
+  - DOMAIN-KEYWORD,obsp4.
   - DOMAIN-SUFFIX,y0log01.com
   - DOMAIN-SUFFIX,qwev9mug.com
   - DOMAIN-SUFFIX,mdoy1v.com
