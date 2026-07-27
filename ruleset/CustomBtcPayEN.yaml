@@ -37,11 +37,12 @@ payload:
   - DOMAIN-SUFFIX,binance.vision
   # 欧易加密交易所
   - DOMAIN-KEYWORD,okx
+  - DOMAIN-KEYWORD,byteplus
   - DOMAIN-SUFFIX,okx.com
+  - DOMAIN-SUFFIX,cwszcg.com
+  - DOMAIN-SUFFIX,cnouyi.pizza
   - DOMAIN-SUFFIX,onesignal.com
   - DOMAIN-SUFFIX,rtcplus.com
-  - DOMAIN-SUFFIX,byteplusapi.com
-  - DOMAIN-SUFFIX,bytepluscdn.com
   - DOMAIN-SUFFIX,zylj1cf.com
   - DOMAIN,api.lab.amplitude.com
   # BYBIT加密交易所
