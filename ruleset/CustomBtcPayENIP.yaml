@@ -13,3 +13,4 @@ payload:
   # 币安加密交易所
   - IP-CIDR,13.192.105.128/32,no-resolve
   - IP-CIDR,54.65.161.3/32,no-resolve
+  - IP-CIDR,52.198.187.114/32,no-resolve
