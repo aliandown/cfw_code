@@ -22,6 +22,7 @@ payload:
   - DOMAIN-SUFFIX,180xxww.com
   # 币安加密交易所
   - DOMAIN-KEYWORD,binance
+  - DOMAIN-KEYWORD,asterdex
   - DOMAIN-SUFFIX,binance.com
   - DOMAIN-SUFFIX,binance.me
   - DOMAIN-SUFFIX,binance.top
@@ -35,6 +36,7 @@ payload:
   - DOMAIN-SUFFIX,bntrace.com
   - DOMAIN-SUFFIX,walletconnect.org
   - DOMAIN-SUFFIX,binance.vision
+  - DOMAIN,dquery.sintral.me
   - DOMAIN,zftksc.cdn-settings.appsflyersdk.com
   - DOMAIN,zftksc.launches.appsflyersdk.com
   - DOMAIN,o529943.ingest.us.sentry.io
