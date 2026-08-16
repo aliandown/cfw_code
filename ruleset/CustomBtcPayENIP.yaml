@@ -10,3 +10,6 @@ payload:
   # 欧易加密交易所
   - IP-CIDR,47.242.92.56/32,no-resolve
   - IP-CIDR,8.210.73.205/32,no-resolve
+  # 币安加密交易所
+  - IP-CIDR,13.192.105.128/32,no-resolve
+  - IP-CIDR,54.65.161.3/32,no-resolve
