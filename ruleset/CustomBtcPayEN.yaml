@@ -77,3 +77,6 @@ payload:
   - DOMAIN,m3ond3.launches.appsflyersdk.com
   - DOMAIN,m3ond3.inapps.appsflyersdk.com
   - DOMAIN,m3ond3.cdn-settings.appsflyersdk.com
+  - DOMAIN,m3ond3.cdn-settings.appsflyersdk.com
+  - DOMAIN,m3ond3.inapps.appsflyersdk.com
+  - DOMAIN,m3ond3.launches.appsflyersdk.com
