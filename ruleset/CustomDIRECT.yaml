@@ -1,5 +1,7 @@
 # NAME: Developer
 payload:
+  # 家宽解析
+  - DOMAIN-SUFFIX,87638756.xyz
   # 洛雪音乐
   #- DOMAIN-SUFFIX,onrender.com
   #- DOMAIN-SUFFIX,awaw.cc
