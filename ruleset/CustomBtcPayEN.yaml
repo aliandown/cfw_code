@@ -35,6 +35,9 @@ payload:
   - DOMAIN-SUFFIX,bntrace.com
   - DOMAIN-SUFFIX,walletconnect.org
   - DOMAIN-SUFFIX,binance.vision
+  - DOMAIN,zftksc.cdn-settings.appsflyersdk.com
+  - DOMAIN,zftksc.launches.appsflyersdk.com
+  - DOMAIN,o529943.ingest.us.sentry.io
   # 欧易加密交易所
   - DOMAIN-KEYWORD,okx
   - DOMAIN-KEYWORD,byteplus
