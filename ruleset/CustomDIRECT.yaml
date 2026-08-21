@@ -6,19 +6,6 @@ payload:
   #- DOMAIN-SUFFIX,onrender.com
   #- DOMAIN-SUFFIX,awaw.cc
   #- DOMAIN-SUFFIX,akams.cn
-  # kvideo
-  - DOMAIN-SUFFIX,bdzyimg1.com
-  - DOMAIN-SUFFIX,ukuapi88.com
-  - DOMAIN-SUFFIX,zuidapic.com
-  - DOMAIN-SUFFIX,zuidazym3u8.com
-  - DOMAIN-SUFFIX,ynztctv.com
-  #- DOMAIN-SUFFIX,ffzy-plays.com
-  - DOMAIN-SUFFIX,ffeiimg.com
-  - DOMAIN-SUFFIX,dyttimage.com
-  - DOMAIN-SUFFIX,ry-pic.com
-  - DOMAIN-SUFFIX,qwe132456.cc
-  - DOMAIN-SUFFIX,rrcdnbf6.com
-  - DOMAIN-SUFFIX,ddmf.net
   # 银行机构
   - DOMAIN-SUFFIX,cardinalcommerce.com
   # 游戏软件
