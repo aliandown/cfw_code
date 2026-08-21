@@ -1,6 +1,35 @@
 payload:
   # kvideo
+  - DOMAIN-SUFFIX,bdzyimg1.com
+  - DOMAIN-SUFFIX,ukuapi88.com
+  - DOMAIN-SUFFIX,zuidapic.com
+  - DOMAIN-SUFFIX,zuidazym3u8.com
+  - DOMAIN-SUFFIX,ynztctv.com
+  #- DOMAIN-SUFFIX,ffzy-plays.com
+  - DOMAIN-SUFFIX,ffeiimg.com
+  - DOMAIN-SUFFIX,dyttimage.com
+  - DOMAIN-SUFFIX,ry-pic.com
+  - DOMAIN-SUFFIX,qwe132456.cc
+  - DOMAIN-SUFFIX,rrcdnbf6.com
+  - DOMAIN-SUFFIX,ddmf.net
+  # 饭太硬
   - DOMAIN-SUFFIX,ffzy-plays.com
+  - DOMAIN-SUFFIX,dyttzyapi.com
+  - DOMAIN-SUFFIX,fun
+  - DOMAIN-SUFFIX,xb6v.com
+  - DOMAIN-SUFFIX,muou.site
+  - DOMAIN-SUFFIX,miqk.cc
+  - DOMAIN-SUFFIX,hkybqufgh.com
+  - DOMAIN-SUFFIX,gugu3.com
+  - DOMAIN-SUFFIX,bttwo.life
+  - DOMAIN-SUFFIX,aeete.com
+  - DOMAIN-SUFFIX,252035.xyz
+  - DOMAIN-SUFFIX,shmjnd.com
+  - DOMAIN-SUFFIX,stxbed.com
+  - DOMAIN-SUFFIX,dyttzyapi.com:80
+  - DOMAIN-SUFFIX,95112475.xyz
+  - DOMAIN-SUFFIX,nbyjson.top:7788
+  - DOMAIN-SUFFIX,gjjwgp3n.com
   # 7live直播
   - DOMAIN-KEYWORD,7zb
   - DOMAIN-KEYWORD,7zb0
