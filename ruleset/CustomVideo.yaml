@@ -1,8 +1,6 @@
 payload:
   # 加速暗影传说下载
   - DOMAIN,cdn-gcp.x-plarium.com
-  # kvideo
-  - DOMAIN-SUFFIX,ffzy-plays.com
   # 其他视频
   - DOMAIN-SUFFIX,pornhub.com
   - DOMAIN-SUFFIX,xhamster.com
