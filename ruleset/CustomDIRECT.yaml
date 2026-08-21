@@ -12,7 +12,7 @@ payload:
   - DOMAIN-SUFFIX,zuidapic.com
   - DOMAIN-SUFFIX,zuidazym3u8.com
   - DOMAIN-SUFFIX,ynztctv.com
-  - DOMAIN-SUFFIX,ffzy-plays.com
+  #- DOMAIN-SUFFIX,ffzy-plays.com
   - DOMAIN-SUFFIX,ffeiimg.com
   - DOMAIN-SUFFIX,dyttimage.com
   - DOMAIN-SUFFIX,ry-pic.com
