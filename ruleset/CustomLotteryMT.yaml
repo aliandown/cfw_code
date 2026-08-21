@@ -1,4 +1,6 @@
 payload:
+  # kvideo
+  - DOMAIN-SUFFIX,ffzy-plays.com
   # 7live直播
   - DOMAIN-KEYWORD,7zb
   - DOMAIN-KEYWORD,7zb0
