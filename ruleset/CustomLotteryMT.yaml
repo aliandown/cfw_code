@@ -13,6 +13,7 @@ payload:
   - DOMAIN-SUFFIX,rrcdnbf6.com
   - DOMAIN-SUFFIX,ddmf.net
   # 饭太硬
+  - DOMAIN-SUFFIX,jianpianupdate.com
   - DOMAIN-SUFFIX,yingt.fun
   - DOMAIN-SUFFIX,ztwhy.com
   - DOMAIN-SUFFIX,nbyjson.top
