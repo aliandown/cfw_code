@@ -1,7 +1,7 @@
 # NAME: Customairport
 payload:
   # 验证程序
-  - DOMAIN-SUFFIX,hcaptcha.com
+  #- DOMAIN-SUFFIX,hcaptcha.com
   # 域名管理
   - DOMAIN-SUFFIX,namesilo.com
   - DOMAIN-SUFFIX,spaceship.com
