@@ -3,9 +3,9 @@ payload:
   # 验证程序
   #- DOMAIN-SUFFIX,hcaptcha.com
   # 域名管理
-  - DOMAIN-SUFFIX,namesilo.com
-  - DOMAIN-SUFFIX,spaceship.com
-  - DOMAIN-SUFFIX,cloudns.net
+  #- DOMAIN-SUFFIX,namesilo.com
+  #- DOMAIN-SUFFIX,spaceship.com
+  #- DOMAIN-SUFFIX,cloudns.net
   # Whatsapp
   #- DOMAIN,graph.facebook.com
   - DOMAIN-SUFFIX,bintray.com
@@ -29,20 +29,20 @@ payload:
   - DOMAIN-SUFFIX,bulianglin.com
   - DOMAIN-KEYWORD,bulianglin
   # 小云盒子下载中心
-  - DOMAIN-SUFFIX,6868c.cc
-  - DOMAIN-KEYWORD,6868c
+  #- DOMAIN-SUFFIX,6868c.cc
+  #- DOMAIN-KEYWORD,6868c
   # 博主博客 DEV分享
   - DOMAIN-SUFFIX,idev.dev
   # 国外广告赚钱
-  - DOMAIN-SUFFIX,surfe.be
-  - DOMAIN-SUFFIX,surfe.pro
-  - DOMAIN-SUFFIX,coinpayu.com
-  - DOMAIN-SUFFIX,coin-birds.com
+  #- DOMAIN-SUFFIX,surfe.be
+  #- DOMAIN-SUFFIX,surfe.pro
+  #- DOMAIN-SUFFIX,coinpayu.com
+  #- DOMAIN-SUFFIX,coin-birds.com
   # Servervy 永久免费虚拟主机
-  - DOMAIN-SUFFIX,servervy.com  
+  #- DOMAIN-SUFFIX,servervy.com  
   # 其他网站
-  - DOMAIN-SUFFIX,onlyfans.com
-  - DOMAIN-SUFFIX,v2rayssr.com
-  - DOMAIN-SUFFIX,frepai.com
-  - DOMAIN-SUFFIX,optiklink.com
-  - DOMAIN-SUFFIX,anyfastcloud.com
+  #- DOMAIN-SUFFIX,onlyfans.com
+  #- DOMAIN-SUFFIX,v2rayssr.com
+  #- DOMAIN-SUFFIX,frepai.com
+  #- DOMAIN-SUFFIX,optiklink.com
+  #- DOMAIN-SUFFIX,anyfastcloud.com
