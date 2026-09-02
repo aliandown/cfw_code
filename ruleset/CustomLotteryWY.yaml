@@ -18,11 +18,12 @@ payload:
   - DOMAIN-KEYWORD,obsp4.
   - DOMAIN-KEYWORD,obsp4.
   - DOMAIN,download.igpaoj.com
-  - DOMAIN-KEYWORD,qwe5q4zr.com
-  - DOMAIN-KEYWORD,p1m2x0.vip
-  - DOMAIN-KEYWORD,jumpcdn.net
-  - DOMAIN-KEYWORD,jv6ch6.vip
-  - DOMAIN-KEYWORD,kookeey.com
+  - DOMAIN-SUFFIX,,qwe5q4zr.com
+  - DOMAIN-SUFFIX,p1m2x0.vip
+  - DOMAIN-SUFFIX,jumpcdn.net
+  - DOMAIN-SUFFIX,jv6ch6.vip
+  - DOMAIN-SUFFIX,kookeey.com
+  - DOMAIN-SUFFIX,koyhdv.com
   - DOMAIN-SUFFIX,888fukang.com
   - DOMAIN-SUFFIX,05exv4.vip
   - DOMAIN-SUFFIX,fbs90s.vip
