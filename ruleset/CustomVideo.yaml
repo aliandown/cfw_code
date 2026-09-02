@@ -31,6 +31,7 @@ payload:
   - DOMAIN-SUFFIX,dmm.co.jp
   - DOMAIN-SUFFIX,googlie.vip
   # bestjavporn.com
+  - DOMAIN-SUFFIX,jwpcdn.com
   - DOMAIN-SUFFIX,knock.app
   - DOMAIN-SUFFIX,jdbstatic.com
   - DOMAIN-SUFFIX,1024cdn.sx
