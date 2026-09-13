@@ -230,6 +230,16 @@ smtp.mail.10086.cn
 +.ip.me
 +.ip6.me
 +.dyndns.com
+# 测试连通性
++.gstatic.com
++.google-analytics.com
+cp.cloudflare.com
+connect.rom.miui.com
+connectivitycheck.platform.hicloud.com
+connectivitycheck.gstatic.com
+wifi.vivo.com.cn
+detectportal.firefox.com
+www.msftconnecttest.com
 # 雷速体育
 +.namitiyu.com
 +.kantai8.com
