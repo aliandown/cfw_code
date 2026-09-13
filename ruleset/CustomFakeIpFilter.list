@@ -231,8 +231,8 @@ smtp.mail.10086.cn
 +.ip6.me
 +.dyndns.com
 # 测试连通性
-+.gstatic.com
 +.google-analytics.com
+connectivitycheck.gstatic.com
 cp.cloudflare.com
 connect.rom.miui.com
 connectivitycheck.platform.hicloud.com
