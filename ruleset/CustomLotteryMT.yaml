@@ -1,4 +1,6 @@
 payload:
+  # 游戏解析
+  - DOMAIN,cdn-gpd.x-plarium.com
   # kvideo
   - DOMAIN-SUFFIX,bdzyimg1.com
   - DOMAIN-SUFFIX,ukuapi88.com
