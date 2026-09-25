@@ -1,5 +1,7 @@
 # NAME: Developer
 payload:
+  # 游戏解析
+  - DOMAIN,cdn-gpd.x-plarium.com
   # 家宽解析
   - DOMAIN-SUFFIX,87638756.xyz
   # 测试连通性
