@@ -3,5 +3,5 @@ payload:
   - DOMAIN-SUFFIX,gateio.ws
   - DOMAIN-SUFFIX,public-pool.io
   - DOMAIN-SUFFIX,tazmining.ch
-  - DOMAIN-SUFFIX,cn.pool.ntp.org
+  #- DOMAIN-SUFFIX,cn.pool.ntp.org
   - IP-CIDR,38.51.144.240/32,no-resolve
