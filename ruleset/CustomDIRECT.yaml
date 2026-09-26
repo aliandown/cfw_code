@@ -1,17 +1,5 @@
 # NAME: Developer
 payload:
-  # 家宽解析
-  - DOMAIN-SUFFIX,87638756.xyz
-  # 测试连通性
-  - DOMAIN-SUFFIX,google-analytics.com
-  - DOMAIN,connectivitycheck.gstatic.com
-  - DOMAIN,cp.cloudflare.com
-  - DOMAIN,connect.rom.miui.com
-  - DOMAIN,connectivitycheck.platform.hicloud.com
-  - DOMAIN,connectivitycheck.gstatic.com
-  - DOMAIN,wifi.vivo.com.cn
-  - DOMAIN,detectportal.firefox.com
-  - DOMAIN,www.msftconnecttest.com
   # 洛雪音乐
   #- DOMAIN-SUFFIX,onrender.com
   #- DOMAIN-SUFFIX,awaw.cc
