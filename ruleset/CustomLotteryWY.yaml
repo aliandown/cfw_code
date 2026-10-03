@@ -7,7 +7,8 @@ payload:
   - DOMAIN-SUFFIX,nami.com
   - DOMAIN-SUFFIX,sportnanoapi.com
   # 乐思体育
-  - DOMAIN-REGEX,^.*lesi.*\.(vip|cn|com)$
+  #- DOMAIN-REGEX,^.*lesi.*\.(vip|cn|com)$
+  - DOMAIN-KEYWORD,.lesi
   # 开云体育
   #- DOMAIN-REGEX,^.*obsp([1-19]|20).*$
   #- DOMAIN-REGEX,^.*\.tuyo..\.*$
