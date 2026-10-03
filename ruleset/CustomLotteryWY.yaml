@@ -9,11 +9,7 @@ payload:
   # 乐思体育
   - DOMAIN-KEYWORD,lesi*.vip
   # 开云体育
-  - DOMAIN-KEYWORD,obsp1.
-  - DOMAIN-KEYWORD,obsp2.
-  - DOMAIN-KEYWORD,obsp3.
-  - DOMAIN-KEYWORD,obsp4.
-  - DOMAIN-KEYWORD,obsp4.
+  - DOMAIN-REGEX,^.*obsp([1-19]|20).*$
   - DOMAIN-KEYWORD,ky.
   - DOMAIN-KEYWORD,kaiyun
   - DOMAIN,download.igpaoj.com
