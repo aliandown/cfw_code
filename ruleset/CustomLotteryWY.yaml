@@ -9,8 +9,10 @@ payload:
   # 乐思体育
   - DOMAIN-REGEX,^.*lesi.*\.(vip|cn|com)$
   # 开云体育
-  - DOMAIN-REGEX,^.*obsp([1-19]|20).*$
-  - DOMAIN-REGEX,^.*\.tuyo..\.*$
+  #- DOMAIN-REGEX,^.*obsp([1-19]|20).*$
+  #- DOMAIN-REGEX,^.*\.tuyo..\.*$
+  - DOMAIN-KEYWORD,.obsp
+  - DOMAIN-KEYWORD,.tuyo
   - DOMAIN-KEYWORD,ky.
   - DOMAIN-KEYWORD,kaiyun
   - DOMAIN,download.igpaoj.com
