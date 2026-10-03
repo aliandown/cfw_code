@@ -7,14 +7,18 @@ payload:
   - DOMAIN-SUFFIX,nami.com
   - DOMAIN-SUFFIX,sportnanoapi.com
   # 乐思体育
-  - DOMAIN-KEYWORD,lesi*.vip
+  - DOMAIN-REGEX,^.*lesi.*\.(vip|cn|com)$
   # 开云体育
   - DOMAIN-REGEX,^.*obsp([1-19]|20).*$
+  - DOMAIN-REGEX,^.*\.tuyo..\.*$
   - DOMAIN-KEYWORD,ky.
   - DOMAIN-KEYWORD,kaiyun
   - DOMAIN,download.igpaoj.com
   - DOMAIN-KEYWORD,.qwe
   - DOMAIN-KEYWORD,.aj0
+  - DOMAIN-SUFFIX,0ljbek.com
+  - DOMAIN-SUFFIX,jy-kexin.com
+  - DOMAIN-SUFFIX,dnnzyn.vip
   - DOMAIN-SUFFIX,znxiq5.vip
   - DOMAIN-SUFFIX,toponad.com
   - DOMAIN-SUFFIX,luanzenhf.com
