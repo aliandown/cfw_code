@@ -1,4 +1,13 @@
 payload:
+  # 阅妹阁
+  - DOMAIN-SUFFIX,korey0sh1.com
+  - DOMAIN-SUFFIX,quanyuanhj.com
+  - DOMAIN-SUFFIX,jinkangyl.com
+  - DOMAIN-SUFFIX,mtkeji66.com
+  - DOMAIN-SUFFIX,quanyuanhj.com
+  - DOMAIN-SUFFIX,cwhhome.com
+  - DOMAIN-KEYWORD,77b.xn--
+  - DOMAIN-KEYWORD,77bo.xn--
   # 游戏解析
   - DOMAIN,cdn-gpd.x-plarium.com
   # kvideo
