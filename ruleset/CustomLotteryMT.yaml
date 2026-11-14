@@ -9,8 +9,6 @@ payload:
   - DOMAIN-SUFFIX,zztcaigou.com
   - DOMAIN-KEYWORD,77b.xn--
   - DOMAIN-KEYWORD,77bo.xn--
-  # 游戏解析
-  - DOMAIN,cdn-gpd.x-plarium.com
   # kvideo
   - DOMAIN-SUFFIX,bdzyimg1.com
   - DOMAIN-SUFFIX,ukuapi88.com
