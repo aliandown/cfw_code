@@ -3,6 +3,8 @@ payload:
   - IP-CIDR,20.6.91.0/24,no-resolve
   - IP-CIDR,172.188.25.0/24,no-resolve
   - IP-CIDR,4.145.98.0/24,no-resolve
+  # 游戏解析
+  - DOMAIN,cdn-gpd.x-plarium.com
   # Raid
   - DOMAIN-SUFFIX,raidshadowlegends.com
   - DOMAIN-SUFFIX,cloud.unity3d.com
