@@ -25,8 +25,8 @@ payload:
   #- DOMAIN-SUFFIX,protonvpn.com
   #- DOMAIN-SUFFIX,vbar.fun
   # 全球化网络安全与电子商务欺诈防范
-  - DOMAIN-SUFFIX,forter.com
-  - DOMAIN-SUFFIX,hsforms.net
+  - DOMAIN-KEYWORD,forter.
+  - DOMAIN-KEYWORD,hsforms.
   # 数据分析平台 以下解决部分域名规则分类
   - DOMAIN-SUFFIX,sentry.io
   - DOMAIN-SUFFIX,appsflyer.com
