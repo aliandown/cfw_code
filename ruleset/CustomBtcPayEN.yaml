@@ -30,7 +30,7 @@ payload:
   - DOMAIN-SUFFIX,bnbstatic.com
   - DOMAIN-SUFFIX,binance.cloud
   - DOMAIN-SUFFIX,bscdnweb.com
-  - DOMAIN-SUFFIX,forter.com
+  #- DOMAIN-SUFFIX,forter.com
   - DOMAIN-SUFFIX,online-metrix.net
   - DOMAIN-SUFFIX,saasexch.com
   - DOMAIN-SUFFIX,bntrace.com
