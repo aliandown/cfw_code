@@ -1,6 +1,8 @@
 payload:
+  # 所有的下载前娺转国内下载
+  - DOMAIN-KEYWORD,download.
   # 微软下载（谷歌转中国下载）
-  - DOMAIN-SUFFIX,software.download.prss.microsoft.com
+  - DOMAIN,software.download.prss.microsoft.com
   # APKpure
   - DOMAIN-SUFFIX,apkpure.com
   - DOMAIN-SUFFIX,winudf.com
