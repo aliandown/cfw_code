@@ -1,6 +1,7 @@
 payload:
   # 所有的下载前娺转国内下载
   - DOMAIN-KEYWORD,download.
+  - DOMAIN,assets.hellovmos.com
   # 微软下载（谷歌转中国下载）
   - DOMAIN,software.download.prss.microsoft.com
   # APKpure
